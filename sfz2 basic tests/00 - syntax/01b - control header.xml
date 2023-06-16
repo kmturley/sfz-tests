@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="key" value="c4" />
+</region>
+<control>
+	<opcode name="octave_offset" value="-1" />
+</control>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="key" value="c4" />
+</region>

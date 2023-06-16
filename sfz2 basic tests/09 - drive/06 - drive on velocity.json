@@ -1,0 +1,18 @@
+{
+  "region": {
+    "opcode": [
+      {
+        "@name": "sample",
+        "@value": "..\\..\\samples\\two tone.wav"
+      },
+      {
+        "@name": "loop_mode",
+        "@value": "loop_continuous"
+      },
+      {
+        "@name": "drive_shape_oncc131",
+        "@value": "100"
+      }
+    ]
+  }
+}

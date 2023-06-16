@@ -1,0 +1,38 @@
+{
+  "region": {
+    "opcode": [
+      {
+        "@name": "sample",
+        "@value": "..\\..\\samples\\mono silence.wav"
+      },
+      {
+        "@name": "loop_mode",
+        "@value": "loop_continuous"
+      },
+      {
+        "@name": "volume",
+        "@value": "-6"
+      },
+      {
+        "@name": "amp_veltrack",
+        "@value": "0"
+      },
+      {
+        "@name": "noise_level_oncc73",
+        "@value": "-48"
+      },
+      {
+        "@name": "lfo01_freq",
+        "@value": "2"
+      },
+      {
+        "@name": "lfo01_noiselevel",
+        "@value": "12"
+      },
+      {
+        "@name": "lfo01_noiselevel_oncc70",
+        "@value": "-12"
+      }
+    ]
+  }
+}

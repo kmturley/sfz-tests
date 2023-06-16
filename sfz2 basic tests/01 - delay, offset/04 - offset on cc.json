@@ -1,0 +1,14 @@
+{
+  "region": {
+    "opcode": [
+      {
+        "@name": "sample",
+        "@value": "..\\..\\samples\\sweep.wav"
+      },
+      {
+        "@name": "offset_oncc1",
+        "@value": "100000"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "region": {
+    "opcode": [
+      {
+        "@name": "sample",
+        "@value": "..\\..\\samples\\bd.wav"
+      },
+      {
+        "@name": "direction",
+        "@value": "reverse"
+      },
+      {
+        "@name": "offset",
+        "@value": "24307"
+      }
+    ]
+  }
+}

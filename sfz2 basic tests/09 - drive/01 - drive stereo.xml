@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\stereo 400 looped.wav" />
+	<opcode name="drive_shape" value="100" />
+	<opcode name="volume" value="-12" />
+</region>

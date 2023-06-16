@@ -1,0 +1,22 @@
+{
+  "region": {
+    "opcode": [
+      {
+        "@name": "sample",
+        "@value": "..\\..\\samples\\sweep.wav"
+      },
+      {
+        "@name": "volume",
+        "@value": "-6"
+      },
+      {
+        "@name": "loop_mode",
+        "@value": "one_shot"
+      },
+      {
+        "@name": "pitch_keytrack",
+        "@value": "0"
+      }
+    ]
+  }
+}

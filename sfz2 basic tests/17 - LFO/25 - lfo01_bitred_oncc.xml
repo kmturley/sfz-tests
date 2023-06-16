@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="loop_mode" value="loop_continuous" />
+	<opcode name="loop_start" value="12629" />
+	<opcode name="loop_end" value="56728" />
+	<opcode name="lfo01_freq" value="2" />
+	<opcode name="lfo01_bitred_oncc73" value="100" />
+	<opcode name="lfo01_bitred_oncc70" value="100" />
+	<opcode name="lfo01_bitred_smoothcc70" value="100" />
+	<opcode name="lfo01_bitred_oncc20" value="100" />
+	<opcode name="lfo01_bitred_stepcc20" value="51" />
+	<opcode name="lfo01_bitred_oncc21" value="100" />
+	<opcode name="lfo01_bitred_smoothcc21" value="1000" />
+	<opcode name="lfo01_bitred_oncc129" value="100" />
+	<opcode name="lfo01_bitred_smoothcc129" value="500" />
+</region>

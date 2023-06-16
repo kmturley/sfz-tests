@@ -1,0 +1,166 @@
+{
+  "region": {
+    "opcode": [
+      {
+        "@name": "sample",
+        "@value": "..\\..\\samples\\440.wav"
+      },
+      {
+        "@name": "loopstart",
+        "@value": "12629"
+      },
+      {
+        "@name": "loopend",
+        "@value": "56728"
+      },
+      {
+        "@name": "loopmode",
+        "@value": "loop_continuous"
+      },
+      {
+        "@name": "ampeg_release",
+        "@value": "40"
+      },
+      {
+        "@name": "eg01_points",
+        "@value": "10"
+      },
+      {
+        "@name": "eg01_loop",
+        "@value": "3"
+      },
+      {
+        "@name": "eg01_loop_shape",
+        "@value": "002.00000"
+      },
+      {
+        "@name": "eg01_sustain",
+        "@value": "6"
+      },
+      {
+        "@name": "eg01_time00",
+        "@value": "000.00000"
+      },
+      {
+        "@name": "eg01_level00",
+        "@value": "0.00000"
+      },
+      {
+        "@name": "eg01_shape00",
+        "@value": "002.00000"
+      },
+      {
+        "@name": "eg01_time01",
+        "@value": "000.20250"
+      },
+      {
+        "@name": "eg01_level01",
+        "@value": "0.86000"
+      },
+      {
+        "@name": "eg01_shape01",
+        "@value": "002.00000"
+      },
+      {
+        "@name": "eg01_time02",
+        "@value": "000.07500"
+      },
+      {
+        "@name": "eg01_level02",
+        "@value": "0.15000"
+      },
+      {
+        "@name": "eg01_shape02",
+        "@value": "002.00000"
+      },
+      {
+        "@name": "eg01_time03",
+        "@value": "000.17000"
+      },
+      {
+        "@name": "eg01_level03",
+        "@value": "0.53000"
+      },
+      {
+        "@name": "eg01_shape03",
+        "@value": "002.00000"
+      },
+      {
+        "@name": "eg01_time04",
+        "@value": "000.76250"
+      },
+      {
+        "@name": "eg01_level04",
+        "@value": "0.54000"
+      },
+      {
+        "@name": "eg01_shape04",
+        "@value": "002.00000"
+      },
+      {
+        "@name": "eg01_time05",
+        "@value": "000.78250"
+      },
+      {
+        "@name": "eg01_level05",
+        "@value": "0.78000"
+      },
+      {
+        "@name": "eg01_shape05",
+        "@value": "002.00000"
+      },
+      {
+        "@name": "eg01_time06",
+        "@value": "001.03750"
+      },
+      {
+        "@name": "eg01_level06",
+        "@value": "0.28000"
+      },
+      {
+        "@name": "eg01_shape06",
+        "@value": "002.00000"
+      },
+      {
+        "@name": "eg01_time07",
+        "@value": "001.22250"
+      },
+      {
+        "@name": "eg01_level07",
+        "@value": "0.23000"
+      },
+      {
+        "@name": "eg01_shape07",
+        "@value": "002.00000"
+      },
+      {
+        "@name": "eg01_time08",
+        "@value": "001.58750"
+      },
+      {
+        "@name": "eg01_level08",
+        "@value": "0.80000"
+      },
+      {
+        "@name": "eg01_shape08",
+        "@value": "002.00000"
+      },
+      {
+        "@name": "eg01_time09",
+        "@value": "002.35000"
+      },
+      {
+        "@name": "eg01_level09",
+        "@value": "0.00000"
+      },
+      {
+        "@name": "eg01_shape09",
+        "@value": "002.00000"
+      },
+      {
+        "@name": "eg01_pitch",
+        "@value": "2400"
+      }
+    ]
+  }
+}

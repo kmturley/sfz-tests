@@ -1,0 +1,18 @@
+{
+  "region": {
+    "opcode": [
+      {
+        "@name": "sample",
+        "@value": "..\\..\\samples\\stereo 400 looped.wav"
+      },
+      {
+        "@name": "drive_shape",
+        "@value": "100"
+      },
+      {
+        "@name": "volume",
+        "@value": "-12"
+      }
+    ]
+  }
+}

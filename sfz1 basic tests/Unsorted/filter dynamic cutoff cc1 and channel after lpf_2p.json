@@ -1,0 +1,30 @@
+{
+  "region": {
+    "opcode": [
+      {
+        "@name": "sample",
+        "@value": "..\\..\\samples\\noise.wav"
+      },
+      {
+        "@name": "loopmode",
+        "@value": "loop_continuous"
+      },
+      {
+        "@name": "cutoff",
+        "@value": "1000"
+      },
+      {
+        "@name": "cutoff_cc1",
+        "@value": "12000"
+      },
+      {
+        "@name": "resonance",
+        "@value": "3"
+      },
+      {
+        "@name": "cutoff_chanaft",
+        "@value": "-4000"
+      }
+    ]
+  }
+}

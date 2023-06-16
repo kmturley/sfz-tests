@@ -1,0 +1,30 @@
+{
+  "region": {
+    "opcode": [
+      {
+        "@name": "sample",
+        "@value": "..\\..\\samples\\mono silence.wav"
+      },
+      {
+        "@name": "amp_veltrack",
+        "@value": "0"
+      },
+      {
+        "@name": "noise_filter",
+        "@value": "pink"
+      },
+      {
+        "@name": "noise_level",
+        "@value": "10"
+      },
+      {
+        "@name": "noise_step",
+        "@value": "0"
+      },
+      {
+        "@name": "noise_tone",
+        "@value": "100"
+      }
+    ]
+  }
+}

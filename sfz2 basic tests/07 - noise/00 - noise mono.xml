@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\mono silence.wav" />
+	<opcode name="amp_veltrack" value="0" />
+	<opcode name="noise_filter" value="pink" />
+	<opcode name="noise_level" value="10" />
+	<opcode name="noise_step" value="0" />
+	<opcode name="noise_tone" value="100" />
+</region>

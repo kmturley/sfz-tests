@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="sample" value="..\..\samples\noise.wav" />
+	<opcode name="cutoff" value="1000" />
+	<opcode name="resonance" value="30" />
+	<opcode name="ampeg_attack" value="0.02" />
+	<opcode name="ampeg_hold" value="0.1" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="pitch_keytrack" value="0" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="effect1" value="100" />
+</region>
+<region>
+	<opcode name="effect2" value="100" />
+	<opcode name="ampeg_delay" value="0.5" />
+</region>
+<region>
+	<opcode name="effect3" value="100" />
+	<opcode name="ampeg_delay" value="1" />
+</region>
+<region>
+	<opcode name="effect4" value="100" />
+	<opcode name="ampeg_delay" value="1.5" />
+</region>
+<effect>
+	<opcode name="directtomain" value="0" />
+	<opcode name="fx1tomain" value="100" />
+	<opcode name="fx2tomain" value="100" />
+	<opcode name="fx3tomain" value="100" />
+	<opcode name="fx4tomain" value="100" />
+	<opcode name="type" value="fverb" />
+	<opcode name="bus" value="fx2" />
+	<opcode name="reverb_type" value="hall" />
+	<opcode name="reverb_dry" value="100" />
+	<opcode name="reverb_wet" value="50" />
+	<opcode name="reverb_tone" value="100" />
+	<opcode name="reverb_size" value="30" />
+	<opcode name="reverb_damp" value="100" />
+</effect>
+<effect>
+	<opcode name="type" value="filter" />
+	<opcode name="bus" value="fx3" />
+	<opcode name="filter_type" value="hpf_2p" />
+	<opcode name="filter_cutoff" value="3000" />
+	<opcode name="filter_resonance" value="10" />
+</effect>
+<effect>
+	<opcode name="type" value="delay" />
+	<opcode name="bus" value="fx4" />
+	<opcode name="delay_mode" value="stereo" />
+	<opcode name="delay_dry" value="100" />
+	<opcode name="delay_wet" value="70" />
+	<opcode name="delay_input" value="100" />
+	<opcode name="delay_timel" value=".5" />
+	<opcode name="delay_timer" value=".4" />
+	<opcode name="delay_feedback" value="65" />
+	<opcode name="delay_filter" value="lpf_2p" />
+	<opcode name="delay_cutoff" value="6100" />
+	<opcode name="delay_resonance" value="10" />
+</effect>

@@ -1,0 +1,38 @@
+{
+  "region": {
+    "opcode": [
+      {
+        "@name": "sample",
+        "@value": "..\\..\\samples\\440.wav"
+      },
+      {
+        "@name": "loop_start",
+        "@value": "12629"
+      },
+      {
+        "@name": "loop_end",
+        "@value": "56728"
+      },
+      {
+        "@name": "loop_mode",
+        "@value": "loop_continuous"
+      },
+      {
+        "@name": "ampeg_delay",
+        "@value": "1"
+      },
+      {
+        "@name": "ampeg_delay_oncc131",
+        "@value": "-1"
+      },
+      {
+        "@name": "ampeg_attack",
+        "@value": "0.02"
+      },
+      {
+        "@name": "amp_veltrack",
+        "@value": "0"
+      }
+    ]
+  }
+}

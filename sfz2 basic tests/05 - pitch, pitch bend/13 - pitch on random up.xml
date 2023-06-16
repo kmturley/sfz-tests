@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="loop_start" value="12629" />
+	<opcode name="loop_end" value="56728" />
+	<opcode name="loop_mode" value="loop_continuous" />
+</group>
+<region />
+<region>
+	<opcode name="pitch_oncc135" value="1200" />
+</region>

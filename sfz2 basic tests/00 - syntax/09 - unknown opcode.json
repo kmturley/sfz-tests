@@ -1,0 +1,18 @@
+{
+  "region": {
+    "opcode": [
+      {
+        "@name": "sample",
+        "@value": "..\\..\\samples\\440.wav"
+      },
+      {
+        "@name": "engine_color",
+        "@value": "organic"
+      },
+      {
+        "@name": "engine_tone",
+        "@value": "warm"
+      }
+    ]
+  }
+}

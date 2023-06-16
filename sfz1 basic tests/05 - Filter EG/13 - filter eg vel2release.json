@@ -1,0 +1,46 @@
+{
+  "region": {
+    "opcode": [
+      {
+        "@name": "sample",
+        "@value": "..\\..\\samples\\noise.wav"
+      },
+      {
+        "@name": "cutoff",
+        "@value": "250"
+      },
+      {
+        "@name": "resonance",
+        "@value": "40"
+      },
+      {
+        "@name": "volume",
+        "@value": "-6"
+      },
+      {
+        "@name": "loopmode",
+        "@value": "loop_continuous"
+      },
+      {
+        "@name": "amp_veltrack",
+        "@value": "0"
+      },
+      {
+        "@name": "loopmode",
+        "@value": "loop_continuous"
+      },
+      {
+        "@name": "ampeg_release",
+        "@value": "5"
+      },
+      {
+        "@name": "fileg_vel2release",
+        "@value": "3"
+      },
+      {
+        "@name": "fileg_depth",
+        "@value": "1200"
+      }
+    ]
+  }
+}

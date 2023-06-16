@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="loopstart" value="12629" />
+	<opcode name="loopend" value="56728" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="lochan" value="1" />
+	<opcode name="hichan" value="5" />
+</region>

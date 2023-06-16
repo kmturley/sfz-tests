@@ -1,0 +1,42 @@
+{
+  "region": {
+    "opcode": [
+      {
+        "@name": "sample",
+        "@value": "..\\..\\samples\\noise.wav"
+      },
+      {
+        "@name": "loop_mode",
+        "@value": "loop_continuous"
+      },
+      {
+        "@name": "pitch_keytrack",
+        "@value": "0"
+      },
+      {
+        "@name": "amp_veltrack",
+        "@value": "0"
+      },
+      {
+        "@name": "volume",
+        "@value": "-6"
+      },
+      {
+        "@name": "cutoff",
+        "@value": "400"
+      },
+      {
+        "@name": "resonance",
+        "@value": "30"
+      },
+      {
+        "@name": "fil_keycenter",
+        "@value": "60"
+      },
+      {
+        "@name": "fil_keytrack",
+        "@value": "100"
+      }
+    ]
+  }
+}

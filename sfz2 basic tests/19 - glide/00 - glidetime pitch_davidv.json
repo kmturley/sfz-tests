@@ -1,0 +1,54 @@
+{
+  "region": {
+    "opcode": [
+      {
+        "@name": "sample",
+        "@value": "..\\..\\samples\\440.wav"
+      },
+      {
+        "@name": "loopstart",
+        "@value": "12629"
+      },
+      {
+        "@name": "loopend",
+        "@value": "56728"
+      },
+      {
+        "@name": "loopmode",
+        "@value": "loop_continuous"
+      },
+      {
+        "@name": "polyphony",
+        "@value": "1"
+      },
+      {
+        "@name": "eg08_sustain",
+        "@value": "1"
+      },
+      {
+        "@name": "eg08_level0",
+        "@value": "0"
+      },
+      {
+        "@name": "eg08_time0",
+        "@value": "0"
+      },
+      {
+        "@name": "eg08_level1",
+        "@value": "1"
+      },
+      {
+        "@name": "eg08_time1",
+        "@value": "1"
+      },
+      {
+        "@name": "eg08_glide_speed",
+        "@value": "1"
+      },
+      {
+        "@name": "eg08_pitch",
+        "@value": "1200"
+      }
+    ]
+  }
+}

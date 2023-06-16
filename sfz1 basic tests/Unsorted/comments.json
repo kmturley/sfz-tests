@@ -1,0 +1,22 @@
+{
+  "region": {
+    "opcode": [
+      {
+        "@name": "tune",
+        "@value": "100"
+      },
+      {
+        "@name": "transpose",
+        "@value": "-1"
+      },
+      {
+        "@name": "sample",
+        "@value": "..\\..\\samples\\440.wav"
+      },
+      {
+        "@name": "bendup",
+        "@value": "1200"
+      }
+    ]
+  }
+}

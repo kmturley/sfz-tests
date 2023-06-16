@@ -1,0 +1,14 @@
+{
+  "region": {
+    "opcode": [
+      {
+        "@name": "sample",
+        "@value": "..\\..\\samples\\loop.wav"
+      },
+      {
+        "@name": "sync_beats",
+        "@value": "4"
+      }
+    ]
+  }
+}

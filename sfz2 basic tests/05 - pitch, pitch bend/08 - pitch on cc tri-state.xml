@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="loop_start" value="12629" />
+	<opcode name="loop_end" value="56728" />
+	<opcode name="loop_mode" value="loop_continuous" />
+	<opcode name="bend_up" value="0" />
+	<opcode name="bend_down" value="0" />
+</group>
+<region />
+<region>
+	<opcode name="pitch_oncc73" value="1200" />
+	<opcode name="pitch_curvecc73" value="7" />
+</region>
+<curve>
+	<opcode name="v000" value="-1" />
+	<opcode name="v063" value="-1" />
+	<opcode name="v064" value="0" />
+	<opcode name="v065" value="1" />
+	<opcode name="v127" value="1" />
+</curve>

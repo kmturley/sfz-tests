@@ -1,0 +1,42 @@
+{
+  "region": {
+    "opcode": [
+      {
+        "@name": "sample",
+        "@value": "..\\..\\samples\\Mono_16_44100.wav"
+      },
+      {
+        "@name": "fil_type",
+        "@value": "lpf_2p"
+      },
+      {
+        "@name": "cutoff",
+        "@value": "100"
+      },
+      {
+        "@name": "resonance",
+        "@value": "20"
+      },
+      {
+        "@name": "eg01_follow_attack",
+        "@value": "0"
+      },
+      {
+        "@name": "eg01_follow_release",
+        "@value": "0.5"
+      },
+      {
+        "@name": "eg01_follow_speed",
+        "@value": "20"
+      },
+      {
+        "@name": "eg01_follow_gain",
+        "@value": "15"
+      },
+      {
+        "@name": "eg01_cutoff",
+        "@value": "9600"
+      }
+    ]
+  }
+}

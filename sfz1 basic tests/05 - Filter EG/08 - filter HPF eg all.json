@@ -1,0 +1,58 @@
+{
+  "region": {
+    "opcode": [
+      {
+        "@name": "sample",
+        "@value": "..\\..\\samples\\noise.wav"
+      },
+      {
+        "@name": "cutoff",
+        "@value": "1000"
+      },
+      {
+        "@name": "resonance",
+        "@value": "40"
+      },
+      {
+        "@name": "volume",
+        "@value": "-6"
+      },
+      {
+        "@name": "loopmode",
+        "@value": "loop_continuous"
+      },
+      {
+        "@name": "ampeg_release",
+        "@value": "5"
+      },
+      {
+        "@name": "filtype",
+        "@value": "hpf_2p"
+      },
+      {
+        "@name": "fileg_attack",
+        "@value": ".5"
+      },
+      {
+        "@name": "fileg_depth",
+        "@value": "-1200"
+      },
+      {
+        "@name": "fileg_hold",
+        "@value": ".5"
+      },
+      {
+        "@name": "fileg_decay",
+        "@value": ".5"
+      },
+      {
+        "@name": "fileg_sustain",
+        "@value": "60"
+      },
+      {
+        "@name": "fileg_release",
+        "@value": ".5"
+      }
+    ]
+  }
+}

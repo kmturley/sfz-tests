@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\noise.wav" />
+	<opcode name="cutoff" value="200" />
+	<opcode name="resonance" value="40" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="fil_keycenter" value="60" />
+	<opcode name="fil_keytrack" value="100" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\noise.wav" />
+	<opcode name="cutoff" value="200" />
+	<opcode name="resonance" value="40" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="fil_keycenter" value="72" />
+	<opcode name="fil_keytrack" value="100" />
+</region>

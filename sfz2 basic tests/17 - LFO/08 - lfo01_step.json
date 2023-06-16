@@ -1,0 +1,82 @@
+{
+  "region": {
+    "opcode": [
+      {
+        "@name": "sample",
+        "@value": "..\\..\\samples\\440.wav"
+      },
+      {
+        "@name": "loop_mode",
+        "@value": "loop_continuous"
+      },
+      {
+        "@name": "loop_start",
+        "@value": "12629"
+      },
+      {
+        "@name": "loop_end",
+        "@value": "56728"
+      },
+      {
+        "@name": "volume",
+        "@value": "-6"
+      },
+      {
+        "@name": "amp_veltrack",
+        "@value": "0"
+      },
+      {
+        "@name": "lfo01_steps",
+        "@value": "10"
+      },
+      {
+        "@name": "lfo01_freq",
+        "@value": "1"
+      },
+      {
+        "@name": "lfo01_pitch",
+        "@value": "1200"
+      },
+      {
+        "@name": "lfo01_step01_oncc1",
+        "@value": "100"
+      },
+      {
+        "@name": "lfo01_step02",
+        "@value": "-50"
+      },
+      {
+        "@name": "lfo01_step03",
+        "@value": "100"
+      },
+      {
+        "@name": "lfo01_step04",
+        "@value": "-100"
+      },
+      {
+        "@name": "lfo01_step05",
+        "@value": "20"
+      },
+      {
+        "@name": "lfo01_step06",
+        "@value": "-20"
+      },
+      {
+        "@name": "lfo01_step07",
+        "@value": "60"
+      },
+      {
+        "@name": "lfo01_step08",
+        "@value": "-60"
+      },
+      {
+        "@name": "lfo01_step09",
+        "@value": "2"
+      },
+      {
+        "@name": "lfo01_step10",
+        "@value": "-2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "region": {
+    "opcode": [
+      {
+        "@name": "sample",
+        "@value": "..\\..\\samples\\440.wav"
+      },
+      {
+        "@name": "loopstart",
+        "@value": "12629"
+      },
+      {
+        "@name": "loopend",
+        "@value": "56728"
+      },
+      {
+        "@name": "loopmode",
+        "@value": "loop_continuous"
+      },
+      {
+        "@name": "pitcheg_delay",
+        "@value": "0.5"
+      },
+      {
+        "@name": "pitcheg_attack",
+        "@value": "1"
+      },
+      {
+        "@name": "pitcheg_sustain",
+        "@value": "100"
+      },
+      {
+        "@name": "pitcheg_depth",
+        "@value": "1200"
+      }
+    ]
+  }
+}

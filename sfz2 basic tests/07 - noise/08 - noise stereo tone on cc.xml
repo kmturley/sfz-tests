@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\stereo silence.wav" />
+	<opcode name="amp_veltrack" value="0" />
+	<opcode name="noise_filter" value="lpf_1p" />
+	<opcode name="noise_level" value="0" />
+	<opcode name="noise_step" value="0" />
+	<opcode name="noise_tone" value="0" />
+	<opcode name="noise_tone_oncc73" value="100" />
+</region>

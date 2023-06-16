@@ -1,0 +1,26 @@
+{
+  "region": {
+    "opcode": [
+      {
+        "@name": "sample",
+        "@value": "..\\..\\samples\\stereo 400 looped.wav"
+      },
+      {
+        "@name": "drive_shape_oncc73",
+        "@value": "100"
+      },
+      {
+        "@name": "volume",
+        "@value": "-12"
+      },
+      {
+        "@name": "drive_filter",
+        "@value": "lpf_1p"
+      },
+      {
+        "@name": "drive_tone_oncc70",
+        "@value": "-100"
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="loop_start" value="12629" />
+	<opcode name="loop_end" value="56728" />
+	<opcode name="loop_mode" value="loop_continuous" />
+</group>
+<region>
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="c#4" />
+	<opcode name="pitch_keycenter" value="c4" />
+</region>
+<region>
+	<opcode name="lokey" value="d4" />
+	<opcode name="hikey" value="d#4" />
+	<opcode name="pitch_keycenter" value="c4" />
+</region>

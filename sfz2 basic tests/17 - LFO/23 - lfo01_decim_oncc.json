@@ -1,0 +1,70 @@
+{
+  "region": {
+    "opcode": [
+      {
+        "@name": "sample",
+        "@value": "..\\..\\samples\\440.wav"
+      },
+      {
+        "@name": "loop_mode",
+        "@value": "loop_continuous"
+      },
+      {
+        "@name": "loop_start",
+        "@value": "12629"
+      },
+      {
+        "@name": "loop_end",
+        "@value": "56728"
+      },
+      {
+        "@name": "decim",
+        "@value": "50"
+      },
+      {
+        "@name": "lfo01_freq",
+        "@value": "2"
+      },
+      {
+        "@name": "lfo01_wave",
+        "@value": "1"
+      },
+      {
+        "@name": "lfo01_decim_oncc73",
+        "@value": "50"
+      },
+      {
+        "@name": "lfo01_decim_oncc70",
+        "@value": "50"
+      },
+      {
+        "@name": "lfo01_decim_smoothcc70",
+        "@value": "100"
+      },
+      {
+        "@name": "lfo01_decim_oncc20",
+        "@value": "50"
+      },
+      {
+        "@name": "lfo01_decim_stepcc20",
+        "@value": "20"
+      },
+      {
+        "@name": "lfo01_decim_oncc21",
+        "@value": "50"
+      },
+      {
+        "@name": "lfo01_decim_smoothcc21",
+        "@value": "1000"
+      },
+      {
+        "@name": "lfo01_decim_oncc129",
+        "@value": "50"
+      },
+      {
+        "@name": "lfo01_decim_smoothcc129",
+        "@value": "500"
+      }
+    ]
+  }
+}

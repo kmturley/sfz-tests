@@ -1,0 +1,30 @@
+{
+  "region": {
+    "opcode": [
+      {
+        "@name": "sample",
+        "@value": "..\\..\\samples\\noise.wav"
+      },
+      {
+        "@name": "loopmode",
+        "@value": "loop_continuous"
+      },
+      {
+        "@name": "eq3_freq",
+        "@value": "400"
+      },
+      {
+        "@name": "eq3_freqcc20",
+        "@value": "4000"
+      },
+      {
+        "@name": "eq3_bwcc21",
+        "@value": "1"
+      },
+      {
+        "@name": "eq3_gaincc22",
+        "@value": "24"
+      }
+    ]
+  }
+}

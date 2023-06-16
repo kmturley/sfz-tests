@@ -1,0 +1,70 @@
+{
+  "region": {
+    "opcode": [
+      {
+        "@name": "sample",
+        "@value": "..\\..\\samples\\440.wav"
+      },
+      {
+        "@name": "loop_mode",
+        "@value": "loop_continuous"
+      },
+      {
+        "@name": "loop_start",
+        "@value": "12629"
+      },
+      {
+        "@name": "loop_end",
+        "@value": "56728"
+      },
+      {
+        "@name": "volume",
+        "@value": "-6"
+      },
+      {
+        "@name": "amp_veltrack",
+        "@value": "0"
+      },
+      {
+        "@name": "lfo01_freq",
+        "@value": "2"
+      },
+      {
+        "@name": "lfo01_pitch_oncc73",
+        "@value": "4800"
+      },
+      {
+        "@name": "lfo01_pitch_oncc70",
+        "@value": "4800"
+      },
+      {
+        "@name": "lfo01_pitch_smoothcc70",
+        "@value": "100"
+      },
+      {
+        "@name": "lfo01_pitch_oncc20",
+        "@value": "4800"
+      },
+      {
+        "@name": "lfo01_pitch_stepcc20",
+        "@value": "1200"
+      },
+      {
+        "@name": "lfo01_pitch_oncc21",
+        "@value": "4800"
+      },
+      {
+        "@name": "lfo01_pitch_smoothcc21",
+        "@value": "1000"
+      },
+      {
+        "@name": "lfo01_pitch_oncc129",
+        "@value": "4800"
+      },
+      {
+        "@name": "lfo01_pitch_smoothcc129",
+        "@value": "500"
+      }
+    ]
+  }
+}

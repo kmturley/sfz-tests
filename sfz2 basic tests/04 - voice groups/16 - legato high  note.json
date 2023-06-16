@@ -1,0 +1,18 @@
+{
+  "region": {
+    "opcode": [
+      {
+        "@name": "sample",
+        "@value": "..\\..\\samples\\mono 400 looped.wav"
+      },
+      {
+        "@name": "polyphony",
+        "@value": "legato_high"
+      },
+      {
+        "@name": "lokey",
+        "@value": "c4"
+      }
+    ]
+  }
+}

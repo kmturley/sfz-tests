@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\noise stereo.wav" />
+	<opcode name="loop_mode" value="loop_continuous" />
+	<opcode name="pitch_keytrack" value="0" />
+	<opcode name="cutoff" value="1000" />
+	<opcode name="cutoff_oncc1" value="8000" />
+	<opcode name="cutoff_chanaft" value="-8000" />
+	<opcode name="resonance" value="10" />
+	<opcode name="resonance_oncc73" value="20" />
+	<opcode name="fil_type" value="hpf_4p" />
+</region>

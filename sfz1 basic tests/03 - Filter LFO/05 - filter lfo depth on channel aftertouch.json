@@ -1,0 +1,34 @@
+{
+  "region": {
+    "opcode": [
+      {
+        "@name": "sample",
+        "@value": "..\\..\\samples\\noise.wav"
+      },
+      {
+        "@name": "loopmode",
+        "@value": "loop_continuous"
+      },
+      {
+        "@name": "fillfo_freq",
+        "@value": "2"
+      },
+      {
+        "@name": "cutoff",
+        "@value": "1000"
+      },
+      {
+        "@name": "resonance",
+        "@value": "40"
+      },
+      {
+        "@name": "volume",
+        "@value": "-10"
+      },
+      {
+        "@name": "fillfo_depthchanaft",
+        "@value": "400"
+      }
+    ]
+  }
+}

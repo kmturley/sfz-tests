@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\noise.wav" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="fillfo_freq" value="2" />
+	<opcode name="cutoff" value="1000" />
+	<opcode name="resonance" value="40" />
+	<opcode name="volume" value="-10" />
+	<opcode name="fillfo_depthcc1" value="400" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\noise.wav" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="fillfo_freq" value="5" />
+	<opcode name="cutoff" value="1000" />
+	<opcode name="resonance" value="40" />
+	<opcode name="volume" value="-10" />
+	<opcode name="fillfo_depthcc2" value="400" />
+</region>

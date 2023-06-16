@@ -1,0 +1,18 @@
+{
+  "region": {
+    "opcode": [
+      {
+        "@name": "sample",
+        "@value": "..\\..\\samples\\noise.wav"
+      },
+      {
+        "@name": "loopmode",
+        "@value": "one_shot"
+      },
+      {
+        "@name": "pitch_keytrack",
+        "@value": "0"
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "region": {
+    "opcode": [
+      {
+        "@name": "sample",
+        "@value": "..\\..\\samples\\noise.wav"
+      },
+      {
+        "@name": "loop_mode",
+        "@value": "loop_continuous"
+      },
+      {
+        "@name": "ampeg_release",
+        "@value": "2"
+      },
+      {
+        "@name": "cutoff",
+        "@value": "1000"
+      },
+      {
+        "@name": "eg01_points",
+        "@value": "6"
+      },
+      {
+        "@name": "eg01_sustain",
+        "@value": "4"
+      },
+      {
+        "@name": "eg01_level0",
+        "@value": "0"
+      },
+      {
+        "@name": "eg01_time0",
+        "@value": "0"
+      },
+      {
+        "@name": "eg01_level1",
+        "@value": "0"
+      },
+      {
+        "@name": "eg01_time1",
+        "@value": "0.5"
+      },
+      {
+        "@name": "eg01_level2",
+        "@value": "1"
+      },
+      {
+        "@name": "eg01_time2",
+        "@value": "1"
+      },
+      {
+        "@name": "eg01_level3",
+        "@value": "1"
+      },
+      {
+        "@name": "eg01_time3",
+        "@value": "1"
+      },
+      {
+        "@name": "eg01_shape3",
+        "@value": ".1"
+      },
+      {
+        "@name": "eg01_level4",
+        "@value": "0.5"
+      },
+      {
+        "@name": "eg01_time4",
+        "@value": "1"
+      },
+      {
+        "@name": "eg01_level5",
+        "@value": "0"
+      },
+      {
+        "@name": "eg01_time5",
+        "@value": "1"
+      },
+      {
+        "@name": "eg01_resonance_oncc73",
+        "@value": "40"
+      },
+      {
+        "@name": "eg01_resonance_oncc70",
+        "@value": "40"
+      },
+      {
+        "@name": "eg01_resonance_oncc20",
+        "@value": "40"
+      },
+      {
+        "@name": "eg01_resonance_oncc21",
+        "@value": "40"
+      },
+      {
+        "@name": "eg01_resonance_oncc129",
+        "@value": "40"
+      }
+    ]
+  }
+}

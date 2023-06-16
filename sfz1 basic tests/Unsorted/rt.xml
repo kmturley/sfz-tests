@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="lokey" value="36" />
+	<opcode name="hikey" value="36" />
+	<opcode name="pitch_keycenter" value="36" />
+	<opcode name="sample" value="..\..\samples\noise.wav" />
+</region>
+<region>
+	<opcode name="lokey" value="38" />
+	<opcode name="hikey" value="38" />
+	<opcode name="pitch_keycenter" value="38" />
+	<opcode name="sample" value="..\..\samples\hh.wav" />
+	<opcode name="trigger" value="release" />
+</region>

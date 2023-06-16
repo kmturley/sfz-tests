@@ -1,0 +1,98 @@
+{
+  "region": {
+    "opcode": [
+      {
+        "@name": "sample",
+        "@value": "..\\..\\samples\\only l.wav"
+      },
+      {
+        "@name": "loopmode",
+        "@value": "loop_continuous"
+      },
+      {
+        "@name": "ampeg_release",
+        "@value": "2"
+      },
+      {
+        "@name": "eg01_points",
+        "@value": "6"
+      },
+      {
+        "@name": "eg01_sustain",
+        "@value": "4"
+      },
+      {
+        "@name": "eg01_level0",
+        "@value": "0"
+      },
+      {
+        "@name": "eg01_time0",
+        "@value": "0"
+      },
+      {
+        "@name": "eg01_level1",
+        "@value": "0"
+      },
+      {
+        "@name": "eg01_time1",
+        "@value": "0.5"
+      },
+      {
+        "@name": "eg01_level2",
+        "@value": "1"
+      },
+      {
+        "@name": "eg01_time2",
+        "@value": "1"
+      },
+      {
+        "@name": "eg01_level3",
+        "@value": "1"
+      },
+      {
+        "@name": "eg01_time3",
+        "@value": "1"
+      },
+      {
+        "@name": "eg01_shape3",
+        "@value": ".1"
+      },
+      {
+        "@name": "eg01_level4",
+        "@value": "0.5"
+      },
+      {
+        "@name": "eg01_time4",
+        "@value": "1"
+      },
+      {
+        "@name": "eg01_level5",
+        "@value": "0"
+      },
+      {
+        "@name": "eg01_time5",
+        "@value": "1"
+      },
+      {
+        "@name": "eg01_width_oncc73",
+        "@value": "-100"
+      },
+      {
+        "@name": "eg01_width_oncc70",
+        "@value": "-100"
+      },
+      {
+        "@name": "eg01_width_oncc20",
+        "@value": "-100"
+      },
+      {
+        "@name": "eg01_width_oncc21",
+        "@value": "-100"
+      },
+      {
+        "@name": "eg01_width_oncc129",
+        "@value": "-100"
+      }
+    ]
+  }
+}

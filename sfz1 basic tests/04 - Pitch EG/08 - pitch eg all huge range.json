@@ -1,0 +1,42 @@
+{
+  "region": {
+    "opcode": [
+      {
+        "@name": "sample",
+        "@value": "*sine"
+      },
+      {
+        "@name": "pitcheg_delay",
+        "@value": "0.5"
+      },
+      {
+        "@name": "pitcheg_attack",
+        "@value": "1"
+      },
+      {
+        "@name": "pitcheg_hold",
+        "@value": "0.5"
+      },
+      {
+        "@name": "pitcheg_decay",
+        "@value": "0.5"
+      },
+      {
+        "@name": "pitcheg_sustain",
+        "@value": "50"
+      },
+      {
+        "@name": "pitcheg_release",
+        "@value": "0.5"
+      },
+      {
+        "@name": "pitcheg_depth",
+        "@value": "2400"
+      },
+      {
+        "@name": "ampeg_release",
+        "@value": "2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "region": {
+    "opcode": {
+      "@name": "sample",
+      "@value": "..\\..\\samples\\mono looped 1k.wav"
+    }
+  }
+}

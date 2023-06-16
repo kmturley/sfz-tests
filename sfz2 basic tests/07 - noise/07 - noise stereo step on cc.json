@@ -1,0 +1,70 @@
+{
+  "region": {
+    "opcode": [
+      {
+        "@name": "sample",
+        "@value": "..\\..\\samples\\stereo silence.wav"
+      },
+      {
+        "@name": "amp_veltrack",
+        "@value": "0"
+      },
+      {
+        "@name": "noise_filter",
+        "@value": "pink"
+      },
+      {
+        "@name": "noise_level",
+        "@value": "0"
+      },
+      {
+        "@name": "noise_step",
+        "@value": "0"
+      },
+      {
+        "@name": "noise_tone",
+        "@value": "100"
+      },
+      {
+        "@name": "noise_step_oncc73",
+        "@value": "100"
+      },
+      {
+        "@name": "noise_step_smoothcc73",
+        "@value": "1"
+      },
+      {
+        "@name": "noise_step_oncc70",
+        "@value": "100"
+      },
+      {
+        "@name": "noise_step_smoothcc70",
+        "@value": "100"
+      },
+      {
+        "@name": "noise_step_oncc20",
+        "@value": "100"
+      },
+      {
+        "@name": "noise_step_stepcc20",
+        "@value": "24"
+      },
+      {
+        "@name": "noise_step_oncc21",
+        "@value": "100"
+      },
+      {
+        "@name": "noise_step_smoothcc21",
+        "@value": "500"
+      },
+      {
+        "@name": "noise_step_oncc129",
+        "@value": "100"
+      },
+      {
+        "@name": "noise_step_smoothcc129",
+        "@value": "200"
+      }
+    ]
+  }
+}

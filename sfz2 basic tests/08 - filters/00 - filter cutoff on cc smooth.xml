@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="sample" value="..\..\samples\noise.wav" />
+	<opcode name="loop_mode" value="loop_continuous" />
+	<opcode name="pitch_keytrack" value="0" />
+	<opcode name="resonance" value="30" />
+	<opcode name="cutoff" value="100" />
+	<opcode name="amp_veltrack" value="0" />
+	<opcode name="volume" value="-6" />
+</group>
+<region>
+	<opcode name="cutoff_oncc73" value="9600" />
+	<opcode name="cutoff_smoothcc73" value="1" />
+	<opcode name="cutoff_oncc70" value="9600" />
+	<opcode name="cutoff_smoothcc70" value="100" />
+	<opcode name="cutoff_curvecc70" value="1" />
+	<opcode name="cutoff_oncc20" value="9600" />
+	<opcode name="cutoff_stepcc20" value="1200" />
+	<opcode name="cutoff_oncc21" value="9600" />
+	<opcode name="cutoff_smoothcc21" value="500" />
+	<opcode name="cutoff_oncc129" value="9600" />
+	<opcode name="cutoff_smoothcc129" value="200" />
+</region>
+<curve>
+	<opcode name="v000" value="1" />
+	<opcode name="v127" value="0" />
+</curve>

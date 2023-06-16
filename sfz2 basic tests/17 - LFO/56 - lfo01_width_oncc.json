@@ -1,0 +1,58 @@
+{
+  "region": {
+    "opcode": [
+      {
+        "@name": "sample",
+        "@value": "..\\..\\samples\\only l.wav"
+      },
+      {
+        "@name": "loop_mode",
+        "@value": "loop_continuous"
+      },
+      {
+        "@name": "amp_veltrack",
+        "@value": "0"
+      },
+      {
+        "@name": "lfo01_freq",
+        "@value": "2"
+      },
+      {
+        "@name": "lfo01_width_oncc73",
+        "@value": "100"
+      },
+      {
+        "@name": "lfo01_width_oncc70",
+        "@value": "100"
+      },
+      {
+        "@name": "lfo01_width_smoothcc70",
+        "@value": "100"
+      },
+      {
+        "@name": "lfo01_width_oncc20",
+        "@value": "100"
+      },
+      {
+        "@name": "lfo01_width_stepcc20",
+        "@value": "51"
+      },
+      {
+        "@name": "lfo01_width_oncc21",
+        "@value": "100"
+      },
+      {
+        "@name": "lfo01_width_smoothcc21",
+        "@value": "1000"
+      },
+      {
+        "@name": "lfo01_width_oncc129",
+        "@value": "100"
+      },
+      {
+        "@name": "lfo01_width_smoothcc129",
+        "@value": "500"
+      }
+    ]
+  }
+}

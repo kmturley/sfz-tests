@@ -1,0 +1,14 @@
+{
+  "region": {
+    "opcode": [
+      {
+        "@name": "sample",
+        "@value": "..\\..\\samples\\440.wav"
+      },
+      {
+        "@name": "pitch_keycenter",
+        "@value": "57"
+      }
+    ]
+  }
+}

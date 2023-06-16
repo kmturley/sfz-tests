@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="sample" value="..\..\samples\two tone.wav" />
+	<opcode name="loop_start" value="10336" />
+	<opcode name="loop_end" value="12100" />
+	<opcode name="loop_mode" value="loop_continuous" />
+	<opcode name="pitch_keytrack" value="0" />
+	<opcode name="amp_veltrack" value="0" />
+	<opcode name="width" value="-100" />
+</group>
+<region>
+	<opcode name="width_oncc73" value="200" />
+</region>

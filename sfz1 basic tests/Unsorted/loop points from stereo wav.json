@@ -1,0 +1,8 @@
+{
+  "region": {
+    "opcode": {
+      "@name": "sample",
+      "@value": "..\\..\\samples\\stereo looped 1k old.wav"
+    }
+  }
+}

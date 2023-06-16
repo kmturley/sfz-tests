@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="ampeg_hold" value="0.3" />
+	<opcode name="ampeg_sustain" value="0" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\110.wav" />
+	<opcode name="loop_start" value="10825" />
+	<opcode name="loop_end" value="32473" />
+	<opcode name="loop_mode" value="loop_continuous" />
+	<opcode name="trigger" value="release" />
+	<opcode name="rt_dead" value="off" />
+	<opcode name="ampeg_attack" value="0.1" />
+	<opcode name="ampeg_decay" value="0.4" />
+	<opcode name="ampeg_sustain" value="0" />
+</region>

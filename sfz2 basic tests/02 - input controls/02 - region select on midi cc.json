@@ -1,0 +1,26 @@
+{
+  "region": {
+    "opcode": [
+      {
+        "@name": "sample",
+        "@value": "..\\..\\samples\\440.wav"
+      },
+      {
+        "@name": "locc73",
+        "@value": "64"
+      },
+      {
+        "@name": "hicc73",
+        "@value": "90"
+      },
+      {
+        "@name": "locc1",
+        "@value": "0"
+      },
+      {
+        "@name": "hicc1",
+        "@value": "30"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="sample" value="..\..\samples\noise mono.wav" />
+	<opcode name="loop_mode" value="loop_continuous" />
+</group>
+<region>
+	<opcode name="eq1_freq" value="600" />
+	<opcode name="eq1_freq_oncc1" value="-200" />
+	<opcode name="eq1_freq_oncc2" value="-200" />
+	<opcode name="eq1_bw" value="0.1" />
+	<opcode name="eq1_gain" value="24" />
+	<opcode name="eq2_freq" value="1040" />
+	<opcode name="eq2_freq_oncc1" value="750" />
+	<opcode name="eq2_freq_oncc2" value="-350" />
+	<opcode name="eq2_bw" value="0.07" />
+	<opcode name="eq2_gain" value="18" />
+	<opcode name="eq2_gain_oncc1" value="-10" />
+	<opcode name="eq3_freq" value="2250" />
+	<opcode name="eq3_freq_oncc1" value="350" />
+	<opcode name="eq3_bw" value="0.05" />
+	<opcode name="eq3_gain" value="15" />
+	<opcode name="eq3_gain_oncc1" value="-6" />
+</region>

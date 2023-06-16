@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="loop_start" value="12629" />
+	<opcode name="loop_end" value="56728" />
+	<opcode name="loop_mode" value="loop_continuous" />
+	<opcode name="volume" value="-24" />
+</group>
+<region>
+	<opcode name="volume_oncc73" value="24" />
+	<opcode name="volume_smoothcc73" value="1" />
+	<opcode name="volume_oncc70" value="24" />
+	<opcode name="volume_smoothcc70" value="100" />
+	<opcode name="volume_oncc20" value="24" />
+	<opcode name="volume_stepcc20" value="4" />
+	<opcode name="volume_oncc21" value="24" />
+	<opcode name="volume_smoothcc21" value="500" />
+	<opcode name="volume_oncc129" value="24" />
+	<opcode name="volume_smoothcc129" value="200" />
+</region>
