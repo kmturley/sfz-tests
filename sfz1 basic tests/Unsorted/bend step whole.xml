@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <region>
 	<opcode name="sample" value="..\..\samples\440.wav" />
 	<opcode name="loopstart" value="12629" />
@@ -8,3 +9,4 @@
 	<opcode name="benddown" value="-2400" />
 	<opcode name="bendstep" value="200" />
 </region>
+</sfz>

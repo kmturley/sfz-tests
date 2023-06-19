@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <region>
 	<opcode name="sample" value="..\..\samples\440.wav" />
 	<opcode name="lokey" value="60" />
@@ -34,3 +35,4 @@
 	<opcode name="sw_hikey" value="52" />
 	<opcode name="sw_up" value="52" />
 </region>
+</sfz>

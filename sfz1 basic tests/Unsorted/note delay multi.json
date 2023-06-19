@@ -1,0 +1,534 @@
+{
+  "sfz": {
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "ampeg_hold",
+            "@value": "0.25"
+          },
+          {
+            "@name": "ampeg_sustain",
+            "@value": "0"
+          },
+          {
+            "@name": "loopstart",
+            "@value": "12629"
+          },
+          {
+            "@name": "loopend",
+            "@value": "56728"
+          },
+          {
+            "@name": "loopmode",
+            "@value": "loop_continuous"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "delay",
+            "@value": "0.25"
+          },
+          {
+            "@name": "ampeg_hold",
+            "@value": "0.25"
+          },
+          {
+            "@name": "ampeg_sustain",
+            "@value": "0"
+          },
+          {
+            "@name": "loopstart",
+            "@value": "12629"
+          },
+          {
+            "@name": "loopend",
+            "@value": "56728"
+          },
+          {
+            "@name": "loopmode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "transpose",
+            "@value": "2"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "delay",
+            "@value": "0.5"
+          },
+          {
+            "@name": "ampeg_hold",
+            "@value": "0.25"
+          },
+          {
+            "@name": "ampeg_sustain",
+            "@value": "0"
+          },
+          {
+            "@name": "loopstart",
+            "@value": "12629"
+          },
+          {
+            "@name": "loopend",
+            "@value": "56728"
+          },
+          {
+            "@name": "loopmode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "transpose",
+            "@value": "4"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "delay",
+            "@value": "0.75"
+          },
+          {
+            "@name": "ampeg_hold",
+            "@value": "0.25"
+          },
+          {
+            "@name": "ampeg_sustain",
+            "@value": "0"
+          },
+          {
+            "@name": "loopstart",
+            "@value": "12629"
+          },
+          {
+            "@name": "loopend",
+            "@value": "56728"
+          },
+          {
+            "@name": "loopmode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "transpose",
+            "@value": "7"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "delay",
+            "@value": "1"
+          },
+          {
+            "@name": "ampeg_hold",
+            "@value": "0.25"
+          },
+          {
+            "@name": "ampeg_sustain",
+            "@value": "0"
+          },
+          {
+            "@name": "loopstart",
+            "@value": "12629"
+          },
+          {
+            "@name": "loopend",
+            "@value": "56728"
+          },
+          {
+            "@name": "loopmode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "transpose",
+            "@value": "5"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "delay",
+            "@value": "1.25"
+          },
+          {
+            "@name": "ampeg_hold",
+            "@value": "0.25"
+          },
+          {
+            "@name": "ampeg_sustain",
+            "@value": "0"
+          },
+          {
+            "@name": "loopstart",
+            "@value": "12629"
+          },
+          {
+            "@name": "loopend",
+            "@value": "56728"
+          },
+          {
+            "@name": "loopmode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "transpose",
+            "@value": "5"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "delay",
+            "@value": "1.5"
+          },
+          {
+            "@name": "ampeg_hold",
+            "@value": "0.25"
+          },
+          {
+            "@name": "ampeg_sustain",
+            "@value": "0"
+          },
+          {
+            "@name": "loopstart",
+            "@value": "12629"
+          },
+          {
+            "@name": "loopend",
+            "@value": "56728"
+          },
+          {
+            "@name": "loopmode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "transpose",
+            "@value": "9"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "delay",
+            "@value": "1.75"
+          },
+          {
+            "@name": "ampeg_hold",
+            "@value": "0.25"
+          },
+          {
+            "@name": "ampeg_sustain",
+            "@value": "0"
+          },
+          {
+            "@name": "loopstart",
+            "@value": "12629"
+          },
+          {
+            "@name": "loopend",
+            "@value": "56728"
+          },
+          {
+            "@name": "loopmode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "transpose",
+            "@value": "7"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "delay",
+            "@value": "2"
+          },
+          {
+            "@name": "ampeg_hold",
+            "@value": "0.25"
+          },
+          {
+            "@name": "ampeg_sustain",
+            "@value": "0"
+          },
+          {
+            "@name": "loopstart",
+            "@value": "12629"
+          },
+          {
+            "@name": "loopend",
+            "@value": "56728"
+          },
+          {
+            "@name": "loopmode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "transpose",
+            "@value": "7"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "delay",
+            "@value": "2.25"
+          },
+          {
+            "@name": "ampeg_hold",
+            "@value": "0.25"
+          },
+          {
+            "@name": "ampeg_sustain",
+            "@value": "0"
+          },
+          {
+            "@name": "loopstart",
+            "@value": "12629"
+          },
+          {
+            "@name": "loopend",
+            "@value": "56728"
+          },
+          {
+            "@name": "loopmode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "transpose",
+            "@value": "12"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "delay",
+            "@value": "2.5"
+          },
+          {
+            "@name": "ampeg_hold",
+            "@value": "0.25"
+          },
+          {
+            "@name": "ampeg_sustain",
+            "@value": "0"
+          },
+          {
+            "@name": "loopstart",
+            "@value": "12629"
+          },
+          {
+            "@name": "loopend",
+            "@value": "56728"
+          },
+          {
+            "@name": "loopmode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "transpose",
+            "@value": "11"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "delay",
+            "@value": "2.75"
+          },
+          {
+            "@name": "ampeg_hold",
+            "@value": "0.25"
+          },
+          {
+            "@name": "ampeg_sustain",
+            "@value": "0"
+          },
+          {
+            "@name": "loopstart",
+            "@value": "12629"
+          },
+          {
+            "@name": "loopend",
+            "@value": "56728"
+          },
+          {
+            "@name": "loopmode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "transpose",
+            "@value": "12"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "delay",
+            "@value": "3"
+          },
+          {
+            "@name": "ampeg_hold",
+            "@value": "0.25"
+          },
+          {
+            "@name": "ampeg_sustain",
+            "@value": "0"
+          },
+          {
+            "@name": "loopstart",
+            "@value": "12629"
+          },
+          {
+            "@name": "loopend",
+            "@value": "56728"
+          },
+          {
+            "@name": "loopmode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "transpose",
+            "@value": "7"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "delay",
+            "@value": "3.25"
+          },
+          {
+            "@name": "ampeg_hold",
+            "@value": "0.25"
+          },
+          {
+            "@name": "ampeg_sustain",
+            "@value": "0"
+          },
+          {
+            "@name": "loopstart",
+            "@value": "12629"
+          },
+          {
+            "@name": "loopend",
+            "@value": "56728"
+          },
+          {
+            "@name": "loopmode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "transpose",
+            "@value": "4"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "delay",
+            "@value": "3.5"
+          },
+          {
+            "@name": "ampeg_hold",
+            "@value": "0.25"
+          },
+          {
+            "@name": "ampeg_sustain",
+            "@value": "0"
+          },
+          {
+            "@name": "loopstart",
+            "@value": "12629"
+          },
+          {
+            "@name": "loopend",
+            "@value": "56728"
+          },
+          {
+            "@name": "loopmode",
+            "@value": "loop_continuous"
+          }
+        ]
+      }
+    ]
+  }
+}

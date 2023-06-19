@@ -1,8 +1,10 @@
 {
-  "region": {
-    "opcode": {
-      "@name": "sample",
-      "@value": "..\\..\\samples\\loop.wav"
+  "sfz": {
+    "region": {
+      "opcode": {
+        "@name": "sample",
+        "@value": "..\\..\\samples\\loop.wav"
+      }
     }
   }
 }

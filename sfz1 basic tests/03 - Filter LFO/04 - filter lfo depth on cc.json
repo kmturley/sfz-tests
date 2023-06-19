@@ -1,0 +1,70 @@
+{
+  "sfz": {
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\noise.wav"
+          },
+          {
+            "@name": "loopmode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "fillfo_freq",
+            "@value": "2"
+          },
+          {
+            "@name": "cutoff",
+            "@value": "1000"
+          },
+          {
+            "@name": "resonance",
+            "@value": "40"
+          },
+          {
+            "@name": "volume",
+            "@value": "-10"
+          },
+          {
+            "@name": "fillfo_depthcc1",
+            "@value": "400"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\noise.wav"
+          },
+          {
+            "@name": "loopmode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "fillfo_freq",
+            "@value": "5"
+          },
+          {
+            "@name": "cutoff",
+            "@value": "1000"
+          },
+          {
+            "@name": "resonance",
+            "@value": "40"
+          },
+          {
+            "@name": "volume",
+            "@value": "-10"
+          },
+          {
+            "@name": "fillfo_depthcc2",
+            "@value": "400"
+          }
+        ]
+      }
+    ]
+  }
+}

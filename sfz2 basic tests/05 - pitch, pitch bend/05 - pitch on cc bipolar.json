@@ -1,0 +1,63 @@
+{
+  "sfz": {
+    "group": {
+      "opcode": [
+        {
+          "@name": "sample",
+          "@value": "..\\..\\samples\\440.wav"
+        },
+        {
+          "@name": "loop_start",
+          "@value": "12629"
+        },
+        {
+          "@name": "loop_end",
+          "@value": "56728"
+        },
+        {
+          "@name": "loop_mode",
+          "@value": "loop_continuous"
+        },
+        {
+          "@name": "bend_up",
+          "@value": "0"
+        },
+        {
+          "@name": "bend_down",
+          "@value": "0"
+        }
+      ]
+    },
+    "region": [
+      null,
+      {
+        "opcode": [
+          {
+            "@name": "pitch_oncc73",
+            "@value": "1200"
+          },
+          {
+            "@name": "pitch_curvecc73",
+            "@value": "7"
+          }
+        ]
+      }
+    ],
+    "curve": {
+      "opcode": [
+        {
+          "@name": "v000",
+          "@value": "-1"
+        },
+        {
+          "@name": "v064",
+          "@value": "0"
+        },
+        {
+          "@name": "v127",
+          "@value": "1"
+        }
+      ]
+    }
+  }
+}

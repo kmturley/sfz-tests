@@ -1,0 +1,68 @@
+{
+  "sfz": {
+    "group": {
+      "opcode": [
+        {
+          "@name": "sample",
+          "@value": "..\\..\\samples\\noise.wav"
+        },
+        {
+          "@name": "loop_mode",
+          "@value": "loop_continuous"
+        },
+        {
+          "@name": "pitch_keytrack",
+          "@value": "0"
+        },
+        {
+          "@name": "resonance",
+          "@value": "30"
+        },
+        {
+          "@name": "cutoff",
+          "@value": "100"
+        },
+        {
+          "@name": "amp_veltrack",
+          "@value": "0"
+        },
+        {
+          "@name": "volume",
+          "@value": "-6"
+        }
+      ]
+    },
+    "region": {
+      "opcode": [
+        {
+          "@name": "cutoff_oncc130",
+          "@value": "9600"
+        },
+        {
+          "@name": "cutoff_oncc70",
+          "@value": "9600"
+        },
+        {
+          "@name": "cutoff_smoothcc70",
+          "@value": "100"
+        },
+        {
+          "@name": "cutoff_curvecc70",
+          "@value": "1"
+        }
+      ]
+    },
+    "curve": {
+      "opcode": [
+        {
+          "@name": "v000",
+          "@value": "1"
+        },
+        {
+          "@name": "v127",
+          "@value": "0"
+        }
+      ]
+    }
+  }
+}

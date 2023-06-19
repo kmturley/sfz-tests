@@ -1,46 +1,48 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "@name": "sample",
-        "@value": "..\\..\\samples\\noise mono.wav"
-      },
-      {
-        "@name": "loop_mode",
-        "@value": "loop_continuous"
-      },
-      {
-        "@name": "pitch_keytrack",
-        "@value": "0"
-      },
-      {
-        "@name": "cutoff",
-        "@value": "1000"
-      },
-      {
-        "@name": "resonance",
-        "@value": "10"
-      },
-      {
-        "@name": "resonance_oncc73",
-        "@value": "20"
-      },
-      {
-        "@name": "cutoff_oncc1",
-        "@value": "8000"
-      },
-      {
-        "@name": "cutoff_chanaft",
-        "@value": "-8000"
-      },
-      {
-        "@name": "volume",
-        "@value": "12"
-      },
-      {
-        "@name": "fil_type",
-        "@value": "bpf_2p"
-      }
-    ]
+  "sfz": {
+    "region": {
+      "opcode": [
+        {
+          "@name": "sample",
+          "@value": "..\\..\\samples\\noise mono.wav"
+        },
+        {
+          "@name": "loop_mode",
+          "@value": "loop_continuous"
+        },
+        {
+          "@name": "pitch_keytrack",
+          "@value": "0"
+        },
+        {
+          "@name": "cutoff",
+          "@value": "1000"
+        },
+        {
+          "@name": "resonance",
+          "@value": "10"
+        },
+        {
+          "@name": "resonance_oncc73",
+          "@value": "20"
+        },
+        {
+          "@name": "cutoff_oncc1",
+          "@value": "8000"
+        },
+        {
+          "@name": "cutoff_chanaft",
+          "@value": "-8000"
+        },
+        {
+          "@name": "volume",
+          "@value": "12"
+        },
+        {
+          "@name": "fil_type",
+          "@value": "bpf_2p"
+        }
+      ]
+    }
   }
 }

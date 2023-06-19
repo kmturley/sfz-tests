@@ -1,0 +1,232 @@
+{
+  "sfz": {
+    "group": [
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "ampeg_release",
+            "@value": "5"
+          },
+          {
+            "@name": "loop_start",
+            "@value": "12629"
+          },
+          {
+            "@name": "loop_end",
+            "@value": "56728"
+          },
+          {
+            "@name": "loop_mode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "hicc1",
+            "@value": "64"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "ampeg_release",
+            "@value": "0.1"
+          },
+          {
+            "@name": "loop_start",
+            "@value": "12629"
+          },
+          {
+            "@name": "loop_end",
+            "@value": "56728"
+          },
+          {
+            "@name": "loop_mode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "locc1",
+            "@value": "65"
+          }
+        ]
+      }
+    ],
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "lokey",
+            "@value": "c4"
+          },
+          {
+            "@name": "hikey",
+            "@value": "c#4"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "lokey",
+            "@value": "d4"
+          },
+          {
+            "@name": "hikey",
+            "@value": "d#4"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "lokey",
+            "@value": "e4"
+          },
+          {
+            "@name": "hikey",
+            "@value": "f4"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "lokey",
+            "@value": "f#4"
+          },
+          {
+            "@name": "hikey",
+            "@value": "g4"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "lokey",
+            "@value": "g#4"
+          },
+          {
+            "@name": "hikey",
+            "@value": "a4"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "lokey",
+            "@value": "a#4"
+          },
+          {
+            "@name": "hikey",
+            "@value": "b4"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "lokey",
+            "@value": "c5"
+          },
+          {
+            "@name": "hikey",
+            "@value": "c#5"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "lokey",
+            "@value": "c4"
+          },
+          {
+            "@name": "hikey",
+            "@value": "c#4"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "lokey",
+            "@value": "d4"
+          },
+          {
+            "@name": "hikey",
+            "@value": "d#4"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "lokey",
+            "@value": "e4"
+          },
+          {
+            "@name": "hikey",
+            "@value": "f4"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "lokey",
+            "@value": "f#4"
+          },
+          {
+            "@name": "hikey",
+            "@value": "g4"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "lokey",
+            "@value": "g#4"
+          },
+          {
+            "@name": "hikey",
+            "@value": "a4"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "lokey",
+            "@value": "a#4"
+          },
+          {
+            "@name": "hikey",
+            "@value": "b4"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "lokey",
+            "@value": "c5"
+          },
+          {
+            "@name": "hikey",
+            "@value": "c#5"
+          }
+        ]
+      }
+    ]
+  }
+}

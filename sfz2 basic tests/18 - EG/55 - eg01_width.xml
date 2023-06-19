@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <region>
 	<opcode name="sample" value="..\..\samples\only l.wav" />
 	<opcode name="loopmode" value="loop_continuous" />
@@ -20,3 +21,4 @@
 	<opcode name="eg01_time5" value="1" />
 	<opcode name="eg01_width" value="-100" />
 </region>
+</sfz>

@@ -1,0 +1,442 @@
+{
+  "sfz": {
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "loopstart",
+            "@value": "12629"
+          },
+          {
+            "@name": "loopend",
+            "@value": "56728"
+          },
+          {
+            "@name": "loopmode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "transpose",
+            "@value": "-12"
+          },
+          {
+            "@name": "pitchlfo_freq",
+            "@value": "6"
+          },
+          {
+            "@name": "pitchlfo_depth",
+            "@value": "20"
+          },
+          {
+            "@name": "pitchlfo_freqcc24",
+            "@value": "-6"
+          },
+          {
+            "@name": "effect1",
+            "@value": "40"
+          },
+          {
+            "@name": "effect2",
+            "@value": "20"
+          },
+          {
+            "@name": "volume",
+            "@value": "-6"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "loopstart",
+            "@value": "12629"
+          },
+          {
+            "@name": "loopend",
+            "@value": "56728"
+          },
+          {
+            "@name": "loopmode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "pitchlfo_freq",
+            "@value": "6"
+          },
+          {
+            "@name": "pitchlfo_depth",
+            "@value": "20"
+          },
+          {
+            "@name": "pitchlfo_freqcc24",
+            "@value": "-6"
+          },
+          {
+            "@name": "ampeg_attack",
+            "@value": "0.01"
+          },
+          {
+            "@name": "volume",
+            "@value": "-9"
+          },
+          {
+            "@name": "effect1",
+            "@value": "40"
+          },
+          {
+            "@name": "effect2",
+            "@value": "20"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "loopstart",
+            "@value": "12629"
+          },
+          {
+            "@name": "loopend",
+            "@value": "56728"
+          },
+          {
+            "@name": "loopmode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "pitchlfo_freq",
+            "@value": "6"
+          },
+          {
+            "@name": "pitchlfo_depth",
+            "@value": "-20"
+          },
+          {
+            "@name": "pitchlfo_freqcc24",
+            "@value": "-6"
+          },
+          {
+            "@name": "ampeg_attack",
+            "@value": "0.001"
+          },
+          {
+            "@name": "volume",
+            "@value": "-9"
+          },
+          {
+            "@name": "effect1",
+            "@value": "40"
+          },
+          {
+            "@name": "effect2",
+            "@value": "20"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "loopstart",
+            "@value": "12629"
+          },
+          {
+            "@name": "loopend",
+            "@value": "56728"
+          },
+          {
+            "@name": "loopmode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "transpose",
+            "@value": "7"
+          },
+          {
+            "@name": "pitchlfo_freq",
+            "@value": "6"
+          },
+          {
+            "@name": "pitchlfo_depth",
+            "@value": "20"
+          },
+          {
+            "@name": "pitchlfo_freqcc24",
+            "@value": "-6"
+          },
+          {
+            "@name": "ampeg_attack",
+            "@value": "0.001"
+          },
+          {
+            "@name": "volume",
+            "@value": "-9"
+          },
+          {
+            "@name": "effect1",
+            "@value": "40"
+          },
+          {
+            "@name": "effect2",
+            "@value": "20"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "loopstart",
+            "@value": "12629"
+          },
+          {
+            "@name": "loopend",
+            "@value": "56728"
+          },
+          {
+            "@name": "loopmode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "transpose",
+            "@value": "12"
+          },
+          {
+            "@name": "pitchlfo_freq",
+            "@value": "12"
+          },
+          {
+            "@name": "pitchlfo_depth",
+            "@value": "20"
+          },
+          {
+            "@name": "pitchlfo_freqcc25",
+            "@value": "-12"
+          },
+          {
+            "@name": "ampeg_attack",
+            "@value": "0.001"
+          },
+          {
+            "@name": "volume",
+            "@value": "-9"
+          },
+          {
+            "@name": "xfin_locc20",
+            "@value": "0"
+          },
+          {
+            "@name": "xfin_hicc20",
+            "@value": "127"
+          },
+          {
+            "@name": "effect1",
+            "@value": "40"
+          },
+          {
+            "@name": "effect2",
+            "@value": "20"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "loopstart",
+            "@value": "12629"
+          },
+          {
+            "@name": "loopend",
+            "@value": "56728"
+          },
+          {
+            "@name": "loopmode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "transpose",
+            "@value": "19"
+          },
+          {
+            "@name": "pitchlfo_freq",
+            "@value": "12"
+          },
+          {
+            "@name": "pitchlfo_depth",
+            "@value": "20"
+          },
+          {
+            "@name": "pitchlfo_freqcc25",
+            "@value": "-12"
+          },
+          {
+            "@name": "ampeg_attack",
+            "@value": "0.001"
+          },
+          {
+            "@name": "volume",
+            "@value": "-9"
+          },
+          {
+            "@name": "xfin_locc21",
+            "@value": "0"
+          },
+          {
+            "@name": "xfin_hicc21",
+            "@value": "127"
+          },
+          {
+            "@name": "effect1",
+            "@value": "40"
+          },
+          {
+            "@name": "effect2",
+            "@value": "20"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "loopstart",
+            "@value": "12629"
+          },
+          {
+            "@name": "loopend",
+            "@value": "56728"
+          },
+          {
+            "@name": "loopmode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "transpose",
+            "@value": "24"
+          },
+          {
+            "@name": "pitchlfo_freq",
+            "@value": "12"
+          },
+          {
+            "@name": "pitchlfo_depth",
+            "@value": "20"
+          },
+          {
+            "@name": "pitchlfo_freqcc25",
+            "@value": "-12"
+          },
+          {
+            "@name": "ampeg_attack",
+            "@value": "0.001"
+          },
+          {
+            "@name": "volume",
+            "@value": "-9"
+          },
+          {
+            "@name": "xfin_locc22",
+            "@value": "0"
+          },
+          {
+            "@name": "xfin_hicc22",
+            "@value": "127"
+          },
+          {
+            "@name": "effect1",
+            "@value": "40"
+          },
+          {
+            "@name": "effect2",
+            "@value": "20"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "loopstart",
+            "@value": "12629"
+          },
+          {
+            "@name": "loopend",
+            "@value": "56728"
+          },
+          {
+            "@name": "loopmode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "transpose",
+            "@value": "31"
+          },
+          {
+            "@name": "pitchlfo_freq",
+            "@value": "12"
+          },
+          {
+            "@name": "pitchlfo_depth",
+            "@value": "20"
+          },
+          {
+            "@name": "pitchlfo_freqcc25",
+            "@value": "-12"
+          },
+          {
+            "@name": "ampeg_attack",
+            "@value": "0.001"
+          },
+          {
+            "@name": "volume",
+            "@value": "-9"
+          },
+          {
+            "@name": "xfin_locc23",
+            "@value": "0"
+          },
+          {
+            "@name": "xfin_hicc23",
+            "@value": "127"
+          },
+          {
+            "@name": "effect1",
+            "@value": "40"
+          },
+          {
+            "@name": "effect2",
+            "@value": "20"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <group>
 	<opcode name="sample" value="..\..\samples\noise.wav" />
 	<opcode name="loopmode" value="loop_continuous" />
@@ -30,3 +31,4 @@
 	<opcode name="eg10_depthadd_lfo10" value="100" />
 	<opcode name="pan" value="100" />
 </region>
+</sfz>

@@ -1,62 +1,64 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "@name": "sample",
-        "@value": "..\\..\\samples\\mono silence.wav"
-      },
-      {
-        "@name": "loop_mode",
-        "@value": "loop_continuous"
-      },
-      {
-        "@name": "amp_veltrack",
-        "@value": "0"
-      },
-      {
-        "@name": "noise_level",
-        "@value": "0"
-      },
-      {
-        "@name": "noise_step_oncc73",
-        "@value": "100"
-      },
-      {
-        "@name": "lfo01_freq",
-        "@value": "2"
-      },
-      {
-        "@name": "lfo01_noisestep_oncc70",
-        "@value": "100"
-      },
-      {
-        "@name": "lfo01_noisestep_smoothcc70",
-        "@value": "100"
-      },
-      {
-        "@name": "lfo01_noisestep_oncc20",
-        "@value": "100"
-      },
-      {
-        "@name": "lfo01_noisestep_stepcc20",
-        "@value": "51"
-      },
-      {
-        "@name": "lfo01_noisestep_oncc21",
-        "@value": "100"
-      },
-      {
-        "@name": "lfo01_noisestep_smoothcc21",
-        "@value": "1000"
-      },
-      {
-        "@name": "lfo01_noisestep_oncc129",
-        "@value": "100"
-      },
-      {
-        "@name": "lfo01_noisestep_smoothcc129",
-        "@value": "500"
-      }
-    ]
+  "sfz": {
+    "region": {
+      "opcode": [
+        {
+          "@name": "sample",
+          "@value": "..\\..\\samples\\mono silence.wav"
+        },
+        {
+          "@name": "loop_mode",
+          "@value": "loop_continuous"
+        },
+        {
+          "@name": "amp_veltrack",
+          "@value": "0"
+        },
+        {
+          "@name": "noise_level",
+          "@value": "0"
+        },
+        {
+          "@name": "noise_step_oncc73",
+          "@value": "100"
+        },
+        {
+          "@name": "lfo01_freq",
+          "@value": "2"
+        },
+        {
+          "@name": "lfo01_noisestep_oncc70",
+          "@value": "100"
+        },
+        {
+          "@name": "lfo01_noisestep_smoothcc70",
+          "@value": "100"
+        },
+        {
+          "@name": "lfo01_noisestep_oncc20",
+          "@value": "100"
+        },
+        {
+          "@name": "lfo01_noisestep_stepcc20",
+          "@value": "51"
+        },
+        {
+          "@name": "lfo01_noisestep_oncc21",
+          "@value": "100"
+        },
+        {
+          "@name": "lfo01_noisestep_smoothcc21",
+          "@value": "1000"
+        },
+        {
+          "@name": "lfo01_noisestep_oncc129",
+          "@value": "100"
+        },
+        {
+          "@name": "lfo01_noisestep_smoothcc129",
+          "@value": "500"
+        }
+      ]
+    }
   }
 }

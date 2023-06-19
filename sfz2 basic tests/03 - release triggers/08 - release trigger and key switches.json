@@ -1,0 +1,116 @@
+{
+  "sfz": {
+    "global": {
+      "opcode": [
+        {
+          "@name": "sw_lokey",
+          "@value": "0"
+        },
+        {
+          "@name": "sw_hikey",
+          "@value": "11"
+        },
+        {
+          "@name": "sw_default",
+          "@value": "0"
+        },
+        {
+          "@name": "lokey",
+          "@value": "12"
+        }
+      ]
+    },
+    "group": [
+      {
+        "opcode": {
+          "@name": "sw_last",
+          "@value": "0"
+        }
+      },
+      {
+        "opcode": {
+          "@name": "sw_last",
+          "@value": "1"
+        }
+      }
+    ],
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\110.wav"
+          },
+          {
+            "@name": "loop_start",
+            "@value": "10825"
+          },
+          {
+            "@name": "loop_end",
+            "@value": "32473"
+          },
+          {
+            "@name": "loop_mode",
+            "@value": "loop_continuous"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "loop_start",
+            "@value": "12629"
+          },
+          {
+            "@name": "loop_end",
+            "@value": "56728"
+          },
+          {
+            "@name": "loop_mode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "trigger",
+            "@value": "release"
+          },
+          {
+            "@name": "ampeg_sustain",
+            "@value": "0"
+          },
+          {
+            "@name": "ampeg_decay",
+            "@value": "1"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "loop_start",
+            "@value": "12629"
+          },
+          {
+            "@name": "loop_end",
+            "@value": "56728"
+          },
+          {
+            "@name": "loop_mode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "end",
+            "@value": "-1"
+          }
+        ]
+      }
+    ]
+  }
+}

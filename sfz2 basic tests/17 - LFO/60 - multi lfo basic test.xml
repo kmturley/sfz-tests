@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <region>
 	<opcode name="volume" value="-6" />
 	<opcode name="sample" value="*sine" />
@@ -11,3 +12,4 @@
 	<opcode name="lfo06_offset2" value="0" />
 	<opcode name="lfo06_scale2" value="1" />
 </region>
+</sfz>

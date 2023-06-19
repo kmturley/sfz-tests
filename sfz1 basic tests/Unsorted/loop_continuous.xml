@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <region>
 	<opcode name="sample" value="..\..\samples\sweep.wav" />
 	<opcode name="pitch_keytrack" value="0" />
@@ -7,3 +8,4 @@
 	<opcode name="loopend" value="33857" />
 	<opcode name="ampeg_release" value="10" />
 </region>
+</sfz>

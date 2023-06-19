@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <region>
 	<opcode name="key" value="c4" />
 	<opcode name="sample" value="..\..\samples\noise.wav" />
@@ -9,3 +10,4 @@
 	<opcode name="trigger" value="release_key" />
 	<opcode name="rt_dead" value="on" />
 </region>
+</sfz>

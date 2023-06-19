@@ -1,18 +1,20 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "@name": "sample",
-        "@value": "..\\..\\samples\\noise stereo.wav"
-      },
-      {
-        "@name": "loop_mode",
-        "@value": "loop_continuous"
-      },
-      {
-        "@name": "fil_type",
-        "@value": "pink"
-      }
-    ]
+  "sfz": {
+    "region": {
+      "opcode": [
+        {
+          "@name": "sample",
+          "@value": "..\\..\\samples\\noise stereo.wav"
+        },
+        {
+          "@name": "loop_mode",
+          "@value": "loop_continuous"
+        },
+        {
+          "@name": "fil_type",
+          "@value": "pink"
+        }
+      ]
+    }
   }
 }

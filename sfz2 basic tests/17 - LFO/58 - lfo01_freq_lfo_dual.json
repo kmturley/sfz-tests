@@ -1,0 +1,98 @@
+{
+  "sfz": {
+    "group": {
+      "opcode": [
+        {
+          "@name": "sample",
+          "@value": "..\\..\\samples\\440.wav"
+        },
+        {
+          "@name": "loop_mode",
+          "@value": "loop_continuous"
+        },
+        {
+          "@name": "loop_start",
+          "@value": "12629"
+        },
+        {
+          "@name": "loop_end",
+          "@value": "56728"
+        },
+        {
+          "@name": "volume",
+          "@value": "-6"
+        },
+        {
+          "@name": "amp_veltrack",
+          "@value": "0"
+        }
+      ]
+    },
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "pan",
+            "@value": "-100"
+          },
+          {
+            "@name": "lfo07_wave",
+            "@value": "2"
+          },
+          {
+            "@name": "lfo07_freq",
+            "@value": "3"
+          },
+          {
+            "@name": "lfo07_pitch",
+            "@value": "200"
+          },
+          {
+            "@name": "lfo08_wave",
+            "@value": "2"
+          },
+          {
+            "@name": "lfo08_freq",
+            "@value": "0.5"
+          },
+          {
+            "@name": "lfo08_freq_lfo07",
+            "@value": "3"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "pan",
+            "@value": "100"
+          },
+          {
+            "@name": "lfo08_wave",
+            "@value": "2"
+          },
+          {
+            "@name": "lfo08_freq",
+            "@value": "3"
+          },
+          {
+            "@name": "lfo08_pitch",
+            "@value": "200"
+          },
+          {
+            "@name": "lfo07_wave",
+            "@value": "2"
+          },
+          {
+            "@name": "lfo07_freq",
+            "@value": "0.5"
+          },
+          {
+            "@name": "lfo07_freq_lfo08",
+            "@value": "3"
+          }
+        ]
+      }
+    ]
+  }
+}

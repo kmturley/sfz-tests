@@ -1,7 +1,9 @@
 <?xml version="1.0"?>
+<sfz>
 <region>
 	<opcode name="sample" value="..\..\samples\mono 400 10s with 3 loops.wav" />
 	<opcode name="loop_tune01" value="100" />
 	<opcode name="loop_tune02" value="500" />
 	<opcode name="loop_tune03" value="1200" />
 </region>
+</sfz>

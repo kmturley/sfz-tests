@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <region>
 	<opcode name="sample" value="..\..\samples\noise.wav" />
 	<opcode name="cutoff" value="1000" />
@@ -14,3 +15,4 @@
 	<opcode name="fileg_sustain" value="60" />
 	<opcode name="fileg_release" value=".5" />
 </region>
+</sfz>

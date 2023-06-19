@@ -1,0 +1,62 @@
+{
+  "sfz": {
+    "group": {
+      "opcode": [
+        {
+          "@name": "volume",
+          "@value": "-6"
+        },
+        {
+          "@name": "sample",
+          "@value": "*tri"
+        },
+        {
+          "@name": "ampeg_release",
+          "@value": "1"
+        }
+      ]
+    },
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "pan",
+            "@value": "-100"
+          },
+          {
+            "@name": "polyphony_stealing",
+            "@value": "1"
+          },
+          {
+            "@name": "polyphony_group",
+            "@value": "1"
+          },
+          {
+            "@name": "polyphony",
+            "@value": "8"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "pan",
+            "@value": "100"
+          },
+          {
+            "@name": "polyphony_stealing",
+            "@value": "0"
+          },
+          {
+            "@name": "polyphony_group",
+            "@value": "2"
+          },
+          {
+            "@name": "polyphony",
+            "@value": "8"
+          }
+        ]
+      }
+    ]
+  }
+}

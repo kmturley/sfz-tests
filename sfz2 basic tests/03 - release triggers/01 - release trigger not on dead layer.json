@@ -1,0 +1,62 @@
+{
+  "sfz": {
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "ampeg_hold",
+            "@value": "0.3"
+          },
+          {
+            "@name": "ampeg_sustain",
+            "@value": "0"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\110.wav"
+          },
+          {
+            "@name": "loop_start",
+            "@value": "10825"
+          },
+          {
+            "@name": "loop_end",
+            "@value": "32473"
+          },
+          {
+            "@name": "loop_mode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "trigger",
+            "@value": "release"
+          },
+          {
+            "@name": "rt_dead",
+            "@value": "off"
+          },
+          {
+            "@name": "ampeg_attack",
+            "@value": "0.1"
+          },
+          {
+            "@name": "ampeg_decay",
+            "@value": "0.4"
+          },
+          {
+            "@name": "ampeg_sustain",
+            "@value": "0"
+          }
+        ]
+      }
+    ]
+  }
+}

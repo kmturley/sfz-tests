@@ -1,0 +1,201 @@
+{
+  "sfz": {
+    "group": {
+      "opcode": [
+        {
+          "@name": "sample",
+          "@value": "..\\..\\samples\\440.wav"
+        },
+        {
+          "@name": "loop_start",
+          "@value": "12629"
+        },
+        {
+          "@name": "loop_end",
+          "@value": "56728"
+        },
+        {
+          "@name": "loop_mode",
+          "@value": "loop_continuous"
+        },
+        {
+          "@name": "ampeg_hold",
+          "@value": "0.25"
+        },
+        {
+          "@name": "ampeg_attack",
+          "@value": "0.01"
+        },
+        {
+          "@name": "ampeg_sustain",
+          "@value": "0"
+        }
+      ]
+    },
+    "region": [
+      null,
+      {
+        "opcode": [
+          {
+            "@name": "delay",
+            "@value": "0.25"
+          },
+          {
+            "@name": "transpose",
+            "@value": "2"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "delay",
+            "@value": "0.5"
+          },
+          {
+            "@name": "transpose",
+            "@value": "4"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "delay",
+            "@value": "0.75"
+          },
+          {
+            "@name": "transpose",
+            "@value": "7"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "delay",
+            "@value": "1"
+          },
+          {
+            "@name": "transpose",
+            "@value": "5"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "delay",
+            "@value": "1.25"
+          },
+          {
+            "@name": "transpose",
+            "@value": "5"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "delay",
+            "@value": "1.5"
+          },
+          {
+            "@name": "transpose",
+            "@value": "9"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "delay",
+            "@value": "1.75"
+          },
+          {
+            "@name": "transpose",
+            "@value": "7"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "delay",
+            "@value": "2"
+          },
+          {
+            "@name": "transpose",
+            "@value": "7"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "delay",
+            "@value": "2.25"
+          },
+          {
+            "@name": "transpose",
+            "@value": "12"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "delay",
+            "@value": "2.5"
+          },
+          {
+            "@name": "transpose",
+            "@value": "11"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "delay",
+            "@value": "2.75"
+          },
+          {
+            "@name": "transpose",
+            "@value": "12"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "delay",
+            "@value": "3"
+          },
+          {
+            "@name": "transpose",
+            "@value": "7"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "delay",
+            "@value": "3.25"
+          },
+          {
+            "@name": "transpose",
+            "@value": "4"
+          }
+        ]
+      },
+      {
+        "opcode": {
+          "@name": "delay",
+          "@value": "3.5"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "sfz": {
+    "group": {
+      "opcode": {
+        "@name": "sample",
+        "@value": "..\\..\\samples\\bd.wav"
+      }
+    },
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "transpose",
+            "@value": "0"
+          },
+          {
+            "@name": "lorand",
+            "@value": "0"
+          },
+          {
+            "@name": "hirand",
+            "@value": "0.25"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "transpose",
+            "@value": "3"
+          },
+          {
+            "@name": "lorand",
+            "@value": "0.25"
+          },
+          {
+            "@name": "hirand",
+            "@value": "0.5"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "transpose",
+            "@value": "6"
+          },
+          {
+            "@name": "lorand",
+            "@value": "0.5"
+          },
+          {
+            "@name": "hirand",
+            "@value": "0.75"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "transpose",
+            "@value": "8"
+          },
+          {
+            "@name": "lorand",
+            "@value": "0.75"
+          },
+          {
+            "@name": "hirand",
+            "@value": "1"
+          }
+        ]
+      }
+    ]
+  }
+}

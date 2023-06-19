@@ -1,38 +1,40 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "@name": "sample",
-        "@value": "..\\..\\samples\\noise.wav"
-      },
-      {
-        "@name": "loop_mode",
-        "@value": "loop_continuous"
-      },
-      {
-        "@name": "volume",
-        "@value": "-6"
-      },
-      {
-        "@name": "amp_veltrack",
-        "@value": "0"
-      },
-      {
-        "@name": "eq1_gain",
-        "@value": "12"
-      },
-      {
-        "@name": "eq1_freq",
-        "@value": "3000"
-      },
-      {
-        "@name": "lfo01_freq",
-        "@value": "2"
-      },
-      {
-        "@name": "lfo01_eq1freq",
-        "@value": "3000"
-      }
-    ]
+  "sfz": {
+    "region": {
+      "opcode": [
+        {
+          "@name": "sample",
+          "@value": "..\\..\\samples\\noise.wav"
+        },
+        {
+          "@name": "loop_mode",
+          "@value": "loop_continuous"
+        },
+        {
+          "@name": "volume",
+          "@value": "-6"
+        },
+        {
+          "@name": "amp_veltrack",
+          "@value": "0"
+        },
+        {
+          "@name": "eq1_gain",
+          "@value": "12"
+        },
+        {
+          "@name": "eq1_freq",
+          "@value": "3000"
+        },
+        {
+          "@name": "lfo01_freq",
+          "@value": "2"
+        },
+        {
+          "@name": "lfo01_eq1freq",
+          "@value": "3000"
+        }
+      ]
+    }
   }
 }

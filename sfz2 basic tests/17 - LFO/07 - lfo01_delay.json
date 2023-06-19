@@ -1,46 +1,48 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "@name": "sample",
-        "@value": "..\\..\\samples\\440.wav"
-      },
-      {
-        "@name": "loop_mode",
-        "@value": "loop_continuous"
-      },
-      {
-        "@name": "loop_start",
-        "@value": "12629"
-      },
-      {
-        "@name": "loop_end",
-        "@value": "56728"
-      },
-      {
-        "@name": "lfo01_delay",
-        "@value": "1"
-      },
-      {
-        "@name": "lfo01_fade",
-        "@value": "2"
-      },
-      {
-        "@name": "lfo01_count",
-        "@value": "4"
-      },
-      {
-        "@name": "lfo01_wave",
-        "@value": "2"
-      },
-      {
-        "@name": "lfo01_freq",
-        "@value": "1"
-      },
-      {
-        "@name": "lfo01_pitch",
-        "@value": "200"
-      }
-    ]
+  "sfz": {
+    "region": {
+      "opcode": [
+        {
+          "@name": "sample",
+          "@value": "..\\..\\samples\\440.wav"
+        },
+        {
+          "@name": "loop_mode",
+          "@value": "loop_continuous"
+        },
+        {
+          "@name": "loop_start",
+          "@value": "12629"
+        },
+        {
+          "@name": "loop_end",
+          "@value": "56728"
+        },
+        {
+          "@name": "lfo01_delay",
+          "@value": "1"
+        },
+        {
+          "@name": "lfo01_fade",
+          "@value": "2"
+        },
+        {
+          "@name": "lfo01_count",
+          "@value": "4"
+        },
+        {
+          "@name": "lfo01_wave",
+          "@value": "2"
+        },
+        {
+          "@name": "lfo01_freq",
+          "@value": "1"
+        },
+        {
+          "@name": "lfo01_pitch",
+          "@value": "200"
+        }
+      ]
+    }
   }
 }

@@ -1,34 +1,36 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "@name": "sample",
-        "@value": "..\\..\\samples\\noise.wav"
-      },
-      {
-        "@name": "cutoff",
-        "@value": "250"
-      },
-      {
-        "@name": "resonance",
-        "@value": "40"
-      },
-      {
-        "@name": "volume",
-        "@value": "-6"
-      },
-      {
-        "@name": "loop_mode",
-        "@value": "loop_continuous"
-      },
-      {
-        "@name": "fileg_attack",
-        "@value": "1"
-      },
-      {
-        "@name": "fileg_depth",
-        "@value": "1200"
-      }
-    ]
+  "sfz": {
+    "region": {
+      "opcode": [
+        {
+          "@name": "sample",
+          "@value": "..\\..\\samples\\noise.wav"
+        },
+        {
+          "@name": "cutoff",
+          "@value": "250"
+        },
+        {
+          "@name": "resonance",
+          "@value": "40"
+        },
+        {
+          "@name": "volume",
+          "@value": "-6"
+        },
+        {
+          "@name": "loop_mode",
+          "@value": "loop_continuous"
+        },
+        {
+          "@name": "fileg_attack",
+          "@value": "1"
+        },
+        {
+          "@name": "fileg_depth",
+          "@value": "1200"
+        }
+      ]
+    }
   }
 }

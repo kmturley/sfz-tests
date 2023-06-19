@@ -1,0 +1,78 @@
+{
+  "sfz": {
+    "group": {
+      "opcode": [
+        {
+          "@name": "xf_cccurve",
+          "@value": "gain"
+        },
+        {
+          "@name": "sample",
+          "@value": "..\\..\\samples\\440.wav"
+        },
+        {
+          "@name": "loop_start",
+          "@value": "12629"
+        },
+        {
+          "@name": "loop_end",
+          "@value": "56728"
+        },
+        {
+          "@name": "loop_mode",
+          "@value": "loop_continuous"
+        },
+        {
+          "@name": "amp_veltrack",
+          "@value": "0"
+        }
+      ]
+    },
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "xfin_locc1",
+            "@value": "0"
+          },
+          {
+            "@name": "xfin_hicc1",
+            "@value": "64"
+          },
+          {
+            "@name": "xfout_locc1",
+            "@value": "64"
+          },
+          {
+            "@name": "xfout_hicc1",
+            "@value": "127"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "transpose",
+            "@value": "-12"
+          },
+          {
+            "@name": "xfout_locc1",
+            "@value": "0"
+          },
+          {
+            "@name": "xfout_hicc1",
+            "@value": "64"
+          },
+          {
+            "@name": "xfin_locc1",
+            "@value": "64"
+          },
+          {
+            "@name": "xfin_hicc1",
+            "@value": "127"
+          }
+        ]
+      }
+    ]
+  }
+}

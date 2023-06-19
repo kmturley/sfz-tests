@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <region>
 	<opcode name="sample" value="..\..\samples\only l.wav" />
 	<opcode name="loop_mode" value="loop_continuous" />
@@ -14,3 +15,4 @@
 	<opcode name="lfo01_width_oncc129" value="100" />
 	<opcode name="lfo01_width_smoothcc129" value="500" />
 </region>
+</sfz>

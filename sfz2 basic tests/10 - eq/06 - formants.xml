@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <group>
 	<opcode name="sample" value="..\..\samples\noise mono.wav" />
 	<opcode name="loop_mode" value="loop_continuous" />
@@ -21,3 +22,4 @@
 	<opcode name="eq3_gain" value="15" />
 	<opcode name="eq3_gain_oncc1" value="-6" />
 </region>
+</sfz>

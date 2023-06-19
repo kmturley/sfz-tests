@@ -1,0 +1,86 @@
+{
+  "sfz": {
+    "group": {
+      "opcode": [
+        {
+          "@name": "sw_lokey",
+          "@value": "48"
+        },
+        {
+          "@name": "sw_hikey",
+          "@value": "52"
+        },
+        {
+          "@name": "sw_default",
+          "@value": "49"
+        },
+        {
+          "@name": "lokey",
+          "@value": "60"
+        }
+      ]
+    },
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "sw_last",
+            "@value": "c3"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\110.wav"
+          },
+          {
+            "@name": "sw_last",
+            "@value": "49"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\noise.wav"
+          },
+          {
+            "@name": "sw_last",
+            "@value": "50"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\bd.wav"
+          },
+          {
+            "@name": "sw_last",
+            "@value": "51"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\hh.wav"
+          },
+          {
+            "@name": "sw_last",
+            "@value": "52"
+          }
+        ]
+      }
+    ]
+  }
+}

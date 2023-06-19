@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <region>
 	<opcode name="sample" value="..\..\samples\440.wav" />
 	<opcode name="loop_mode" value="loop_continuous" />
@@ -23,3 +24,4 @@
 	<opcode name="lfo10_freq" value="4" />
 	<opcode name="lfo10_pitch" value="200" />
 </region>
+</sfz>

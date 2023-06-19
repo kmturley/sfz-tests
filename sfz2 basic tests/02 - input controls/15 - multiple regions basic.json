@@ -1,0 +1,52 @@
+{
+  "sfz": {
+    "group": {
+      "opcode": {
+        "@name": "sample",
+        "@value": "..\\..\\samples\\440.wav"
+      }
+    },
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "transpose",
+            "@value": "-36"
+          },
+          {
+            "@name": "volume",
+            "@value": "-6"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "hikey",
+            "@value": "b3"
+          },
+          {
+            "@name": "transpose",
+            "@value": "-24"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "lokey",
+            "@value": "c4"
+          },
+          {
+            "@name": "lovel",
+            "@value": "64"
+          },
+          {
+            "@name": "transpose",
+            "@value": "-12"
+          }
+        ]
+      }
+    ]
+  }
+}

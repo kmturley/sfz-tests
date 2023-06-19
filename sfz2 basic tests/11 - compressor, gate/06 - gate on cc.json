@@ -1,0 +1,51 @@
+{
+  "sfz": {
+    "group": {
+      "opcode": [
+        {
+          "@name": "sample",
+          "@value": "..\\..\\samples\\440.wav"
+        },
+        {
+          "@name": "loop_start",
+          "@value": "12629"
+        },
+        {
+          "@name": "loop_end",
+          "@value": "56728"
+        },
+        {
+          "@name": "loop_mode",
+          "@value": "loop_continuous"
+        }
+      ]
+    },
+    "region": [
+      null,
+      {
+        "opcode": [
+          {
+            "@name": "transpose",
+            "@value": "12"
+          },
+          {
+            "@name": "gate_threshold",
+            "@value": "-20"
+          },
+          {
+            "@name": "gate_attack",
+            "@value": ".0"
+          },
+          {
+            "@name": "gate_release",
+            "@value": ".0"
+          },
+          {
+            "@name": "gate_oncc64",
+            "@value": "100"
+          }
+        ]
+      }
+    ]
+  }
+}

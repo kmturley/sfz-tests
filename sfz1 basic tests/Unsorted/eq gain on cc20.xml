@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <region>
 	<opcode name="locc20" value="0" />
 	<opcode name="hicc20" value="20" />
@@ -53,3 +54,4 @@
 	<opcode name="eq1_bw" value="0.3" />
 	<opcode name="eq1_gain" value="18" />
 </region>
+</sfz>

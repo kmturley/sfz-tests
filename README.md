@@ -15,7 +15,7 @@ Automatically generate `.xml` versions of each `.sfz` file using the sfizz prepr
     curl -LO https://github.com/studiorack/sfizz/releases/download/v1.1.1/sfizz-preprocessor-mac.zip
     unzip sfizz-preprocessor-mac.zip && rm sfizz-preprocessor-mac.zip
     IFS=$'\n'
-    for file in $(find . -type f -name '*.sfz'); do ./sfizz_preprocessor "$file" --mode=xml > "${file%.*}.xml"; done
+    for file in $(find . -type f -name '*.sfz'); do { ./sfizz_preprocessor "$file" --mode=xml | sed "s/?>/?>\n<sfz>/"; echo "</sfz>"; } > "${file%.*}.xml"; done
 
 Automatically convert `.xml` files to `.json` using the yq tool:
 

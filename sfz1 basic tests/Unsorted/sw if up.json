@@ -1,0 +1,126 @@
+{
+  "sfz": {
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "lokey",
+            "@value": "60"
+          },
+          {
+            "@name": "sw_lokey",
+            "@value": "48"
+          },
+          {
+            "@name": "sw_hikey",
+            "@value": "52"
+          },
+          {
+            "@name": "sw_up",
+            "@value": "48"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\110.wav"
+          },
+          {
+            "@name": "lokey",
+            "@value": "60"
+          },
+          {
+            "@name": "sw_lokey",
+            "@value": "48"
+          },
+          {
+            "@name": "sw_hikey",
+            "@value": "52"
+          },
+          {
+            "@name": "sw_up",
+            "@value": "49"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\noise.wav"
+          },
+          {
+            "@name": "lokey",
+            "@value": "60"
+          },
+          {
+            "@name": "sw_lokey",
+            "@value": "48"
+          },
+          {
+            "@name": "sw_hikey",
+            "@value": "52"
+          },
+          {
+            "@name": "sw_up",
+            "@value": "50"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\bd.wav"
+          },
+          {
+            "@name": "lokey",
+            "@value": "60"
+          },
+          {
+            "@name": "sw_lokey",
+            "@value": "48"
+          },
+          {
+            "@name": "sw_hikey",
+            "@value": "52"
+          },
+          {
+            "@name": "sw_up",
+            "@value": "51"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\hh.wav"
+          },
+          {
+            "@name": "lokey",
+            "@value": "60"
+          },
+          {
+            "@name": "sw_lokey",
+            "@value": "48"
+          },
+          {
+            "@name": "sw_hikey",
+            "@value": "52"
+          },
+          {
+            "@name": "sw_up",
+            "@value": "52"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,66 +1,68 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "@name": "sample",
-        "@value": "..\\..\\samples\\two tone.wav"
-      },
-      {
-        "@name": "loop_mode",
-        "@value": "loop_continuous"
-      },
-      {
-        "@name": "drive_shape",
-        "@value": "100"
-      },
-      {
-        "@name": "volume",
-        "@value": "-6"
-      },
-      {
-        "@name": "drive_filter",
-        "@value": "lpf_2p"
-      },
-      {
-        "@name": "drive_tone_oncc73",
-        "@value": "-100"
-      },
-      {
-        "@name": "drive_tone_smoothcc73",
-        "@value": "1"
-      },
-      {
-        "@name": "drive_tone_oncc70",
-        "@value": "-100"
-      },
-      {
-        "@name": "drive_tone_smoothcc70",
-        "@value": "100"
-      },
-      {
-        "@name": "drive_tone_oncc20",
-        "@value": "-100"
-      },
-      {
-        "@name": "drive_tone_stepcc20",
-        "@value": "-25"
-      },
-      {
-        "@name": "drive_tone_oncc21",
-        "@value": "-100"
-      },
-      {
-        "@name": "drive_tone_smoothcc21",
-        "@value": "500"
-      },
-      {
-        "@name": "drive_tone_oncc129",
-        "@value": "-100"
-      },
-      {
-        "@name": "drive_tone_smoothcc129",
-        "@value": "200"
-      }
-    ]
+  "sfz": {
+    "region": {
+      "opcode": [
+        {
+          "@name": "sample",
+          "@value": "..\\..\\samples\\two tone.wav"
+        },
+        {
+          "@name": "loop_mode",
+          "@value": "loop_continuous"
+        },
+        {
+          "@name": "drive_shape",
+          "@value": "100"
+        },
+        {
+          "@name": "volume",
+          "@value": "-6"
+        },
+        {
+          "@name": "drive_filter",
+          "@value": "lpf_2p"
+        },
+        {
+          "@name": "drive_tone_oncc73",
+          "@value": "-100"
+        },
+        {
+          "@name": "drive_tone_smoothcc73",
+          "@value": "1"
+        },
+        {
+          "@name": "drive_tone_oncc70",
+          "@value": "-100"
+        },
+        {
+          "@name": "drive_tone_smoothcc70",
+          "@value": "100"
+        },
+        {
+          "@name": "drive_tone_oncc20",
+          "@value": "-100"
+        },
+        {
+          "@name": "drive_tone_stepcc20",
+          "@value": "-25"
+        },
+        {
+          "@name": "drive_tone_oncc21",
+          "@value": "-100"
+        },
+        {
+          "@name": "drive_tone_smoothcc21",
+          "@value": "500"
+        },
+        {
+          "@name": "drive_tone_oncc129",
+          "@value": "-100"
+        },
+        {
+          "@name": "drive_tone_smoothcc129",
+          "@value": "200"
+        }
+      ]
+    }
   }
 }

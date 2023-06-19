@@ -1,7 +1,9 @@
 <?xml version="1.0"?>
+<sfz>
 <region>
 	<opcode name="sample" value="..\..\samples\440.wav" />
 	<opcode name="amp_keycenter" value="60" />
 	<opcode name="amp_keytrack" value="-1" />
 	<opcode name="volume" value="-10" />
 </region>
+</sfz>

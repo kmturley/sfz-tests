@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <region>
 	<opcode name="sample" value="..\..\samples\440.wav" />
 	<opcode name="loop_start" value="12629" />
@@ -7,3 +8,4 @@
 	<opcode name="ampeg_release_oncc131" value="3" />
 	<opcode name="amp_veltrack" value="0" />
 </region>
+</sfz>

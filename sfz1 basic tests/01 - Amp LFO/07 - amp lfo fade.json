@@ -1,42 +1,44 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "@name": "sample",
-        "@value": "..\\..\\samples\\440.wav"
-      },
-      {
-        "@name": "loopstart",
-        "@value": "12629"
-      },
-      {
-        "@name": "loopend",
-        "@value": "56728"
-      },
-      {
-        "@name": "loopmode",
-        "@value": "loop_continuous"
-      },
-      {
-        "@name": "amplfo_delay",
-        "@value": "0.5"
-      },
-      {
-        "@name": "amplfo_fade",
-        "@value": "1"
-      },
-      {
-        "@name": "amplfo_freq",
-        "@value": "5"
-      },
-      {
-        "@name": "amplfo_depth",
-        "@value": "12"
-      },
-      {
-        "@name": "volume",
-        "@value": "-12"
-      }
-    ]
+  "sfz": {
+    "region": {
+      "opcode": [
+        {
+          "@name": "sample",
+          "@value": "..\\..\\samples\\440.wav"
+        },
+        {
+          "@name": "loopstart",
+          "@value": "12629"
+        },
+        {
+          "@name": "loopend",
+          "@value": "56728"
+        },
+        {
+          "@name": "loopmode",
+          "@value": "loop_continuous"
+        },
+        {
+          "@name": "amplfo_delay",
+          "@value": "0.5"
+        },
+        {
+          "@name": "amplfo_fade",
+          "@value": "1"
+        },
+        {
+          "@name": "amplfo_freq",
+          "@value": "5"
+        },
+        {
+          "@name": "amplfo_depth",
+          "@value": "12"
+        },
+        {
+          "@name": "volume",
+          "@value": "-12"
+        }
+      ]
+    }
   }
 }

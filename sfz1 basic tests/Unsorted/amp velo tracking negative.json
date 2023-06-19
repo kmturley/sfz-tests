@@ -1,0 +1,46 @@
+{
+  "sfz": {
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "lokey",
+            "@value": "0"
+          },
+          {
+            "@name": "hikey",
+            "@value": "59"
+          },
+          {
+            "@name": "amp_veltrack",
+            "@value": "0"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "lokey",
+            "@value": "60"
+          },
+          {
+            "@name": "hikey",
+            "@value": "127"
+          },
+          {
+            "@name": "amp_veltrack",
+            "@value": "-100"
+          }
+        ]
+      }
+    ]
+  }
+}

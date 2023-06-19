@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <group>
 	<opcode name="sw_lokey" value="48" />
 	<opcode name="sw_hikey" value="52" />
@@ -25,3 +26,4 @@
 	<opcode name="sample" value="..\..\samples\hh.wav" />
 	<opcode name="sw_last" value="52" />
 </region>
+</sfz>

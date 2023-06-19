@@ -1,38 +1,40 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "@name": "sample",
-        "@value": "..\\..\\samples\\noise.wav"
-      },
-      {
-        "@name": "loop_mode",
-        "@value": "loop_continuous"
-      },
-      {
-        "@name": "eq2_freq",
-        "@value": "200"
-      },
-      {
-        "@name": "eq2_freq_oncc73",
-        "@value": "2400"
-      },
-      {
-        "@name": "eq2_bw",
-        "@value": "1"
-      },
-      {
-        "@name": "eq2_bw_oncc70",
-        "@value": "1"
-      },
-      {
-        "@name": "eq2_gain",
-        "@value": "6"
-      },
-      {
-        "@name": "eq2_gain_oncc20",
-        "@value": "18"
-      }
-    ]
+  "sfz": {
+    "region": {
+      "opcode": [
+        {
+          "@name": "sample",
+          "@value": "..\\..\\samples\\noise.wav"
+        },
+        {
+          "@name": "loop_mode",
+          "@value": "loop_continuous"
+        },
+        {
+          "@name": "eq2_freq",
+          "@value": "200"
+        },
+        {
+          "@name": "eq2_freq_oncc73",
+          "@value": "2400"
+        },
+        {
+          "@name": "eq2_bw",
+          "@value": "1"
+        },
+        {
+          "@name": "eq2_bw_oncc70",
+          "@value": "1"
+        },
+        {
+          "@name": "eq2_gain",
+          "@value": "6"
+        },
+        {
+          "@name": "eq2_gain_oncc20",
+          "@value": "18"
+        }
+      ]
+    }
   }
 }

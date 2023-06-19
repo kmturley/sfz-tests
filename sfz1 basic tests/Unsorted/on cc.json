@@ -1,0 +1,102 @@
+{
+  "sfz": {
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\bd.wav"
+          },
+          {
+            "@name": "lokey",
+            "@value": "-1"
+          },
+          {
+            "@name": "hikey",
+            "@value": "-1"
+          },
+          {
+            "@name": "on_locc64",
+            "@value": "127"
+          },
+          {
+            "@name": "on_hicc64",
+            "@value": "127"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\hh.wav"
+          },
+          {
+            "@name": "lokey",
+            "@value": "-1"
+          },
+          {
+            "@name": "hikey",
+            "@value": "-1"
+          },
+          {
+            "@name": "on_locc64",
+            "@value": "0"
+          },
+          {
+            "@name": "on_hicc64",
+            "@value": "0"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\bd.wav"
+          },
+          {
+            "@name": "lokey",
+            "@value": "-1"
+          },
+          {
+            "@name": "hikey",
+            "@value": "-1"
+          },
+          {
+            "@name": "on_locc1",
+            "@value": "0"
+          },
+          {
+            "@name": "on_hicc1",
+            "@value": "0"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\hh.wav"
+          },
+          {
+            "@name": "lokey",
+            "@value": "-1"
+          },
+          {
+            "@name": "hikey",
+            "@value": "-1"
+          },
+          {
+            "@name": "on_locc1",
+            "@value": "64"
+          },
+          {
+            "@name": "on_hicc1",
+            "@value": "127"
+          }
+        ]
+      }
+    ]
+  }
+}

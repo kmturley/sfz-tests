@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <group>
 	<opcode name="sample" value="..\..\samples\bd.wav" />
 </group>
@@ -9,3 +10,4 @@
 	<opcode name="direction" value="reverse" />
 	<opcode name="trigger" value="release" />
 </region>
+</sfz>

@@ -1,30 +1,32 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "@name": "sample",
-        "@value": "..\\..\\samples\\compressor test link.wav"
-      },
-      {
-        "@name": "loop_mode",
-        "@value": "loop_continuous"
-      },
-      {
-        "@name": "gate_stlink",
-        "@value": "on"
-      },
-      {
-        "@name": "gate_threshold",
-        "@value": "-6"
-      },
-      {
-        "@name": "gate_attack",
-        "@value": ".05"
-      },
-      {
-        "@name": "gate_release",
-        "@value": ".05"
-      }
-    ]
+  "sfz": {
+    "region": {
+      "opcode": [
+        {
+          "@name": "sample",
+          "@value": "..\\..\\samples\\compressor test link.wav"
+        },
+        {
+          "@name": "loop_mode",
+          "@value": "loop_continuous"
+        },
+        {
+          "@name": "gate_stlink",
+          "@value": "on"
+        },
+        {
+          "@name": "gate_threshold",
+          "@value": "-6"
+        },
+        {
+          "@name": "gate_attack",
+          "@value": ".05"
+        },
+        {
+          "@name": "gate_release",
+          "@value": ".05"
+        }
+      ]
+    }
   }
 }

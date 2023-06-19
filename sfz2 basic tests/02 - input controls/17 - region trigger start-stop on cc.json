@@ -1,0 +1,58 @@
+{
+  "sfz": {
+    "group": {
+      "opcode": [
+        {
+          "@name": "lokey",
+          "@value": "-1"
+        },
+        {
+          "@name": "hikey",
+          "@value": "-1"
+        },
+        {
+          "@name": "sample",
+          "@value": "..\\..\\samples\\440.ogg"
+        },
+        {
+          "@name": "loop_start",
+          "@value": "12629"
+        },
+        {
+          "@name": "loop_end",
+          "@value": "56728"
+        },
+        {
+          "@name": "loop_mode",
+          "@value": "loop_continuous"
+        }
+      ]
+    },
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "start_locc64",
+            "@value": "127"
+          },
+          {
+            "@name": "start_hicc64",
+            "@value": "127"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "stop_locc64",
+            "@value": "0"
+          },
+          {
+            "@name": "stop_hicc64",
+            "@value": "0"
+          }
+        ]
+      }
+    ]
+  }
+}

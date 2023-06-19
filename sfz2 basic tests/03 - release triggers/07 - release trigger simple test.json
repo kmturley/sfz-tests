@@ -1,0 +1,38 @@
+{
+  "sfz": {
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "key",
+            "@value": "c4"
+          },
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\noise.wav"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "key",
+            "@value": "d4"
+          },
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\hh.wav"
+          },
+          {
+            "@name": "trigger",
+            "@value": "release_key"
+          },
+          {
+            "@name": "rt_dead",
+            "@value": "on"
+          }
+        ]
+      }
+    ]
+  }
+}

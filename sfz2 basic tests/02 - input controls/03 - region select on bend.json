@@ -1,0 +1,50 @@
+{
+  "sfz": {
+    "group": {
+      "opcode": [
+        {
+          "@name": "bend_up",
+          "@value": "0"
+        },
+        {
+          "@name": "bend_down",
+          "@value": "0"
+        }
+      ]
+    },
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "lobend",
+            "@value": "1"
+          },
+          {
+            "@name": "hibend",
+            "@value": "8192"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\110.wav"
+          },
+          {
+            "@name": "lobend",
+            "@value": "-8192"
+          },
+          {
+            "@name": "hibend",
+            "@value": "-1"
+          }
+        ]
+      }
+    ]
+  }
+}

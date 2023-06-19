@@ -1,0 +1,74 @@
+{
+  "sfz": {
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\110.wav"
+          },
+          {
+            "@name": "loop_start",
+            "@value": "10825"
+          },
+          {
+            "@name": "loop_end",
+            "@value": "32473"
+          },
+          {
+            "@name": "loop_mode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "hikey",
+            "@value": "b3"
+          },
+          {
+            "@name": "group",
+            "@value": "1"
+          },
+          {
+            "@name": "off_by",
+            "@value": "2"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "lokey",
+            "@value": "c4"
+          },
+          {
+            "@name": "hikey",
+            "@value": "127"
+          },
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "loop_start",
+            "@value": "12629"
+          },
+          {
+            "@name": "loop_end",
+            "@value": "56728"
+          },
+          {
+            "@name": "loop_mode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "group",
+            "@value": "2"
+          },
+          {
+            "@name": "off_by",
+            "@value": "1"
+          }
+        ]
+      }
+    ]
+  }
+}

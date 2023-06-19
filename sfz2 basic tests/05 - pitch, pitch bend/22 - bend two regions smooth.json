@@ -1,0 +1,54 @@
+{
+  "sfz": {
+    "group": {
+      "opcode": [
+        {
+          "@name": "sample",
+          "@value": "..\\..\\samples\\440.wav"
+        },
+        {
+          "@name": "loop_start",
+          "@value": "12629"
+        },
+        {
+          "@name": "loop_end",
+          "@value": "56728"
+        },
+        {
+          "@name": "loop_mode",
+          "@value": "loop_continuous"
+        },
+        {
+          "@name": "bend_smooth",
+          "@value": "50"
+        }
+      ]
+    },
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "bend_up",
+            "@value": "1200"
+          },
+          {
+            "@name": "bend_down",
+            "@value": "-1200"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "bend_up",
+            "@value": "-1200"
+          },
+          {
+            "@name": "bend_down",
+            "@value": "1200"
+          }
+        ]
+      }
+    ]
+  }
+}

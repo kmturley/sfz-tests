@@ -1,0 +1,118 @@
+{
+  "sfz": {
+    "group": {
+      "opcode": [
+        {
+          "@name": "sample",
+          "@value": "..\\..\\samples\\440.wav"
+        },
+        {
+          "@name": "loop_start",
+          "@value": "12629"
+        },
+        {
+          "@name": "loop_end",
+          "@value": "56728"
+        },
+        {
+          "@name": "loop_mode",
+          "@value": "loop_continuous"
+        },
+        {
+          "@name": "seq_length",
+          "@value": "3"
+        }
+      ]
+    },
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "seq_position",
+            "@value": "1"
+          },
+          {
+            "@name": "hikey",
+            "@value": "c4"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "seq_position",
+            "@value": "2"
+          },
+          {
+            "@name": "hikey",
+            "@value": "c4"
+          },
+          {
+            "@name": "transpose",
+            "@value": "2"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "seq_position",
+            "@value": "3"
+          },
+          {
+            "@name": "hikey",
+            "@value": "c4"
+          },
+          {
+            "@name": "transpose",
+            "@value": "4"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "seq_position",
+            "@value": "1"
+          },
+          {
+            "@name": "lokey",
+            "@value": "c#4"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "seq_position",
+            "@value": "2"
+          },
+          {
+            "@name": "lokey",
+            "@value": "c#4"
+          },
+          {
+            "@name": "transpose",
+            "@value": "2"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "seq_position",
+            "@value": "3"
+          },
+          {
+            "@name": "lokey",
+            "@value": "c#4"
+          },
+          {
+            "@name": "transpose",
+            "@value": "4"
+          }
+        ]
+      }
+    ]
+  }
+}

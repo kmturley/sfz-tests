@@ -1,0 +1,58 @@
+{
+  "sfz": {
+    "group": {
+      "opcode": [
+        {
+          "@name": "sample",
+          "@value": "..\\..\\samples\\440.wav"
+        },
+        {
+          "@name": "loop_start",
+          "@value": "12629"
+        },
+        {
+          "@name": "loop_end",
+          "@value": "56728"
+        },
+        {
+          "@name": "loop_mode",
+          "@value": "loop_continuous"
+        },
+        {
+          "@name": "amp_veltrack",
+          "@value": "0"
+        },
+        {
+          "@name": "xf_keycurve",
+          "@value": "gain"
+        }
+      ]
+    },
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "xfin_lokey",
+            "@value": "c4"
+          },
+          {
+            "@name": "xfin_hikey",
+            "@value": "c#5"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "xfout_lokey",
+            "@value": "c4"
+          },
+          {
+            "@name": "xfout_hikey",
+            "@value": "c#5"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <group>
 	<opcode name="xf_cccurve" value="gain" />
 </group>
@@ -26,3 +27,4 @@
 	<opcode name="xfin_locc1" value="86" />
 	<opcode name="xfin_hicc1" value="127" />
 </region>
+</sfz>

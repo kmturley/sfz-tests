@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <group>
 	<opcode name="sample" value="..\..\samples\noise.wav" />
 	<opcode name="loop_mode" value="loop_continuous" />
@@ -19,3 +20,4 @@
 	<opcode name="resonance_oncc129" value="50" />
 	<opcode name="resonance_smoothcc129" value="200" />
 </region>
+</sfz>

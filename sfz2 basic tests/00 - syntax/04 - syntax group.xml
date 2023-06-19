@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <group>
 	<opcode name="sample" value="..\..\samples\440.wav" />
 	<opcode name="ampeg_release" value="5" />
@@ -71,3 +72,4 @@
 	<opcode name="lokey" value="c5" />
 	<opcode name="hikey" value="c#5" />
 </region>
+</sfz>

@@ -1,0 +1,74 @@
+{
+  "sfz": {
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\110.wav"
+          },
+          {
+            "@name": "loop_start",
+            "@value": "11227"
+          },
+          {
+            "@name": "loop_end",
+            "@value": "31672"
+          },
+          {
+            "@name": "loop_mode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "transpose",
+            "@value": "12"
+          },
+          {
+            "@name": "xfout_locc1",
+            "@value": "0"
+          },
+          {
+            "@name": "xfout_hicc1",
+            "@value": "127"
+          },
+          {
+            "@name": "xf_cccurve",
+            "@value": "power"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "loop_start",
+            "@value": "12629"
+          },
+          {
+            "@name": "loop_end",
+            "@value": "56728"
+          },
+          {
+            "@name": "loop_mode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "xfin_locc1",
+            "@value": "0"
+          },
+          {
+            "@name": "xfin_hicc1",
+            "@value": "127"
+          },
+          {
+            "@name": "xf_cccurve",
+            "@value": "power"
+          }
+        ]
+      }
+    ]
+  }
+}

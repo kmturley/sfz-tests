@@ -1,0 +1,48 @@
+{
+  "sfz": {
+    "group": {
+      "opcode": [
+        {
+          "@name": "sample",
+          "@value": "..\\..\\samples\\440.wav"
+        },
+        {
+          "@name": "loop_start",
+          "@value": "12629"
+        },
+        {
+          "@name": "loop_end",
+          "@value": "56728"
+        },
+        {
+          "@name": "loop_mode",
+          "@value": "loop_continuous"
+        },
+        {
+          "@name": "amp_veltrack",
+          "@value": "0"
+        }
+      ]
+    },
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "hicc73",
+            "@value": "64"
+          },
+          {
+            "@name": "volume",
+            "@value": "-24"
+          }
+        ]
+      },
+      {
+        "opcode": {
+          "@name": "locc73",
+          "@value": "63"
+        }
+      }
+    ]
+  }
+}

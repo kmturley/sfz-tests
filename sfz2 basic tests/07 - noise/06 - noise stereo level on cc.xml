@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <region>
 	<opcode name="sample" value="..\..\samples\stereo silence.wav" />
 	<opcode name="amp_veltrack" value="0" />
@@ -17,3 +18,4 @@
 	<opcode name="noise_level_oncc129" value="48" />
 	<opcode name="noise_level_smoothcc129" value="200" />
 </region>
+</sfz>

@@ -1,0 +1,64 @@
+{
+  "sfz": {
+    "control": {
+      "opcode": {
+        "@name": "octave_offset",
+        "@value": "-1"
+      }
+    },
+    "group": {
+      "opcode": [
+        {
+          "@name": "sample",
+          "@value": "..\\..\\samples\\440.wav"
+        },
+        {
+          "@name": "loop_start",
+          "@value": "12629"
+        },
+        {
+          "@name": "loop_end",
+          "@value": "56728"
+        },
+        {
+          "@name": "loop_mode",
+          "@value": "loop_continuous"
+        }
+      ]
+    },
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "lokey",
+            "@value": "c4"
+          },
+          {
+            "@name": "hikey",
+            "@value": "c#4"
+          },
+          {
+            "@name": "pitch_keycenter",
+            "@value": "c4"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "lokey",
+            "@value": "d4"
+          },
+          {
+            "@name": "hikey",
+            "@value": "d#4"
+          },
+          {
+            "@name": "pitch_keycenter",
+            "@value": "c4"
+          }
+        ]
+      }
+    ]
+  }
+}

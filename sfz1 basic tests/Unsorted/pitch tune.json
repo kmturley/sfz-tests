@@ -1,0 +1,28 @@
+{
+  "sfz": {
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "tune",
+            "@value": "100"
+          },
+          {
+            "@name": "transpose",
+            "@value": "-1"
+          }
+        ]
+      },
+      {
+        "opcode": {
+          "@name": "sample",
+          "@value": "..\\..\\samples\\440.wav"
+        }
+      }
+    ]
+  }
+}

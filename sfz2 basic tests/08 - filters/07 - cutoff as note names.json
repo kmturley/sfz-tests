@@ -1,0 +1,156 @@
+{
+  "sfz": {
+    "group": {
+      "opcode": [
+        {
+          "@name": "sample",
+          "@value": "*silence"
+        },
+        {
+          "@name": "loop_start",
+          "@value": "1"
+        },
+        {
+          "@name": "loop_end",
+          "@value": "100"
+        },
+        {
+          "@name": "loop_mode",
+          "@value": "loop_continuous"
+        },
+        {
+          "@name": "noise_filter",
+          "@value": "pink"
+        },
+        {
+          "@name": "noise_level",
+          "@value": "10"
+        },
+        {
+          "@name": "noise_step",
+          "@value": "0"
+        },
+        {
+          "@name": "noise_tone",
+          "@value": "100"
+        },
+        {
+          "@name": "fil_type",
+          "@value": "lpf_2p"
+        },
+        {
+          "@name": "cutoff_oncc150",
+          "@value": "0"
+        },
+        {
+          "@name": "resonance",
+          "@value": "96"
+        }
+      ]
+    },
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "key",
+            "@value": "c4"
+          },
+          {
+            "@name": "cutoff",
+            "@value": "c4"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "key",
+            "@value": "d4"
+          },
+          {
+            "@name": "cutoff",
+            "@value": "d4"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "key",
+            "@value": "e4"
+          },
+          {
+            "@name": "cutoff",
+            "@value": "e4"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "key",
+            "@value": "f4"
+          },
+          {
+            "@name": "cutoff",
+            "@value": "f4"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "key",
+            "@value": "g4"
+          },
+          {
+            "@name": "cutoff",
+            "@value": "g4"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "key",
+            "@value": "a4"
+          },
+          {
+            "@name": "cutoff",
+            "@value": "a4"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "key",
+            "@value": "b4"
+          },
+          {
+            "@name": "cutoff",
+            "@value": "b4"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "key",
+            "@value": "c5"
+          },
+          {
+            "@name": "cutoff",
+            "@value": "c5"
+          }
+        ]
+      }
+    ],
+    "effect": {
+      "opcode": {
+        "@name": "type",
+        "@value": "limiter"
+      }
+    }
+  }
+}

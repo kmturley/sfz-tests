@@ -1,6 +1,8 @@
 <?xml version="1.0"?>
+<sfz>
 <region>
 	<opcode name="sample" value="..\..\samples\440.wav" />
 	<opcode name="engine_color" value="organic" />
 	<opcode name="engine_tone" value="warm" />
 </region>
+</sfz>

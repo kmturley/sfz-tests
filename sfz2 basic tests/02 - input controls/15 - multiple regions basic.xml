@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <group>
 	<opcode name="sample" value="..\..\samples\440.wav" />
 </group>
@@ -15,3 +16,4 @@
 	<opcode name="lovel" value="64" />
 	<opcode name="transpose" value="-12" />
 </region>
+</sfz>

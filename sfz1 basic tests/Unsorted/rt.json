@@ -1,0 +1,50 @@
+{
+  "sfz": {
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "lokey",
+            "@value": "36"
+          },
+          {
+            "@name": "hikey",
+            "@value": "36"
+          },
+          {
+            "@name": "pitch_keycenter",
+            "@value": "36"
+          },
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\noise.wav"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "lokey",
+            "@value": "38"
+          },
+          {
+            "@name": "hikey",
+            "@value": "38"
+          },
+          {
+            "@name": "pitch_keycenter",
+            "@value": "38"
+          },
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\hh.wav"
+          },
+          {
+            "@name": "trigger",
+            "@value": "release"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <group>
 	<opcode name="bend_up" value="0" />
 	<opcode name="bend_down" value="0" />
@@ -13,3 +14,4 @@
 	<opcode name="lobend" value="-8192" />
 	<opcode name="hibend" value="-1" />
 </region>
+</sfz>

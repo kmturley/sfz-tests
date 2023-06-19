@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <region>
 	<opcode name="sample" value="..\..\samples\noise.wav" />
 	<opcode name="loopmode" value="loop_continuous" />
@@ -6,3 +7,4 @@
 	<opcode name="eq1_vel2freq" value="3000" />
 	<opcode name="eq1_vel2gain" value="24" />
 </region>
+</sfz>

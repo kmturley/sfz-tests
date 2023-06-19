@@ -1,0 +1,92 @@
+{
+  "sfz": {
+    "group": {
+      "opcode": {
+        "@name": "xf_cccurve",
+        "@value": "gain"
+      }
+    },
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "*sine"
+          },
+          {
+            "@name": "xfout_locc1",
+            "@value": "0"
+          },
+          {
+            "@name": "xfout_hicc1",
+            "@value": "42"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "*tri"
+          },
+          {
+            "@name": "xfin_locc1",
+            "@value": "0"
+          },
+          {
+            "@name": "xfin_hicc1",
+            "@value": "42"
+          },
+          {
+            "@name": "xfout_locc1",
+            "@value": "42"
+          },
+          {
+            "@name": "xfout_hicc1",
+            "@value": "86"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "*square"
+          },
+          {
+            "@name": "xfin_locc1",
+            "@value": "42"
+          },
+          {
+            "@name": "xfin_hicc1",
+            "@value": "86"
+          },
+          {
+            "@name": "xfout_locc1",
+            "@value": "86"
+          },
+          {
+            "@name": "xfout_hicc1",
+            "@value": "127"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "*saw"
+          },
+          {
+            "@name": "xfin_locc1",
+            "@value": "86"
+          },
+          {
+            "@name": "xfin_hicc1",
+            "@value": "127"
+          }
+        ]
+      }
+    ]
+  }
+}

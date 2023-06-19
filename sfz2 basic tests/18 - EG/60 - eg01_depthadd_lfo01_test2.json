@@ -1,0 +1,118 @@
+{
+  "sfz": {
+    "group": {
+      "opcode": [
+        {
+          "@name": "sample",
+          "@value": "..\\..\\samples\\noise.wav"
+        },
+        {
+          "@name": "loopmode",
+          "@value": "loop_continuous"
+        },
+        {
+          "@name": "ampeg_release",
+          "@value": "4"
+        },
+        {
+          "@name": "cutoff",
+          "@value": "1000"
+        },
+        {
+          "@name": "resonance",
+          "@value": "10"
+        },
+        {
+          "@name": "eg10_sustain",
+          "@value": "4"
+        },
+        {
+          "@name": "eg10_level0",
+          "@value": "0"
+        },
+        {
+          "@name": "eg10_time0",
+          "@value": "0"
+        },
+        {
+          "@name": "eg10_level1",
+          "@value": "0"
+        },
+        {
+          "@name": "eg10_time1",
+          "@value": "0.5"
+        },
+        {
+          "@name": "eg10_level2",
+          "@value": "1"
+        },
+        {
+          "@name": "eg10_time2",
+          "@value": "1"
+        },
+        {
+          "@name": "eg10_level3",
+          "@value": "1"
+        },
+        {
+          "@name": "eg10_time3",
+          "@value": "1"
+        },
+        {
+          "@name": "eg10_shape3",
+          "@value": ".1"
+        },
+        {
+          "@name": "eg10_level4",
+          "@value": "0.5"
+        },
+        {
+          "@name": "eg10_time4",
+          "@value": "1"
+        },
+        {
+          "@name": "eg10_level5",
+          "@value": "0"
+        },
+        {
+          "@name": "eg10_time5",
+          "@value": "0"
+        },
+        {
+          "@name": "lfo10_freq",
+          "@value": "1"
+        },
+        {
+          "@name": "lfo10_cutoff",
+          "@value": "1200"
+        }
+      ]
+    },
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "eg10_depthadd_lfo10",
+            "@value": "200"
+          },
+          {
+            "@name": "pan",
+            "@value": "-100"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "eg10_depthadd_lfo10",
+            "@value": "100"
+          },
+          {
+            "@name": "pan",
+            "@value": "100"
+          }
+        ]
+      }
+    ]
+  }
+}

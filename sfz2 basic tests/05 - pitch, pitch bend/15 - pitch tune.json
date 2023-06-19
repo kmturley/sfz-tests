@@ -1,0 +1,25 @@
+{
+  "sfz": {
+    "group": {
+      "opcode": {
+        "@name": "sample",
+        "@value": "..\\..\\samples\\440.wav"
+      }
+    },
+    "region": [
+      null,
+      {
+        "opcode": [
+          {
+            "@name": "tune",
+            "@value": "100"
+          },
+          {
+            "@name": "transpose",
+            "@value": "-1"
+          }
+        ]
+      }
+    ]
+  }
+}

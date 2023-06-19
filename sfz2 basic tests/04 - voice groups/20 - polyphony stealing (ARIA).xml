@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <group>
 	<opcode name="volume" value="-6" />
 	<opcode name="sample" value="*tri" />
@@ -16,3 +17,4 @@
 	<opcode name="polyphony_group" value="2" />
 	<opcode name="polyphony" value="8" />
 </region>
+</sfz>

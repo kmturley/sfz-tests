@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <group>
 	<opcode name="sample" value="..\..\samples\noise.wav" />
 	<opcode name="cutoff" value="1000" />
@@ -60,3 +61,4 @@
 	<opcode name="delay_cutoff" value="6100" />
 	<opcode name="delay_resonance" value="10" />
 </effect>
+</sfz>

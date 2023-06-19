@@ -1,0 +1,198 @@
+{
+  "sfz": {
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "locc20",
+            "@value": "0"
+          },
+          {
+            "@name": "hicc20",
+            "@value": "20"
+          },
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\noise.wav"
+          },
+          {
+            "@name": "loopmode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "eq1_freq",
+            "@value": "1000"
+          },
+          {
+            "@name": "eq1_bw",
+            "@value": "4"
+          },
+          {
+            "@name": "eq1_gain",
+            "@value": "6"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "locc20",
+            "@value": "21"
+          },
+          {
+            "@name": "hicc20",
+            "@value": "40"
+          },
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\noise.wav"
+          },
+          {
+            "@name": "loopmode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "eq1_freq",
+            "@value": "1000"
+          },
+          {
+            "@name": "eq1_bw",
+            "@value": "2"
+          },
+          {
+            "@name": "eq1_gain",
+            "@value": "6"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "locc20",
+            "@value": "41"
+          },
+          {
+            "@name": "hicc20",
+            "@value": "60"
+          },
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\noise.wav"
+          },
+          {
+            "@name": "loopmode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "eq1_freq",
+            "@value": "1000"
+          },
+          {
+            "@name": "eq1_bw",
+            "@value": "1"
+          },
+          {
+            "@name": "eq1_gain",
+            "@value": "6"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "locc20",
+            "@value": "61"
+          },
+          {
+            "@name": "hicc20",
+            "@value": "80"
+          },
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\noise.wav"
+          },
+          {
+            "@name": "loopmode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "eq1_freq",
+            "@value": "1000"
+          },
+          {
+            "@name": "eq1_bw",
+            "@value": "0.5"
+          },
+          {
+            "@name": "eq1_gain",
+            "@value": "6"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "locc20",
+            "@value": "81"
+          },
+          {
+            "@name": "hicc20",
+            "@value": "100"
+          },
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\noise.wav"
+          },
+          {
+            "@name": "loopmode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "eq1_freq",
+            "@value": "1000"
+          },
+          {
+            "@name": "eq1_bw",
+            "@value": "0.1"
+          },
+          {
+            "@name": "eq1_gain",
+            "@value": "6"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "locc20",
+            "@value": "101"
+          },
+          {
+            "@name": "hicc20",
+            "@value": "127"
+          },
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\noise.wav"
+          },
+          {
+            "@name": "loopmode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "eq1_freq",
+            "@value": "1000"
+          },
+          {
+            "@name": "eq1_bw",
+            "@value": "0.3"
+          },
+          {
+            "@name": "eq1_gain",
+            "@value": "6"
+          }
+        ]
+      }
+    ]
+  }
+}

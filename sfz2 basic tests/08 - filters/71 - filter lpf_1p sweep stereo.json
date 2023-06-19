@@ -1,30 +1,32 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "@name": "sample",
-        "@value": "..\\..\\samples\\sweep test stereo.wav"
-      },
-      {
-        "@name": "loop_mode",
-        "@value": "one_shot"
-      },
-      {
-        "@name": "pitch_keytrack",
-        "@value": "0"
-      },
-      {
-        "@name": "amp_veltrack",
-        "@value": "0"
-      },
-      {
-        "@name": "fil_type",
-        "@value": "lpf_1p"
-      },
-      {
-        "@name": "cutoff",
-        "@value": "1000"
-      }
-    ]
+  "sfz": {
+    "region": {
+      "opcode": [
+        {
+          "@name": "sample",
+          "@value": "..\\..\\samples\\sweep test stereo.wav"
+        },
+        {
+          "@name": "loop_mode",
+          "@value": "one_shot"
+        },
+        {
+          "@name": "pitch_keytrack",
+          "@value": "0"
+        },
+        {
+          "@name": "amp_veltrack",
+          "@value": "0"
+        },
+        {
+          "@name": "fil_type",
+          "@value": "lpf_1p"
+        },
+        {
+          "@name": "cutoff",
+          "@value": "1000"
+        }
+      ]
+    }
   }
 }

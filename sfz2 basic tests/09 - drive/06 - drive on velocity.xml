@@ -1,6 +1,8 @@
 <?xml version="1.0"?>
+<sfz>
 <region>
 	<opcode name="sample" value="..\..\samples\two tone.wav" />
 	<opcode name="loop_mode" value="loop_continuous" />
 	<opcode name="drive_shape_oncc131" value="100" />
 </region>
+</sfz>

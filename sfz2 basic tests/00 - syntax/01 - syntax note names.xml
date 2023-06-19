@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <group>
 	<opcode name="sample" value="..\..\samples\440.wav" />
 	<opcode name="loop_start" value="12629" />
@@ -15,3 +16,4 @@
 	<opcode name="hikey" value="d#4" />
 	<opcode name="pitch_keycenter" value="c4" />
 </region>
+</sfz>

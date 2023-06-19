@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <group>
 	<opcode name="xf_cccurve" value="gain" />
 	<opcode name="sample" value="..\..\samples\440.wav" />
@@ -20,3 +21,4 @@
 	<opcode name="xfin_locc1" value="64" />
 	<opcode name="xfin_hicc1" value="127" />
 </region>
+</sfz>

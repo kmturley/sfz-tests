@@ -1,0 +1,82 @@
+{
+  "sfz": {
+    "group": {
+      "opcode": [
+        {
+          "@name": "sample",
+          "@value": "..\\..\\samples\\440.wav"
+        },
+        {
+          "@name": "loop_start",
+          "@value": "12629"
+        },
+        {
+          "@name": "loop_end",
+          "@value": "56728"
+        },
+        {
+          "@name": "loop_mode",
+          "@value": "loop_continuous"
+        },
+        {
+          "@name": "pitch_keycenter",
+          "@value": "a3"
+        }
+      ]
+    },
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "group",
+            "@value": "1"
+          },
+          {
+            "@name": "hikey",
+            "@value": "b3"
+          },
+          {
+            "@name": "polyphony",
+            "@value": "7"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "group",
+            "@value": "2"
+          },
+          {
+            "@name": "lokey",
+            "@value": "c4"
+          },
+          {
+            "@name": "hikey",
+            "@value": "b4"
+          },
+          {
+            "@name": "polyphony",
+            "@value": "1"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "group",
+            "@value": "2"
+          },
+          {
+            "@name": "lokey",
+            "@value": "c5"
+          },
+          {
+            "@name": "polyphony",
+            "@value": "1"
+          }
+        ]
+      }
+    ]
+  }
+}

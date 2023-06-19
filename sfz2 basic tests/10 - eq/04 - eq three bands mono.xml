@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <region>
 	<opcode name="sample" value="..\..\samples\sweep test mono.wav" />
 	<opcode name="loop_mode" value="one_shot" />
@@ -14,3 +15,4 @@
 	<opcode name="eq3_bw" value="0.5" />
 	<opcode name="eq3_gain" value="12" />
 </region>
+</sfz>

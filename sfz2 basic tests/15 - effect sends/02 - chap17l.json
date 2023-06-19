@@ -1,0 +1,128 @@
+{
+  "sfz": {
+    "group": {
+      "opcode": [
+        {
+          "@name": "sample",
+          "@value": "..\\..\\samples\\noise.wav"
+        },
+        {
+          "@name": "loop_mode",
+          "@value": "loop_continuous"
+        },
+        {
+          "@name": "pitch_keytrack",
+          "@value": "0"
+        },
+        {
+          "@name": "amp_veltrack",
+          "@value": "0"
+        },
+        {
+          "@name": "volume",
+          "@value": "-6"
+        }
+      ]
+    },
+    "region": [
+      {
+        "opcode": {
+          "@name": "effect1",
+          "@value": "100"
+        }
+      },
+      {
+        "opcode": {
+          "@name": "effect2",
+          "@value": "100"
+        }
+      }
+    ],
+    "effect": [
+      {
+        "opcode": [
+          {
+            "@name": "fx1_return",
+            "@value": "100"
+          },
+          {
+            "@name": "fx2_return",
+            "@value": "100"
+          },
+          {
+            "@name": "fx1_output",
+            "@value": "0"
+          },
+          {
+            "@name": "fx2_output",
+            "@value": "0"
+          },
+          {
+            "@name": "input",
+            "@value": "100"
+          },
+          {
+            "@name": "dry",
+            "@value": "0"
+          },
+          {
+            "@name": "wet",
+            "@value": "100"
+          },
+          {
+            "@name": "type",
+            "@value": "filter"
+          },
+          {
+            "@name": "filter_type",
+            "@value": "hpf_4p"
+          },
+          {
+            "@name": "filter_cutoff_oncc1",
+            "@value": "12700"
+          },
+          {
+            "@name": "filter_resonance_oncc71",
+            "@value": "10"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "bus",
+            "@value": "fx2"
+          },
+          {
+            "@name": "input",
+            "@value": "100"
+          },
+          {
+            "@name": "dry",
+            "@value": "0"
+          },
+          {
+            "@name": "wet",
+            "@value": "100"
+          },
+          {
+            "@name": "type",
+            "@value": "filter"
+          },
+          {
+            "@name": "filter_type",
+            "@value": "hpf_4p"
+          },
+          {
+            "@name": "filter_cutoff_oncc1",
+            "@value": "12700"
+          },
+          {
+            "@name": "filter_resonance_oncc71",
+            "@value": "10"
+          }
+        ]
+      }
+    ]
+  }
+}

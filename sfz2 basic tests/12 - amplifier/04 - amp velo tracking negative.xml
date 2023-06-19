@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <group>
 	<opcode name="sample" value="..\..\samples\440.wav" />
 	<opcode name="loop_start" value="12629" />
@@ -13,3 +14,4 @@
 	<opcode name="lokey" value="c4" />
 	<opcode name="amp_veltrack" value="-100" />
 </region>
+</sfz>

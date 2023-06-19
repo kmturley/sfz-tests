@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <region>
 	<opcode name="sample" value="..\..\samples\110.wav" />
 	<opcode name="loop_start" value="10825" />
@@ -18,3 +19,4 @@
 	<opcode name="group" value="2" />
 	<opcode name="off_by" value="1" />
 </region>
+</sfz>

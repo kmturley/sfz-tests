@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <group>
 	<opcode name="lokey" value="-1" />
 	<opcode name="hikey" value="-1" />
@@ -23,3 +24,4 @@
 	<opcode name="on_locc1" value="64" />
 	<opcode name="on_hicc1" value="127" />
 </region>
+</sfz>

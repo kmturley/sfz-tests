@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <region>
 	<opcode name="sample" value="..\..\samples\440.wav" />
 	<opcode name="ampeg_hold" value="0.25" />
@@ -146,3 +147,4 @@
 	<opcode name="loopend" value="56728" />
 	<opcode name="loopmode" value="loop_continuous" />
 </region>
+</sfz>

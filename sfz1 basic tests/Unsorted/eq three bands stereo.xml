@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <region>
 	<opcode name="sample" value="..\..\samples\stereo sweep.wav" />
 	<opcode name="loopmode" value="loop_continuous" />
@@ -12,3 +13,4 @@
 	<opcode name="eq3_bw" value="0.5" />
 	<opcode name="eq3_gain" value="6" />
 </region>
+</sfz>

@@ -1,38 +1,40 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "@name": "sample",
-        "@value": "..\\..\\samples\\440.wav"
-      },
-      {
-        "@name": "loop_start",
-        "@value": "12629"
-      },
-      {
-        "@name": "loop_end",
-        "@value": "56728"
-      },
-      {
-        "@name": "loop_mode",
-        "@value": "loop_continuous"
-      },
-      {
-        "@name": "ampeg_attack",
-        "@value": "2"
-      },
-      {
-        "@name": "ampeg_vel2attack",
-        "@value": "-2"
-      },
-      {
-        "@name": "ampeg_sustain",
-        "@value": "100"
-      },
-      {
-        "@name": "amp_veltrack",
-        "@value": "0"
-      }
-    ]
+  "sfz": {
+    "region": {
+      "opcode": [
+        {
+          "@name": "sample",
+          "@value": "..\\..\\samples\\440.wav"
+        },
+        {
+          "@name": "loop_start",
+          "@value": "12629"
+        },
+        {
+          "@name": "loop_end",
+          "@value": "56728"
+        },
+        {
+          "@name": "loop_mode",
+          "@value": "loop_continuous"
+        },
+        {
+          "@name": "ampeg_attack",
+          "@value": "2"
+        },
+        {
+          "@name": "ampeg_vel2attack",
+          "@value": "-2"
+        },
+        {
+          "@name": "ampeg_sustain",
+          "@value": "100"
+        },
+        {
+          "@name": "amp_veltrack",
+          "@value": "0"
+        }
+      ]
+    }
   }
 }

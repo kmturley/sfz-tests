@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <region>
 	<opcode name="sample" value="..\..\samples\440.wav" />
 	<opcode name="loop_start" value="12629" />
@@ -12,3 +13,4 @@
 	<opcode name="lochan" value="6" />
 	<opcode name="hichan" value="10" />
 </region>
+</sfz>

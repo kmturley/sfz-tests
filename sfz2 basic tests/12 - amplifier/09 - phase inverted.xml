@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <region>
 	<opcode name="sample" value="..\..\samples\two tone.wav" />
 	<opcode name="loop_start" value="10336" />
@@ -6,3 +7,4 @@
 	<opcode name="loop_mode" value="loop_continuous" />
 	<opcode name="phase" value="invert" />
 </region>
+</sfz>

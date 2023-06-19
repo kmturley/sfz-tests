@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <region>
 	<opcode name="sample" value="..\..\samples\noise.wav" />
 	<opcode name="loop_mode" value="loop_continuous" />
@@ -27,3 +28,4 @@
 	<opcode name="filter_cutoff_oncc1" value="12700" />
 	<opcode name="filter_resonance_oncc71" value="10" />
 </effect>
+</sfz>

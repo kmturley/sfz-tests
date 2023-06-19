@@ -1,0 +1,42 @@
+{
+  "sfz": {
+    "group": {
+      "opcode": [
+        {
+          "@name": "sample",
+          "@value": "..\\..\\samples\\two tone.wav"
+        },
+        {
+          "@name": "loop_start",
+          "@value": "10336"
+        },
+        {
+          "@name": "loop_end",
+          "@value": "12100"
+        },
+        {
+          "@name": "loop_mode",
+          "@value": "loop_continuous"
+        },
+        {
+          "@name": "volume",
+          "@value": "30"
+        }
+      ]
+    },
+    "region": [
+      {
+        "opcode": {
+          "@name": "phase",
+          "@value": "normal"
+        }
+      },
+      {
+        "opcode": {
+          "@name": "phase",
+          "@value": "invert"
+        }
+      }
+    ]
+  }
+}

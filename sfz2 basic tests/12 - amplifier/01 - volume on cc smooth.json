@@ -1,0 +1,72 @@
+{
+  "sfz": {
+    "group": {
+      "opcode": [
+        {
+          "@name": "sample",
+          "@value": "..\\..\\samples\\440.wav"
+        },
+        {
+          "@name": "loop_start",
+          "@value": "12629"
+        },
+        {
+          "@name": "loop_end",
+          "@value": "56728"
+        },
+        {
+          "@name": "loop_mode",
+          "@value": "loop_continuous"
+        },
+        {
+          "@name": "volume",
+          "@value": "-24"
+        }
+      ]
+    },
+    "region": {
+      "opcode": [
+        {
+          "@name": "volume_oncc73",
+          "@value": "24"
+        },
+        {
+          "@name": "volume_smoothcc73",
+          "@value": "1"
+        },
+        {
+          "@name": "volume_oncc70",
+          "@value": "24"
+        },
+        {
+          "@name": "volume_smoothcc70",
+          "@value": "100"
+        },
+        {
+          "@name": "volume_oncc20",
+          "@value": "24"
+        },
+        {
+          "@name": "volume_stepcc20",
+          "@value": "4"
+        },
+        {
+          "@name": "volume_oncc21",
+          "@value": "24"
+        },
+        {
+          "@name": "volume_smoothcc21",
+          "@value": "500"
+        },
+        {
+          "@name": "volume_oncc129",
+          "@value": "24"
+        },
+        {
+          "@name": "volume_smoothcc129",
+          "@value": "200"
+        }
+      ]
+    }
+  }
+}

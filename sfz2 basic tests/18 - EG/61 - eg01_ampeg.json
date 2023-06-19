@@ -1,0 +1,110 @@
+{
+  "sfz": {
+    "group": {
+      "opcode": [
+        {
+          "@name": "sample",
+          "@value": "..\\..\\samples\\440.wav"
+        },
+        {
+          "@name": "loopstart",
+          "@value": "12629"
+        },
+        {
+          "@name": "loopend",
+          "@value": "56728"
+        },
+        {
+          "@name": "loopmode",
+          "@value": "loop_continuous"
+        }
+      ]
+    },
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "pan",
+            "@value": "-100"
+          },
+          {
+            "@name": "ampeg_sustain",
+            "@value": "0"
+          },
+          {
+            "@name": "ampeg_decay",
+            "@value": "2"
+          }
+        ]
+      },
+      {
+        "opcode": [
+          {
+            "@name": "pan",
+            "@value": "100"
+          },
+          {
+            "@name": "eg10_sustain",
+            "@value": "4"
+          },
+          {
+            "@name": "eg10_level0",
+            "@value": "0"
+          },
+          {
+            "@name": "eg10_time0",
+            "@value": "0"
+          },
+          {
+            "@name": "eg10_level1",
+            "@value": "0"
+          },
+          {
+            "@name": "eg10_time1",
+            "@value": "0.5"
+          },
+          {
+            "@name": "eg10_level2",
+            "@value": "1"
+          },
+          {
+            "@name": "eg10_time2",
+            "@value": "1"
+          },
+          {
+            "@name": "eg10_level3",
+            "@value": "1"
+          },
+          {
+            "@name": "eg10_time3",
+            "@value": "1"
+          },
+          {
+            "@name": "eg10_shape3",
+            "@value": ".1"
+          },
+          {
+            "@name": "eg10_level4",
+            "@value": "0.5"
+          },
+          {
+            "@name": "eg10_time4",
+            "@value": "1"
+          },
+          {
+            "@name": "eg10_level5",
+            "@value": "0"
+          },
+          {
+            "@name": "eg10_time5",
+            "@value": "1"
+          },
+          {
+            "@name": "eg10_ampeg",
+            "@value": "100"
+          }
+        ]
+      }
+    ]
+  }
+}

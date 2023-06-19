@@ -1,18 +1,20 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "@name": "sample",
-        "@value": "..\\..\\samples\\loop tests - three loops overlap.wav"
-      },
-      {
-        "@name": "count",
-        "@value": "3"
-      },
-      {
-        "@name": "direction",
-        "@value": "reverse"
-      }
-    ]
+  "sfz": {
+    "region": {
+      "opcode": [
+        {
+          "@name": "sample",
+          "@value": "..\\..\\samples\\loop tests - three loops overlap.wav"
+        },
+        {
+          "@name": "count",
+          "@value": "3"
+        },
+        {
+          "@name": "direction",
+          "@value": "reverse"
+        }
+      ]
+    }
   }
 }

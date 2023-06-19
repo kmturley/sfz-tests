@@ -1,14 +1,16 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "@name": "sample",
-        "@value": "..\\..\\samples\\bd.wav"
-      },
-      {
-        "@name": "direction",
-        "@value": "reverse"
-      }
-    ]
+  "sfz": {
+    "region": {
+      "opcode": [
+        {
+          "@name": "sample",
+          "@value": "..\\..\\samples\\bd.wav"
+        },
+        {
+          "@name": "direction",
+          "@value": "reverse"
+        }
+      ]
+    }
   }
 }

@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <region>
 	<opcode name="sample" value="..\..\samples\440.wav" />
 	<opcode name="loopstart" value="12629" />
@@ -26,3 +27,4 @@
 	<opcode name="eg01_noisestep_oncc21" value="48" />
 	<opcode name="eg01_noisestep_oncc129" value="48" />
 </region>
+</sfz>

@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <region>
 	<opcode name="sample" value="..\..\samples\noise.wav" />
 	<opcode name="loop_mode" value="loop_continuous" />
@@ -21,3 +22,4 @@
 	<opcode name="eg01_time5" value="1" />
 	<opcode name="eg01_cutoff" value="2400" />
 </region>
+</sfz>

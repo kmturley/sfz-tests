@@ -1,0 +1,42 @@
+{
+  "sfz": {
+    "group": {
+      "opcode": [
+        {
+          "@name": "sample",
+          "@value": "..\\..\\samples\\two tone.wav"
+        },
+        {
+          "@name": "loop_start",
+          "@value": "10336"
+        },
+        {
+          "@name": "loop_end",
+          "@value": "12100"
+        },
+        {
+          "@name": "loop_mode",
+          "@value": "loop_continuous"
+        },
+        {
+          "@name": "pitch_keytrack",
+          "@value": "0"
+        },
+        {
+          "@name": "amp_veltrack",
+          "@value": "0"
+        },
+        {
+          "@name": "width",
+          "@value": "-100"
+        }
+      ]
+    },
+    "region": {
+      "opcode": {
+        "@name": "width_oncc73",
+        "@value": "200"
+      }
+    }
+  }
+}

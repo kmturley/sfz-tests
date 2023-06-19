@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<sfz>
 <group>
 	<opcode name="sample" value="*silence" />
 	<opcode name="loop_start" value="1" />
@@ -47,3 +48,4 @@
 <effect>
 	<opcode name="type" value="limiter" />
 </effect>
+</sfz>
