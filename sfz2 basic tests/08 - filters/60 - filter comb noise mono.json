@@ -1,32 +1,34 @@
 {
   "sfz": {
-    "region": {
-      "opcode": [
-        {
-          "@name": "sample",
-          "@value": "..\\..\\samples\\noise mono.wav"
-        },
-        {
-          "@name": "loop_mode",
-          "@value": "loop_continuous"
-        },
-        {
-          "@name": "volume",
-          "@value": "-12"
-        },
-        {
-          "@name": "fil_type",
-          "@value": "comb"
-        },
-        {
-          "@name": "cutoff_oncc1",
-          "@value": "20000"
-        },
-        {
-          "@name": "resonance",
-          "@value": "90"
-        }
-      ]
-    }
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\noise mono.wav"
+          },
+          {
+            "@name": "loop_mode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "volume",
+            "@value": "-12"
+          },
+          {
+            "@name": "fil_type",
+            "@value": "comb"
+          },
+          {
+            "@name": "cutoff_oncc1",
+            "@value": "20000"
+          },
+          {
+            "@name": "resonance",
+            "@value": "90"
+          }
+        ]
+      }
+    ]
   }
 }

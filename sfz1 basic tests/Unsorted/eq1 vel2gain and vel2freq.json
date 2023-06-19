@@ -1,28 +1,30 @@
 {
   "sfz": {
-    "region": {
-      "opcode": [
-        {
-          "@name": "sample",
-          "@value": "..\\..\\samples\\noise.wav"
-        },
-        {
-          "@name": "loopmode",
-          "@value": "loop_continuous"
-        },
-        {
-          "@name": "eq1_freq",
-          "@value": "100"
-        },
-        {
-          "@name": "eq1_vel2freq",
-          "@value": "3000"
-        },
-        {
-          "@name": "eq1_vel2gain",
-          "@value": "24"
-        }
-      ]
-    }
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\noise.wav"
+          },
+          {
+            "@name": "loopmode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "eq1_freq",
+            "@value": "100"
+          },
+          {
+            "@name": "eq1_vel2freq",
+            "@value": "3000"
+          },
+          {
+            "@name": "eq1_vel2gain",
+            "@value": "24"
+          }
+        ]
+      }
+    ]
   }
 }

@@ -1,20 +1,22 @@
 {
   "sfz": {
-    "region": {
-      "opcode": [
-        {
-          "@name": "sample",
-          "@value": "..\\..\\samples\\mono 400 looped.wav"
-        },
-        {
-          "@name": "polyphony",
-          "@value": "legato_last"
-        },
-        {
-          "@name": "lokey",
-          "@value": "c4"
-        }
-      ]
-    }
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\mono 400 looped.wav"
+          },
+          {
+            "@name": "polyphony",
+            "@value": "legato_last"
+          },
+          {
+            "@name": "lokey",
+            "@value": "c4"
+          }
+        ]
+      }
+    ]
   }
 }

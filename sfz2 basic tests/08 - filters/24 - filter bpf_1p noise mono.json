@@ -1,40 +1,42 @@
 {
   "sfz": {
-    "region": {
-      "opcode": [
-        {
-          "@name": "sample",
-          "@value": "..\\..\\samples\\noise mono.wav"
-        },
-        {
-          "@name": "loop_mode",
-          "@value": "loop_continuous"
-        },
-        {
-          "@name": "pitch_keytrack",
-          "@value": "0"
-        },
-        {
-          "@name": "fil_type",
-          "@value": "bpf_1p"
-        },
-        {
-          "@name": "volume",
-          "@value": "6"
-        },
-        {
-          "@name": "cutoff",
-          "@value": "1000"
-        },
-        {
-          "@name": "cutoff_oncc1",
-          "@value": "8000"
-        },
-        {
-          "@name": "cutoff_chanaft",
-          "@value": "-8000"
-        }
-      ]
-    }
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\noise mono.wav"
+          },
+          {
+            "@name": "loop_mode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "pitch_keytrack",
+            "@value": "0"
+          },
+          {
+            "@name": "fil_type",
+            "@value": "bpf_1p"
+          },
+          {
+            "@name": "volume",
+            "@value": "6"
+          },
+          {
+            "@name": "cutoff",
+            "@value": "1000"
+          },
+          {
+            "@name": "cutoff_oncc1",
+            "@value": "8000"
+          },
+          {
+            "@name": "cutoff_chanaft",
+            "@value": "-8000"
+          }
+        ]
+      }
+    ]
   }
 }

@@ -24,58 +24,60 @@
         }
       ]
     },
-    "region": {
-      "opcode": [
-        {
-          "@name": "pan_oncc73",
-          "@value": "100"
-        },
-        {
-          "@name": "pan_smoothcc73",
-          "@value": "1"
-        },
-        {
-          "@name": "pan_curvecc73",
-          "@value": "7"
-        },
-        {
-          "@name": "pan_oncc70",
-          "@value": "100"
-        },
-        {
-          "@name": "pan_smoothcc70",
-          "@value": "100"
-        },
-        {
-          "@name": "pan_curvecc70",
-          "@value": "7"
-        },
-        {
-          "@name": "pan_oncc20",
-          "@value": "100"
-        },
-        {
-          "@name": "pan_stepcc20",
-          "@value": "50"
-        },
-        {
-          "@name": "pan_curvecc20",
-          "@value": "7"
-        },
-        {
-          "@name": "pan_oncc21",
-          "@value": "100"
-        },
-        {
-          "@name": "pan_smoothcc21",
-          "@value": "500"
-        },
-        {
-          "@name": "pan_curvecc21",
-          "@value": "7"
-        }
-      ]
-    },
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "pan_oncc73",
+            "@value": "100"
+          },
+          {
+            "@name": "pan_smoothcc73",
+            "@value": "1"
+          },
+          {
+            "@name": "pan_curvecc73",
+            "@value": "7"
+          },
+          {
+            "@name": "pan_oncc70",
+            "@value": "100"
+          },
+          {
+            "@name": "pan_smoothcc70",
+            "@value": "100"
+          },
+          {
+            "@name": "pan_curvecc70",
+            "@value": "7"
+          },
+          {
+            "@name": "pan_oncc20",
+            "@value": "100"
+          },
+          {
+            "@name": "pan_stepcc20",
+            "@value": "50"
+          },
+          {
+            "@name": "pan_curvecc20",
+            "@value": "7"
+          },
+          {
+            "@name": "pan_oncc21",
+            "@value": "100"
+          },
+          {
+            "@name": "pan_smoothcc21",
+            "@value": "500"
+          },
+          {
+            "@name": "pan_curvecc21",
+            "@value": "7"
+          }
+        ]
+      }
+    ],
     "curve": {
       "opcode": [
         {

@@ -32,54 +32,56 @@
         }
       ]
     },
-    "region": {
-      "opcode": [
-        {
-          "@name": "cutoff_oncc73",
-          "@value": "9600"
-        },
-        {
-          "@name": "cutoff_smoothcc73",
-          "@value": "1"
-        },
-        {
-          "@name": "cutoff_oncc70",
-          "@value": "9600"
-        },
-        {
-          "@name": "cutoff_smoothcc70",
-          "@value": "100"
-        },
-        {
-          "@name": "cutoff_curvecc70",
-          "@value": "1"
-        },
-        {
-          "@name": "cutoff_oncc20",
-          "@value": "9600"
-        },
-        {
-          "@name": "cutoff_stepcc20",
-          "@value": "1200"
-        },
-        {
-          "@name": "cutoff_oncc21",
-          "@value": "9600"
-        },
-        {
-          "@name": "cutoff_smoothcc21",
-          "@value": "500"
-        },
-        {
-          "@name": "cutoff_oncc129",
-          "@value": "9600"
-        },
-        {
-          "@name": "cutoff_smoothcc129",
-          "@value": "200"
-        }
-      ]
-    },
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "cutoff_oncc73",
+            "@value": "9600"
+          },
+          {
+            "@name": "cutoff_smoothcc73",
+            "@value": "1"
+          },
+          {
+            "@name": "cutoff_oncc70",
+            "@value": "9600"
+          },
+          {
+            "@name": "cutoff_smoothcc70",
+            "@value": "100"
+          },
+          {
+            "@name": "cutoff_curvecc70",
+            "@value": "1"
+          },
+          {
+            "@name": "cutoff_oncc20",
+            "@value": "9600"
+          },
+          {
+            "@name": "cutoff_stepcc20",
+            "@value": "1200"
+          },
+          {
+            "@name": "cutoff_oncc21",
+            "@value": "9600"
+          },
+          {
+            "@name": "cutoff_smoothcc21",
+            "@value": "500"
+          },
+          {
+            "@name": "cutoff_oncc129",
+            "@value": "9600"
+          },
+          {
+            "@name": "cutoff_smoothcc129",
+            "@value": "200"
+          }
+        ]
+      }
+    ],
     "curve": {
       "opcode": [
         {

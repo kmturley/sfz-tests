@@ -1,56 +1,58 @@
 {
   "sfz": {
-    "region": {
-      "opcode": [
-        {
-          "@name": "sample",
-          "@value": "..\\..\\samples\\440.wav"
-        },
-        {
-          "@name": "loop_mode",
-          "@value": "loop_continuous"
-        },
-        {
-          "@name": "loop_start",
-          "@value": "12629"
-        },
-        {
-          "@name": "loop_end",
-          "@value": "56728"
-        },
-        {
-          "@name": "volume",
-          "@value": "-6"
-        },
-        {
-          "@name": "amp_veltrack",
-          "@value": "0"
-        },
-        {
-          "@name": "lfo01_wave",
-          "@value": "2"
-        },
-        {
-          "@name": "lfo01_freq",
-          "@value": "0.5"
-        },
-        {
-          "@name": "lfo01_freq_lfo02",
-          "@value": "3"
-        },
-        {
-          "@name": "lfo02_wave",
-          "@value": "2"
-        },
-        {
-          "@name": "lfo02_freq",
-          "@value": "3"
-        },
-        {
-          "@name": "lfo02_pitch",
-          "@value": "200"
-        }
-      ]
-    }
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "loop_mode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "loop_start",
+            "@value": "12629"
+          },
+          {
+            "@name": "loop_end",
+            "@value": "56728"
+          },
+          {
+            "@name": "volume",
+            "@value": "-6"
+          },
+          {
+            "@name": "amp_veltrack",
+            "@value": "0"
+          },
+          {
+            "@name": "lfo01_wave",
+            "@value": "2"
+          },
+          {
+            "@name": "lfo01_freq",
+            "@value": "0.5"
+          },
+          {
+            "@name": "lfo01_freq_lfo02",
+            "@value": "3"
+          },
+          {
+            "@name": "lfo02_wave",
+            "@value": "2"
+          },
+          {
+            "@name": "lfo02_freq",
+            "@value": "3"
+          },
+          {
+            "@name": "lfo02_pitch",
+            "@value": "200"
+          }
+        ]
+      }
+    ]
   }
 }

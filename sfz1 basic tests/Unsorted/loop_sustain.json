@@ -1,32 +1,34 @@
 {
   "sfz": {
-    "region": {
-      "opcode": [
-        {
-          "@name": "sample",
-          "@value": "..\\..\\samples\\sweep.wav"
-        },
-        {
-          "@name": "pitch_keytrack",
-          "@value": "0"
-        },
-        {
-          "@name": "loopmode",
-          "@value": "loop_sustain"
-        },
-        {
-          "@name": "loopstart",
-          "@value": "9460"
-        },
-        {
-          "@name": "loopend",
-          "@value": "33857"
-        },
-        {
-          "@name": "ampeg_release",
-          "@value": "10"
-        }
-      ]
-    }
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\sweep.wav"
+          },
+          {
+            "@name": "pitch_keytrack",
+            "@value": "0"
+          },
+          {
+            "@name": "loopmode",
+            "@value": "loop_sustain"
+          },
+          {
+            "@name": "loopstart",
+            "@value": "9460"
+          },
+          {
+            "@name": "loopend",
+            "@value": "33857"
+          },
+          {
+            "@name": "ampeg_release",
+            "@value": "10"
+          }
+        ]
+      }
+    ]
   }
 }

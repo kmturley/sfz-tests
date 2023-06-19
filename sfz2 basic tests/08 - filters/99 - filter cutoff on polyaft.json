@@ -32,26 +32,28 @@
         }
       ]
     },
-    "region": {
-      "opcode": [
-        {
-          "@name": "cutoff_oncc130",
-          "@value": "9600"
-        },
-        {
-          "@name": "cutoff_oncc70",
-          "@value": "9600"
-        },
-        {
-          "@name": "cutoff_smoothcc70",
-          "@value": "100"
-        },
-        {
-          "@name": "cutoff_curvecc70",
-          "@value": "1"
-        }
-      ]
-    },
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "cutoff_oncc130",
+            "@value": "9600"
+          },
+          {
+            "@name": "cutoff_oncc70",
+            "@value": "9600"
+          },
+          {
+            "@name": "cutoff_smoothcc70",
+            "@value": "100"
+          },
+          {
+            "@name": "cutoff_curvecc70",
+            "@value": "1"
+          }
+        ]
+      }
+    ],
     "curve": {
       "opcode": [
         {

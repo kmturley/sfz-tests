@@ -1,60 +1,62 @@
 {
   "sfz": {
-    "region": {
-      "opcode": [
-        {
-          "@name": "locc20",
-          "@value": "0"
-        },
-        {
-          "@name": "hicc20",
-          "@value": "20"
-        },
-        {
-          "@name": "sample",
-          "@value": "..\\..\\samples\\sweep.wav"
-        },
-        {
-          "@name": "loopmode",
-          "@value": "loop_continuous"
-        },
-        {
-          "@name": "eq1_freq",
-          "@value": "200"
-        },
-        {
-          "@name": "eq1_bw",
-          "@value": "0.1"
-        },
-        {
-          "@name": "eq1_gain",
-          "@value": "6"
-        },
-        {
-          "@name": "eq2_freq",
-          "@value": "800"
-        },
-        {
-          "@name": "eq2_bw",
-          "@value": "0.1"
-        },
-        {
-          "@name": "eq2_gain",
-          "@value": "6"
-        },
-        {
-          "@name": "eq3_freq",
-          "@value": "2000"
-        },
-        {
-          "@name": "eq3_bw",
-          "@value": "0.1"
-        },
-        {
-          "@name": "eq3_gain",
-          "@value": "6"
-        }
-      ]
-    }
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "locc20",
+            "@value": "0"
+          },
+          {
+            "@name": "hicc20",
+            "@value": "20"
+          },
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\sweep.wav"
+          },
+          {
+            "@name": "loopmode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "eq1_freq",
+            "@value": "200"
+          },
+          {
+            "@name": "eq1_bw",
+            "@value": "0.1"
+          },
+          {
+            "@name": "eq1_gain",
+            "@value": "6"
+          },
+          {
+            "@name": "eq2_freq",
+            "@value": "800"
+          },
+          {
+            "@name": "eq2_bw",
+            "@value": "0.1"
+          },
+          {
+            "@name": "eq2_gain",
+            "@value": "6"
+          },
+          {
+            "@name": "eq3_freq",
+            "@value": "2000"
+          },
+          {
+            "@name": "eq3_bw",
+            "@value": "0.1"
+          },
+          {
+            "@name": "eq3_gain",
+            "@value": "6"
+          }
+        ]
+      }
+    ]
   }
 }

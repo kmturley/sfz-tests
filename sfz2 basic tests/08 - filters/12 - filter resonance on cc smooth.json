@@ -28,49 +28,51 @@
         }
       ]
     },
-    "region": {
-      "opcode": [
-        {
-          "@name": "resonance_oncc73",
-          "@value": "50"
-        },
-        {
-          "@name": "resonance_smoothcc73",
-          "@value": "1"
-        },
-        {
-          "@name": "resonance_oncc70",
-          "@value": "50"
-        },
-        {
-          "@name": "resonance_smoothcc70",
-          "@value": "100"
-        },
-        {
-          "@name": "resonance_oncc20",
-          "@value": "50"
-        },
-        {
-          "@name": "resonance_stepcc20",
-          "@value": "10"
-        },
-        {
-          "@name": "resonance_oncc21",
-          "@value": "50"
-        },
-        {
-          "@name": "resonance_smoothcc21",
-          "@value": "500"
-        },
-        {
-          "@name": "resonance_oncc129",
-          "@value": "50"
-        },
-        {
-          "@name": "resonance_smoothcc129",
-          "@value": "200"
-        }
-      ]
-    }
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "resonance_oncc73",
+            "@value": "50"
+          },
+          {
+            "@name": "resonance_smoothcc73",
+            "@value": "1"
+          },
+          {
+            "@name": "resonance_oncc70",
+            "@value": "50"
+          },
+          {
+            "@name": "resonance_smoothcc70",
+            "@value": "100"
+          },
+          {
+            "@name": "resonance_oncc20",
+            "@value": "50"
+          },
+          {
+            "@name": "resonance_stepcc20",
+            "@value": "10"
+          },
+          {
+            "@name": "resonance_oncc21",
+            "@value": "50"
+          },
+          {
+            "@name": "resonance_smoothcc21",
+            "@value": "500"
+          },
+          {
+            "@name": "resonance_oncc129",
+            "@value": "50"
+          },
+          {
+            "@name": "resonance_smoothcc129",
+            "@value": "200"
+          }
+        ]
+      }
+    ]
   }
 }

@@ -1,36 +1,38 @@
 {
   "sfz": {
-    "region": {
-      "opcode": [
-        {
-          "@name": "sample",
-          "@value": "..\\..\\samples\\noise.wav"
-        },
-        {
-          "@name": "loop_mode",
-          "@value": "loop_continuous"
-        },
-        {
-          "@name": "cutoff",
-          "@value": "1000"
-        },
-        {
-          "@name": "resonance",
-          "@value": "10"
-        },
-        {
-          "@name": "amp_veltrack",
-          "@value": "0"
-        },
-        {
-          "@name": "lfo01_freq",
-          "@value": "2"
-        },
-        {
-          "@name": "lfo01_cutoff",
-          "@value": "1200"
-        }
-      ]
-    }
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\noise.wav"
+          },
+          {
+            "@name": "loop_mode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "cutoff",
+            "@value": "1000"
+          },
+          {
+            "@name": "resonance",
+            "@value": "10"
+          },
+          {
+            "@name": "amp_veltrack",
+            "@value": "0"
+          },
+          {
+            "@name": "lfo01_freq",
+            "@value": "2"
+          },
+          {
+            "@name": "lfo01_cutoff",
+            "@value": "1200"
+          }
+        ]
+      }
+    ]
   }
 }

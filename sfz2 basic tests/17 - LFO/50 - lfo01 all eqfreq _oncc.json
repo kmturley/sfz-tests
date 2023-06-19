@@ -1,156 +1,158 @@
 {
   "sfz": {
-    "region": {
-      "opcode": [
-        {
-          "@name": "sample",
-          "@value": "..\\..\\samples\\noise.wav"
-        },
-        {
-          "@name": "loop_mode",
-          "@value": "loop_continuous"
-        },
-        {
-          "@name": "volume",
-          "@value": "-6"
-        },
-        {
-          "@name": "eq1_gain",
-          "@value": "18"
-        },
-        {
-          "@name": "eq2_gain",
-          "@value": "18"
-        },
-        {
-          "@name": "eq3_gain",
-          "@value": "18"
-        },
-        {
-          "@name": "eq1_freq",
-          "@value": "100"
-        },
-        {
-          "@name": "eq2_freq",
-          "@value": "400"
-        },
-        {
-          "@name": "eq3_freq",
-          "@value": "800"
-        },
-        {
-          "@name": "lfo01_freq",
-          "@value": "2"
-        },
-        {
-          "@name": "lfo01_eq1freq_oncc73",
-          "@value": "200"
-        },
-        {
-          "@name": "lfo01_eq1freq_oncc70",
-          "@value": "200"
-        },
-        {
-          "@name": "lfo01_eq1freq_smoothcc70",
-          "@value": "100"
-        },
-        {
-          "@name": "lfo01_eq1freq_oncc20",
-          "@value": "200"
-        },
-        {
-          "@name": "lfo01_eq1freq_stepcc20",
-          "@value": "51"
-        },
-        {
-          "@name": "lfo01_eq1freq_oncc21",
-          "@value": "200"
-        },
-        {
-          "@name": "lfo01_eq1freq_smoothcc21",
-          "@value": "1000"
-        },
-        {
-          "@name": "lfo01_eq1freq_oncc129",
-          "@value": "200"
-        },
-        {
-          "@name": "lfo01_eq1freq_smoothcc129",
-          "@value": "500"
-        },
-        {
-          "@name": "lfo01_eq2freq_oncc73",
-          "@value": "800"
-        },
-        {
-          "@name": "lfo01_eq2freq_oncc70",
-          "@value": "800"
-        },
-        {
-          "@name": "lfo01_eq2freq_smoothcc70",
-          "@value": "100"
-        },
-        {
-          "@name": "lfo01_eq2freq_oncc20",
-          "@value": "800"
-        },
-        {
-          "@name": "lfo01_eq2freq_stepcc20",
-          "@value": "401"
-        },
-        {
-          "@name": "lfo01_eq2freq_oncc21",
-          "@value": "800"
-        },
-        {
-          "@name": "lfo01_eq2freq_smoothcc21",
-          "@value": "1000"
-        },
-        {
-          "@name": "lfo01_eq2freq_oncc129",
-          "@value": "800"
-        },
-        {
-          "@name": "lfo01_eq2freq_smoothcc129",
-          "@value": "500"
-        },
-        {
-          "@name": "lfo01_eq3freq_oncc73",
-          "@value": "1600"
-        },
-        {
-          "@name": "lfo01_eq3freq_oncc70",
-          "@value": "1600"
-        },
-        {
-          "@name": "lfo01_eq3freq_smoothcc70",
-          "@value": "100"
-        },
-        {
-          "@name": "lfo01_eq3freq_oncc20",
-          "@value": "1600"
-        },
-        {
-          "@name": "lfo01_eq3freq_stepcc20",
-          "@value": "801"
-        },
-        {
-          "@name": "lfo01_eq3freq_oncc21",
-          "@value": "1600"
-        },
-        {
-          "@name": "lfo01_eq3freq_smoothcc21",
-          "@value": "1000"
-        },
-        {
-          "@name": "lfo01_eq3freq_oncc129",
-          "@value": "1600"
-        },
-        {
-          "@name": "lfo01_eq3freq_smoothcc129",
-          "@value": "500"
-        }
-      ]
-    }
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\noise.wav"
+          },
+          {
+            "@name": "loop_mode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "volume",
+            "@value": "-6"
+          },
+          {
+            "@name": "eq1_gain",
+            "@value": "18"
+          },
+          {
+            "@name": "eq2_gain",
+            "@value": "18"
+          },
+          {
+            "@name": "eq3_gain",
+            "@value": "18"
+          },
+          {
+            "@name": "eq1_freq",
+            "@value": "100"
+          },
+          {
+            "@name": "eq2_freq",
+            "@value": "400"
+          },
+          {
+            "@name": "eq3_freq",
+            "@value": "800"
+          },
+          {
+            "@name": "lfo01_freq",
+            "@value": "2"
+          },
+          {
+            "@name": "lfo01_eq1freq_oncc73",
+            "@value": "200"
+          },
+          {
+            "@name": "lfo01_eq1freq_oncc70",
+            "@value": "200"
+          },
+          {
+            "@name": "lfo01_eq1freq_smoothcc70",
+            "@value": "100"
+          },
+          {
+            "@name": "lfo01_eq1freq_oncc20",
+            "@value": "200"
+          },
+          {
+            "@name": "lfo01_eq1freq_stepcc20",
+            "@value": "51"
+          },
+          {
+            "@name": "lfo01_eq1freq_oncc21",
+            "@value": "200"
+          },
+          {
+            "@name": "lfo01_eq1freq_smoothcc21",
+            "@value": "1000"
+          },
+          {
+            "@name": "lfo01_eq1freq_oncc129",
+            "@value": "200"
+          },
+          {
+            "@name": "lfo01_eq1freq_smoothcc129",
+            "@value": "500"
+          },
+          {
+            "@name": "lfo01_eq2freq_oncc73",
+            "@value": "800"
+          },
+          {
+            "@name": "lfo01_eq2freq_oncc70",
+            "@value": "800"
+          },
+          {
+            "@name": "lfo01_eq2freq_smoothcc70",
+            "@value": "100"
+          },
+          {
+            "@name": "lfo01_eq2freq_oncc20",
+            "@value": "800"
+          },
+          {
+            "@name": "lfo01_eq2freq_stepcc20",
+            "@value": "401"
+          },
+          {
+            "@name": "lfo01_eq2freq_oncc21",
+            "@value": "800"
+          },
+          {
+            "@name": "lfo01_eq2freq_smoothcc21",
+            "@value": "1000"
+          },
+          {
+            "@name": "lfo01_eq2freq_oncc129",
+            "@value": "800"
+          },
+          {
+            "@name": "lfo01_eq2freq_smoothcc129",
+            "@value": "500"
+          },
+          {
+            "@name": "lfo01_eq3freq_oncc73",
+            "@value": "1600"
+          },
+          {
+            "@name": "lfo01_eq3freq_oncc70",
+            "@value": "1600"
+          },
+          {
+            "@name": "lfo01_eq3freq_smoothcc70",
+            "@value": "100"
+          },
+          {
+            "@name": "lfo01_eq3freq_oncc20",
+            "@value": "1600"
+          },
+          {
+            "@name": "lfo01_eq3freq_stepcc20",
+            "@value": "801"
+          },
+          {
+            "@name": "lfo01_eq3freq_oncc21",
+            "@value": "1600"
+          },
+          {
+            "@name": "lfo01_eq3freq_smoothcc21",
+            "@value": "1000"
+          },
+          {
+            "@name": "lfo01_eq3freq_oncc129",
+            "@value": "1600"
+          },
+          {
+            "@name": "lfo01_eq3freq_smoothcc129",
+            "@value": "500"
+          }
+        ]
+      }
+    ]
   }
 }

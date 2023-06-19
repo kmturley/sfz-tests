@@ -1,108 +1,110 @@
 {
   "sfz": {
-    "region": {
-      "opcode": [
-        {
-          "@name": "sample",
-          "@value": "..\\..\\samples\\440.wav"
-        },
-        {
-          "@name": "loop_mode",
-          "@value": "loop_continuous"
-        },
-        {
-          "@name": "loop_start",
-          "@value": "12629"
-        },
-        {
-          "@name": "loop_end",
-          "@value": "56728"
-        },
-        {
-          "@name": "volume",
-          "@value": "-6"
-        },
-        {
-          "@name": "amp_veltrack",
-          "@value": "0"
-        },
-        {
-          "@name": "lfo01_steps",
-          "@value": "4"
-        },
-        {
-          "@name": "lfo01_freq",
-          "@value": "1"
-        },
-        {
-          "@name": "lfo01_pitch",
-          "@value": "1200"
-        },
-        {
-          "@name": "lfo01_step01_oncc73",
-          "@value": "100"
-        },
-        {
-          "@name": "lfo01_step01_smoothcc73",
-          "@value": "100"
-        },
-        {
-          "@name": "lfo01_step02_oncc73",
-          "@value": "100"
-        },
-        {
-          "@name": "lfo01_step02_smoothcc73",
-          "@value": "100"
-        },
-        {
-          "@name": "lfo01_step03_oncc73",
-          "@value": "100"
-        },
-        {
-          "@name": "lfo01_step03_smoothcc73",
-          "@value": "100"
-        },
-        {
-          "@name": "lfo01_step04_oncc73",
-          "@value": "100"
-        },
-        {
-          "@name": "lfo01_step04_smoothcc73",
-          "@value": "100"
-        },
-        {
-          "@name": "lfo01_step01_oncc70",
-          "@value": "100"
-        },
-        {
-          "@name": "lfo01_step01_stepcc70",
-          "@value": "30"
-        },
-        {
-          "@name": "lfo01_step02_oncc70",
-          "@value": "100"
-        },
-        {
-          "@name": "lfo01_step02_stepcc70",
-          "@value": "30"
-        },
-        {
-          "@name": "lfo01_step03_oncc70",
-          "@value": "100"
-        },
-        {
-          "@name": "lfo01_step03_stepcc70",
-          "@value": "30"
-        },
-        {
-          "@name": "lfo01_step04_oncc70",
-          "@value": "100"
-        },
-        {
-          "@name": "lfo01_step04_stepcc70",
-          "@value": "30"
-        }
-      ]
-    }
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "loop_mode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "loop_start",
+            "@value": "12629"
+          },
+          {
+            "@name": "loop_end",
+            "@value": "56728"
+          },
+          {
+            "@name": "volume",
+            "@value": "-6"
+          },
+          {
+            "@name": "amp_veltrack",
+            "@value": "0"
+          },
+          {
+            "@name": "lfo01_steps",
+            "@value": "4"
+          },
+          {
+            "@name": "lfo01_freq",
+            "@value": "1"
+          },
+          {
+            "@name": "lfo01_pitch",
+            "@value": "1200"
+          },
+          {
+            "@name": "lfo01_step01_oncc73",
+            "@value": "100"
+          },
+          {
+            "@name": "lfo01_step01_smoothcc73",
+            "@value": "100"
+          },
+          {
+            "@name": "lfo01_step02_oncc73",
+            "@value": "100"
+          },
+          {
+            "@name": "lfo01_step02_smoothcc73",
+            "@value": "100"
+          },
+          {
+            "@name": "lfo01_step03_oncc73",
+            "@value": "100"
+          },
+          {
+            "@name": "lfo01_step03_smoothcc73",
+            "@value": "100"
+          },
+          {
+            "@name": "lfo01_step04_oncc73",
+            "@value": "100"
+          },
+          {
+            "@name": "lfo01_step04_smoothcc73",
+            "@value": "100"
+          },
+          {
+            "@name": "lfo01_step01_oncc70",
+            "@value": "100"
+          },
+          {
+            "@name": "lfo01_step01_stepcc70",
+            "@value": "30"
+          },
+          {
+            "@name": "lfo01_step02_oncc70",
+            "@value": "100"
+          },
+          {
+            "@name": "lfo01_step02_stepcc70",
+            "@value": "30"
+          },
+          {
+            "@name": "lfo01_step03_oncc70",
+            "@value": "100"
+          },
+          {
+            "@name": "lfo01_step03_stepcc70",
+            "@value": "30"
+          },
+          {
+            "@name": "lfo01_step04_oncc70",
+            "@value": "100"
+          },
+          {
+            "@name": "lfo01_step04_stepcc70",
+            "@value": "30"
+          }
+        ]
+      }
+    ]
   }
 }

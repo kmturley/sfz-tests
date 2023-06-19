@@ -32,11 +32,13 @@
         }
       ]
     },
-    "region": {
-      "opcode": {
-        "@name": "width_oncc73",
-        "@value": "200"
+    "region": [
+      {
+        "opcode": {
+          "@name": "width_oncc73",
+          "@value": "200"
+        }
       }
-    }
+    ]
   }
 }

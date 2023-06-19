@@ -1,76 +1,78 @@
 {
   "sfz": {
-    "region": {
-      "opcode": [
-        {
-          "@name": "sample",
-          "@value": "..\\..\\samples\\noise.wav"
-        },
-        {
-          "@name": "loop_mode",
-          "@value": "loop_continuous"
-        },
-        {
-          "@name": "volume",
-          "@value": "-6"
-        },
-        {
-          "@name": "amp_veltrack",
-          "@value": "0"
-        },
-        {
-          "@name": "cutoff",
-          "@value": "1000"
-        },
-        {
-          "@name": "resonance",
-          "@value": "10"
-        },
-        {
-          "@name": "amp_veltrack",
-          "@value": "0"
-        },
-        {
-          "@name": "lfo01_freq",
-          "@value": "2"
-        },
-        {
-          "@name": "lfo01_resonance_oncc73",
-          "@value": "30"
-        },
-        {
-          "@name": "lfo01_resonance_oncc70",
-          "@value": "30"
-        },
-        {
-          "@name": "lfo01_resonance_smoothcc70",
-          "@value": "100"
-        },
-        {
-          "@name": "lfo01_resonance_oncc20",
-          "@value": "30"
-        },
-        {
-          "@name": "lfo01_resonance_stepcc20",
-          "@value": "15"
-        },
-        {
-          "@name": "lfo01_resonance_oncc21",
-          "@value": "30"
-        },
-        {
-          "@name": "lfo01_resonance_smoothcc21",
-          "@value": "1000"
-        },
-        {
-          "@name": "lfo01_resonance_oncc129",
-          "@value": "30"
-        },
-        {
-          "@name": "lfo01_resonance_smoothcc129",
-          "@value": "500"
-        }
-      ]
-    }
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\noise.wav"
+          },
+          {
+            "@name": "loop_mode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "volume",
+            "@value": "-6"
+          },
+          {
+            "@name": "amp_veltrack",
+            "@value": "0"
+          },
+          {
+            "@name": "cutoff",
+            "@value": "1000"
+          },
+          {
+            "@name": "resonance",
+            "@value": "10"
+          },
+          {
+            "@name": "amp_veltrack",
+            "@value": "0"
+          },
+          {
+            "@name": "lfo01_freq",
+            "@value": "2"
+          },
+          {
+            "@name": "lfo01_resonance_oncc73",
+            "@value": "30"
+          },
+          {
+            "@name": "lfo01_resonance_oncc70",
+            "@value": "30"
+          },
+          {
+            "@name": "lfo01_resonance_smoothcc70",
+            "@value": "100"
+          },
+          {
+            "@name": "lfo01_resonance_oncc20",
+            "@value": "30"
+          },
+          {
+            "@name": "lfo01_resonance_stepcc20",
+            "@value": "15"
+          },
+          {
+            "@name": "lfo01_resonance_oncc21",
+            "@value": "30"
+          },
+          {
+            "@name": "lfo01_resonance_smoothcc21",
+            "@value": "1000"
+          },
+          {
+            "@name": "lfo01_resonance_oncc129",
+            "@value": "30"
+          },
+          {
+            "@name": "lfo01_resonance_smoothcc129",
+            "@value": "500"
+          }
+        ]
+      }
+    ]
   }
 }

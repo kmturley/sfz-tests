@@ -24,49 +24,51 @@
         }
       ]
     },
-    "region": {
-      "opcode": [
-        {
-          "@name": "volume_oncc73",
-          "@value": "24"
-        },
-        {
-          "@name": "volume_smoothcc73",
-          "@value": "1"
-        },
-        {
-          "@name": "volume_oncc70",
-          "@value": "24"
-        },
-        {
-          "@name": "volume_smoothcc70",
-          "@value": "100"
-        },
-        {
-          "@name": "volume_oncc20",
-          "@value": "24"
-        },
-        {
-          "@name": "volume_stepcc20",
-          "@value": "4"
-        },
-        {
-          "@name": "volume_oncc21",
-          "@value": "24"
-        },
-        {
-          "@name": "volume_smoothcc21",
-          "@value": "500"
-        },
-        {
-          "@name": "volume_oncc129",
-          "@value": "24"
-        },
-        {
-          "@name": "volume_smoothcc129",
-          "@value": "200"
-        }
-      ]
-    }
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "volume_oncc73",
+            "@value": "24"
+          },
+          {
+            "@name": "volume_smoothcc73",
+            "@value": "1"
+          },
+          {
+            "@name": "volume_oncc70",
+            "@value": "24"
+          },
+          {
+            "@name": "volume_smoothcc70",
+            "@value": "100"
+          },
+          {
+            "@name": "volume_oncc20",
+            "@value": "24"
+          },
+          {
+            "@name": "volume_stepcc20",
+            "@value": "4"
+          },
+          {
+            "@name": "volume_oncc21",
+            "@value": "24"
+          },
+          {
+            "@name": "volume_smoothcc21",
+            "@value": "500"
+          },
+          {
+            "@name": "volume_oncc129",
+            "@value": "24"
+          },
+          {
+            "@name": "volume_smoothcc129",
+            "@value": "200"
+          }
+        ]
+      }
+    ]
   }
 }

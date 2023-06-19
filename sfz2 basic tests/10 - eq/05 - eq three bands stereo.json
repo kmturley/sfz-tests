@@ -1,60 +1,62 @@
 {
   "sfz": {
-    "region": {
-      "opcode": [
-        {
-          "@name": "sample",
-          "@value": "..\\..\\samples\\sweep test stereo.wav"
-        },
-        {
-          "@name": "loop_mode",
-          "@value": "one_shot"
-        },
-        {
-          "@name": "amp_veltrack",
-          "@value": "0"
-        },
-        {
-          "@name": "pitch_keytrack",
-          "@value": "0"
-        },
-        {
-          "@name": "eq1_freq",
-          "@value": "400"
-        },
-        {
-          "@name": "eq1_bw",
-          "@value": "0.5"
-        },
-        {
-          "@name": "eq1_gain",
-          "@value": "12"
-        },
-        {
-          "@name": "eq2_freq",
-          "@value": "1000"
-        },
-        {
-          "@name": "eq2_bw",
-          "@value": "0.5"
-        },
-        {
-          "@name": "eq2_gain",
-          "@value": "12"
-        },
-        {
-          "@name": "eq3_freq",
-          "@value": "4000"
-        },
-        {
-          "@name": "eq3_bw",
-          "@value": "0.5"
-        },
-        {
-          "@name": "eq3_gain",
-          "@value": "12"
-        }
-      ]
-    }
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\sweep test stereo.wav"
+          },
+          {
+            "@name": "loop_mode",
+            "@value": "one_shot"
+          },
+          {
+            "@name": "amp_veltrack",
+            "@value": "0"
+          },
+          {
+            "@name": "pitch_keytrack",
+            "@value": "0"
+          },
+          {
+            "@name": "eq1_freq",
+            "@value": "400"
+          },
+          {
+            "@name": "eq1_bw",
+            "@value": "0.5"
+          },
+          {
+            "@name": "eq1_gain",
+            "@value": "12"
+          },
+          {
+            "@name": "eq2_freq",
+            "@value": "1000"
+          },
+          {
+            "@name": "eq2_bw",
+            "@value": "0.5"
+          },
+          {
+            "@name": "eq2_gain",
+            "@value": "12"
+          },
+          {
+            "@name": "eq3_freq",
+            "@value": "4000"
+          },
+          {
+            "@name": "eq3_bw",
+            "@value": "0.5"
+          },
+          {
+            "@name": "eq3_gain",
+            "@value": "12"
+          }
+        ]
+      }
+    ]
   }
 }

@@ -1,20 +1,22 @@
 {
   "sfz": {
-    "region": {
-      "opcode": [
-        {
-          "@name": "sample",
-          "@value": "..\\..\\samples\\440.wav"
-        },
-        {
-          "@name": "amp_velcurve_20",
-          "@value": "0.5"
-        },
-        {
-          "@name": "amp_velcurve_90",
-          "@value": "0.85"
-        }
-      ]
-    }
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "amp_velcurve_20",
+            "@value": "0.5"
+          },
+          {
+            "@name": "amp_velcurve_90",
+            "@value": "0.85"
+          }
+        ]
+      }
+    ]
   }
 }

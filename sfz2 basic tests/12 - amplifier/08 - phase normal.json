@@ -1,28 +1,30 @@
 {
   "sfz": {
-    "region": {
-      "opcode": [
-        {
-          "@name": "sample",
-          "@value": "..\\..\\samples\\two tone.wav"
-        },
-        {
-          "@name": "loop_start",
-          "@value": "10336"
-        },
-        {
-          "@name": "loop_end",
-          "@value": "12100"
-        },
-        {
-          "@name": "loop_mode",
-          "@value": "loop_continuous"
-        },
-        {
-          "@name": "phase",
-          "@value": "normal"
-        }
-      ]
-    }
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\two tone.wav"
+          },
+          {
+            "@name": "loop_start",
+            "@value": "10336"
+          },
+          {
+            "@name": "loop_end",
+            "@value": "12100"
+          },
+          {
+            "@name": "loop_mode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "phase",
+            "@value": "normal"
+          }
+        ]
+      }
+    ]
   }
 }

@@ -1,76 +1,78 @@
 {
   "sfz": {
-    "region": {
-      "opcode": [
-        {
-          "@name": "sample",
-          "@value": "..\\..\\samples\\440.wav"
-        },
-        {
-          "@name": "loop_start",
-          "@value": "12629"
-        },
-        {
-          "@name": "loop_end",
-          "@value": "56728"
-        },
-        {
-          "@name": "loop_mode",
-          "@value": "loop_continuous"
-        },
-        {
-          "@name": "amp_veltrack",
-          "@value": "0"
-        },
-        {
-          "@name": "bitred_oncc73",
-          "@value": "100"
-        },
-        {
-          "@name": "bitred_smoothcc73",
-          "@value": "1"
-        },
-        {
-          "@name": "bitred_oncc70",
-          "@value": "100"
-        },
-        {
-          "@name": "bitred_smoothcc70",
-          "@value": "100"
-        },
-        {
-          "@name": "bitred_oncc20",
-          "@value": "100"
-        },
-        {
-          "@name": "bitred_stepcc20",
-          "@value": "10"
-        },
-        {
-          "@name": "bitred_oncc21",
-          "@value": "100"
-        },
-        {
-          "@name": "bitred_smoothcc21",
-          "@value": "500"
-        },
-        {
-          "@name": "bitred_oncc128",
-          "@value": "100"
-        },
-        {
-          "@name": "bitred_smoothcc128",
-          "@value": "100"
-        },
-        {
-          "@name": "bitred_oncc129",
-          "@value": "100"
-        },
-        {
-          "@name": "bitred_smoothcc129",
-          "@value": "100"
-        }
-      ]
-    }
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "loop_start",
+            "@value": "12629"
+          },
+          {
+            "@name": "loop_end",
+            "@value": "56728"
+          },
+          {
+            "@name": "loop_mode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "amp_veltrack",
+            "@value": "0"
+          },
+          {
+            "@name": "bitred_oncc73",
+            "@value": "100"
+          },
+          {
+            "@name": "bitred_smoothcc73",
+            "@value": "1"
+          },
+          {
+            "@name": "bitred_oncc70",
+            "@value": "100"
+          },
+          {
+            "@name": "bitred_smoothcc70",
+            "@value": "100"
+          },
+          {
+            "@name": "bitred_oncc20",
+            "@value": "100"
+          },
+          {
+            "@name": "bitred_stepcc20",
+            "@value": "10"
+          },
+          {
+            "@name": "bitred_oncc21",
+            "@value": "100"
+          },
+          {
+            "@name": "bitred_smoothcc21",
+            "@value": "500"
+          },
+          {
+            "@name": "bitred_oncc128",
+            "@value": "100"
+          },
+          {
+            "@name": "bitred_smoothcc128",
+            "@value": "100"
+          },
+          {
+            "@name": "bitred_oncc129",
+            "@value": "100"
+          },
+          {
+            "@name": "bitred_smoothcc129",
+            "@value": "100"
+          }
+        ]
+      }
+    ]
   }
 }

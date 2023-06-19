@@ -28,25 +28,27 @@
         }
       ]
     },
-    "region": {
-      "opcode": [
-        {
-          "@name": "xfin_locc1",
-          "@value": "0"
-        },
-        {
-          "@name": "xfin_hicc1",
-          "@value": "64"
-        },
-        {
-          "@name": "xfout_locc1",
-          "@value": "64"
-        },
-        {
-          "@name": "xfout_hicc1",
-          "@value": "127"
-        }
-      ]
-    }
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "xfin_locc1",
+            "@value": "0"
+          },
+          {
+            "@name": "xfin_hicc1",
+            "@value": "64"
+          },
+          {
+            "@name": "xfout_locc1",
+            "@value": "64"
+          },
+          {
+            "@name": "xfout_hicc1",
+            "@value": "127"
+          }
+        ]
+      }
+    ]
   }
 }

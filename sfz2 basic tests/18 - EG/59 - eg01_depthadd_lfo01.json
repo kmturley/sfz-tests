@@ -1,96 +1,98 @@
 {
   "sfz": {
-    "region": {
-      "opcode": [
-        {
-          "@name": "sample",
-          "@value": "..\\..\\samples\\440.wav"
-        },
-        {
-          "@name": "loop_mode",
-          "@value": "loop_continuous"
-        },
-        {
-          "@name": "loop_start",
-          "@value": "12629"
-        },
-        {
-          "@name": "loop_end",
-          "@value": "56728"
-        },
-        {
-          "@name": "ampeg_release",
-          "@value": "4"
-        },
-        {
-          "@name": "eg10_sustain",
-          "@value": "4"
-        },
-        {
-          "@name": "eg10_level0",
-          "@value": "0"
-        },
-        {
-          "@name": "eg10_time0",
-          "@value": "0"
-        },
-        {
-          "@name": "eg10_level1",
-          "@value": "0"
-        },
-        {
-          "@name": "eg10_time1",
-          "@value": "0.5"
-        },
-        {
-          "@name": "eg10_level2",
-          "@value": "1"
-        },
-        {
-          "@name": "eg10_time2",
-          "@value": "1"
-        },
-        {
-          "@name": "eg10_level3",
-          "@value": "1"
-        },
-        {
-          "@name": "eg10_time3",
-          "@value": "1"
-        },
-        {
-          "@name": "eg10_shape3",
-          "@value": ".1"
-        },
-        {
-          "@name": "eg10_level4",
-          "@value": "0.5"
-        },
-        {
-          "@name": "eg10_time4",
-          "@value": "1"
-        },
-        {
-          "@name": "eg10_level5",
-          "@value": "0"
-        },
-        {
-          "@name": "eg10_time5",
-          "@value": "0"
-        },
-        {
-          "@name": "eg10_depthadd_lfo10",
-          "@value": "300"
-        },
-        {
-          "@name": "lfo10_freq",
-          "@value": "4"
-        },
-        {
-          "@name": "lfo10_pitch",
-          "@value": "200"
-        }
-      ]
-    }
+    "region": [
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "loop_mode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "loop_start",
+            "@value": "12629"
+          },
+          {
+            "@name": "loop_end",
+            "@value": "56728"
+          },
+          {
+            "@name": "ampeg_release",
+            "@value": "4"
+          },
+          {
+            "@name": "eg10_sustain",
+            "@value": "4"
+          },
+          {
+            "@name": "eg10_level0",
+            "@value": "0"
+          },
+          {
+            "@name": "eg10_time0",
+            "@value": "0"
+          },
+          {
+            "@name": "eg10_level1",
+            "@value": "0"
+          },
+          {
+            "@name": "eg10_time1",
+            "@value": "0.5"
+          },
+          {
+            "@name": "eg10_level2",
+            "@value": "1"
+          },
+          {
+            "@name": "eg10_time2",
+            "@value": "1"
+          },
+          {
+            "@name": "eg10_level3",
+            "@value": "1"
+          },
+          {
+            "@name": "eg10_time3",
+            "@value": "1"
+          },
+          {
+            "@name": "eg10_shape3",
+            "@value": ".1"
+          },
+          {
+            "@name": "eg10_level4",
+            "@value": "0.5"
+          },
+          {
+            "@name": "eg10_time4",
+            "@value": "1"
+          },
+          {
+            "@name": "eg10_level5",
+            "@value": "0"
+          },
+          {
+            "@name": "eg10_time5",
+            "@value": "0"
+          },
+          {
+            "@name": "eg10_depthadd_lfo10",
+            "@value": "300"
+          },
+          {
+            "@name": "lfo10_freq",
+            "@value": "4"
+          },
+          {
+            "@name": "lfo10_pitch",
+            "@value": "200"
+          }
+        ]
+      }
+    ]
   }
 }
