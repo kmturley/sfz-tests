@@ -26,10 +26,12 @@
     },
     "region": [
       {
-        "opcode": {
-          "@name": "volume_oncc135",
-          "@value": "24"
-        }
+        "opcode": [
+          {
+            "@name": "volume_oncc135",
+            "@value": "24"
+          }
+        ]
       }
     ]
   }

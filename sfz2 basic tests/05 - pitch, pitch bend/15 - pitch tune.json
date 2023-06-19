@@ -1,10 +1,12 @@
 {
   "sfz": {
     "group": {
-      "opcode": {
-        "@name": "sample",
-        "@value": "..\\..\\samples\\440.wav"
-      }
+      "opcode": [
+        {
+          "@name": "sample",
+          "@value": "..\\..\\samples\\440.wav"
+        }
+      ]
     },
     "region": [
       null,

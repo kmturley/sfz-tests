@@ -38,10 +38,12 @@
     },
     "region": [
       {
-        "opcode": {
-          "@name": "effect1",
-          "@value": "100"
-        }
+        "opcode": [
+          {
+            "@name": "effect1",
+            "@value": "100"
+          }
+        ]
       },
       {
         "opcode": [

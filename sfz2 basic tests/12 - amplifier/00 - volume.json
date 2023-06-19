@@ -38,10 +38,12 @@
         ]
       },
       {
-        "opcode": {
-          "@name": "locc73",
-          "@value": "63"
-        }
+        "opcode": [
+          {
+            "@name": "locc73",
+            "@value": "63"
+          }
+        ]
       }
     ]
   }

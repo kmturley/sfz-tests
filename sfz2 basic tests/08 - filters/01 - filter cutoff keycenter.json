@@ -38,16 +38,20 @@
     },
     "region": [
       {
-        "opcode": {
-          "@name": "fil_keycenter",
-          "@value": "48"
-        }
+        "opcode": [
+          {
+            "@name": "fil_keycenter",
+            "@value": "48"
+          }
+        ]
       },
       {
-        "opcode": {
-          "@name": "fil_keycenter",
-          "@value": "72"
-        }
+        "opcode": [
+          {
+            "@name": "fil_keycenter",
+            "@value": "72"
+          }
+        ]
       }
     ]
   }

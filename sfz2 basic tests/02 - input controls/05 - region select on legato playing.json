@@ -42,10 +42,12 @@
         ]
       },
       {
-        "opcode": {
-          "@name": "trigger",
-          "@value": "legato"
-        }
+        "opcode": [
+          {
+            "@name": "trigger",
+            "@value": "legato"
+          }
+        ]
       }
     ]
   }

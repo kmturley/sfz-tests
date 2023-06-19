@@ -22,16 +22,20 @@
     },
     "group": [
       {
-        "opcode": {
-          "@name": "sw_last",
-          "@value": "0"
-        }
+        "opcode": [
+          {
+            "@name": "sw_last",
+            "@value": "0"
+          }
+        ]
       },
       {
-        "opcode": {
-          "@name": "sw_last",
-          "@value": "1"
-        }
+        "opcode": [
+          {
+            "@name": "sw_last",
+            "@value": "1"
+          }
+        ]
       }
     ],
     "region": [
