@@ -1,53 +1,55 @@
 {
   "sfz": {
-    "group": {
-      "opcode": [
-        {
-          "@name": "sample",
-          "@value": "*silence"
-        },
-        {
-          "@name": "loop_start",
-          "@value": "1"
-        },
-        {
-          "@name": "loop_end",
-          "@value": "100"
-        },
-        {
-          "@name": "loop_mode",
-          "@value": "loop_continuous"
-        },
-        {
-          "@name": "noise_filter",
-          "@value": "pink"
-        },
-        {
-          "@name": "noise_level",
-          "@value": "10"
-        },
-        {
-          "@name": "noise_step",
-          "@value": "0"
-        },
-        {
-          "@name": "noise_tone",
-          "@value": "100"
-        },
-        {
-          "@name": "fil_type",
-          "@value": "lpf_2p"
-        },
-        {
-          "@name": "cutoff_oncc150",
-          "@value": "0"
-        },
-        {
-          "@name": "resonance",
-          "@value": "96"
-        }
-      ]
-    },
+    "group": [
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "*silence"
+          },
+          {
+            "@name": "loop_start",
+            "@value": "1"
+          },
+          {
+            "@name": "loop_end",
+            "@value": "100"
+          },
+          {
+            "@name": "loop_mode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "noise_filter",
+            "@value": "pink"
+          },
+          {
+            "@name": "noise_level",
+            "@value": "10"
+          },
+          {
+            "@name": "noise_step",
+            "@value": "0"
+          },
+          {
+            "@name": "noise_tone",
+            "@value": "100"
+          },
+          {
+            "@name": "fil_type",
+            "@value": "lpf_2p"
+          },
+          {
+            "@name": "cutoff_oncc150",
+            "@value": "0"
+          },
+          {
+            "@name": "resonance",
+            "@value": "96"
+          }
+        ]
+      }
+    ],
     "region": [
       {
         "opcode": [
@@ -146,13 +148,13 @@
         ]
       }
     ],
-    "effect": {
-      "opcode": [
-        {
+    "effect": [
+      {
+        "opcode": {
           "@name": "type",
           "@value": "limiter"
         }
-      ]
-    }
+      }
+    ]
   }
 }

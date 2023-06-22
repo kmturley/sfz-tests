@@ -1,33 +1,35 @@
 {
   "sfz": {
-    "group": {
-      "opcode": [
-        {
-          "@name": "sample",
-          "@value": "..\\..\\samples\\440.wav"
-        },
-        {
-          "@name": "loop_start",
-          "@value": "12629"
-        },
-        {
-          "@name": "loop_end",
-          "@value": "56728"
-        },
-        {
-          "@name": "loop_mode",
-          "@value": "loop_continuous"
-        },
-        {
-          "@name": "pitch_keytrack",
-          "@value": "0"
-        },
-        {
-          "@name": "amp_veltrack",
-          "@value": "0"
-        }
-      ]
-    },
+    "group": [
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "loop_start",
+            "@value": "12629"
+          },
+          {
+            "@name": "loop_end",
+            "@value": "56728"
+          },
+          {
+            "@name": "loop_mode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "pitch_keytrack",
+            "@value": "0"
+          },
+          {
+            "@name": "amp_veltrack",
+            "@value": "0"
+          }
+        ]
+      }
+    ],
     "region": [
       {
         "opcode": [

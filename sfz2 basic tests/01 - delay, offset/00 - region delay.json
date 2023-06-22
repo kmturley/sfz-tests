@@ -1,37 +1,39 @@
 {
   "sfz": {
-    "group": {
-      "opcode": [
-        {
-          "@name": "sample",
-          "@value": "..\\..\\samples\\440.wav"
-        },
-        {
-          "@name": "loop_start",
-          "@value": "12629"
-        },
-        {
-          "@name": "loop_end",
-          "@value": "56728"
-        },
-        {
-          "@name": "loop_mode",
-          "@value": "loop_continuous"
-        },
-        {
-          "@name": "ampeg_hold",
-          "@value": "0.25"
-        },
-        {
-          "@name": "ampeg_attack",
-          "@value": "0.01"
-        },
-        {
-          "@name": "ampeg_sustain",
-          "@value": "0"
-        }
-      ]
-    },
+    "group": [
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "loop_start",
+            "@value": "12629"
+          },
+          {
+            "@name": "loop_end",
+            "@value": "56728"
+          },
+          {
+            "@name": "loop_mode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "ampeg_hold",
+            "@value": "0.25"
+          },
+          {
+            "@name": "ampeg_attack",
+            "@value": "0.01"
+          },
+          {
+            "@name": "ampeg_sustain",
+            "@value": "0"
+          }
+        ]
+      }
+    ],
     "region": [
       null,
       {
@@ -191,12 +193,10 @@
         ]
       },
       {
-        "opcode": [
-          {
-            "@name": "delay",
-            "@value": "3.5"
-          }
-        ]
+        "opcode": {
+          "@name": "delay",
+          "@value": "3.5"
+        }
       }
     ]
   }

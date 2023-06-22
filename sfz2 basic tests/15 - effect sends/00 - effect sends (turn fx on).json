@@ -1,49 +1,49 @@
 {
   "sfz": {
-    "group": {
-      "opcode": [
-        {
-          "@name": "sample",
-          "@value": "..\\..\\samples\\noise.wav"
-        },
-        {
-          "@name": "cutoff",
-          "@value": "1000"
-        },
-        {
-          "@name": "resonance",
-          "@value": "30"
-        },
-        {
-          "@name": "ampeg_attack",
-          "@value": "0.02"
-        },
-        {
-          "@name": "ampeg_hold",
-          "@value": "0.1"
-        },
-        {
-          "@name": "ampeg_sustain",
-          "@value": "0"
-        },
-        {
-          "@name": "pitch_keytrack",
-          "@value": "0"
-        },
-        {
-          "@name": "loop_mode",
-          "@value": "one_shot"
-        }
-      ]
-    },
-    "region": [
+    "group": [
       {
         "opcode": [
           {
-            "@name": "effect1",
-            "@value": "100"
+            "@name": "sample",
+            "@value": "..\\..\\samples\\noise.wav"
+          },
+          {
+            "@name": "cutoff",
+            "@value": "1000"
+          },
+          {
+            "@name": "resonance",
+            "@value": "30"
+          },
+          {
+            "@name": "ampeg_attack",
+            "@value": "0.02"
+          },
+          {
+            "@name": "ampeg_hold",
+            "@value": "0.1"
+          },
+          {
+            "@name": "ampeg_sustain",
+            "@value": "0"
+          },
+          {
+            "@name": "pitch_keytrack",
+            "@value": "0"
+          },
+          {
+            "@name": "loop_mode",
+            "@value": "one_shot"
           }
         ]
+      }
+    ],
+    "region": [
+      {
+        "opcode": {
+          "@name": "effect1",
+          "@value": "100"
+        }
       },
       {
         "opcode": [

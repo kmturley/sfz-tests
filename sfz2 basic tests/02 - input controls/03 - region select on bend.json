@@ -1,17 +1,19 @@
 {
   "sfz": {
-    "group": {
-      "opcode": [
-        {
-          "@name": "bend_up",
-          "@value": "0"
-        },
-        {
-          "@name": "bend_down",
-          "@value": "0"
-        }
-      ]
-    },
+    "group": [
+      {
+        "opcode": [
+          {
+            "@name": "bend_up",
+            "@value": "0"
+          },
+          {
+            "@name": "bend_down",
+            "@value": "0"
+          }
+        ]
+      }
+    ],
     "region": [
       {
         "opcode": [

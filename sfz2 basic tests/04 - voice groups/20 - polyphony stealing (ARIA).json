@@ -1,21 +1,23 @@
 {
   "sfz": {
-    "group": {
-      "opcode": [
-        {
-          "@name": "volume",
-          "@value": "-6"
-        },
-        {
-          "@name": "sample",
-          "@value": "*tri"
-        },
-        {
-          "@name": "ampeg_release",
-          "@value": "1"
-        }
-      ]
-    },
+    "group": [
+      {
+        "opcode": [
+          {
+            "@name": "volume",
+            "@value": "-6"
+          },
+          {
+            "@name": "sample",
+            "@value": "*tri"
+          },
+          {
+            "@name": "ampeg_release",
+            "@value": "1"
+          }
+        ]
+      }
+    ],
     "region": [
       {
         "opcode": [

@@ -1,21 +1,19 @@
 {
   "sfz": {
-    "group": {
-      "opcode": [
-        {
+    "group": [
+      {
+        "opcode": {
           "@name": "sample",
           "@value": "..\\..\\samples\\bd.wav"
         }
-      ]
-    },
+      }
+    ],
     "region": [
       {
-        "opcode": [
-          {
-            "@name": "loop_mode",
-            "@value": "loop_continuous"
-          }
-        ]
+        "opcode": {
+          "@name": "loop_mode",
+          "@value": "loop_continuous"
+        }
       },
       {
         "opcode": [

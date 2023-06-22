@@ -1,17 +1,19 @@
 {
   "sfz": {
-    "group": {
-      "opcode": [
-        {
-          "@name": "lokey",
-          "@value": "-1"
-        },
-        {
-          "@name": "hikey",
-          "@value": "-1"
-        }
-      ]
-    },
+    "group": [
+      {
+        "opcode": [
+          {
+            "@name": "lokey",
+            "@value": "-1"
+          },
+          {
+            "@name": "hikey",
+            "@value": "-1"
+          }
+        ]
+      }
+    ],
     "region": [
       {
         "opcode": [

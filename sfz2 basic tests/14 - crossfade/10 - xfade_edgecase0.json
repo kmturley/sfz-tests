@@ -1,33 +1,35 @@
 {
   "sfz": {
-    "group": {
-      "opcode": [
-        {
-          "@name": "xf_cccurve",
-          "@value": "gain"
-        },
-        {
-          "@name": "sample",
-          "@value": "..\\..\\samples\\440.wav"
-        },
-        {
-          "@name": "loop_start",
-          "@value": "12629"
-        },
-        {
-          "@name": "loop_end",
-          "@value": "56728"
-        },
-        {
-          "@name": "loop_mode",
-          "@value": "loop_continuous"
-        },
-        {
-          "@name": "amp_veltrack",
-          "@value": "0"
-        }
-      ]
-    },
+    "group": [
+      {
+        "opcode": [
+          {
+            "@name": "xf_cccurve",
+            "@value": "gain"
+          },
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\440.wav"
+          },
+          {
+            "@name": "loop_start",
+            "@value": "12629"
+          },
+          {
+            "@name": "loop_end",
+            "@value": "56728"
+          },
+          {
+            "@name": "loop_mode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "amp_veltrack",
+            "@value": "0"
+          }
+        ]
+      }
+    ],
     "region": [
       {
         "opcode": [

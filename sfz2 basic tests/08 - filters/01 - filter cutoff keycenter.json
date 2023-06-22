@@ -1,57 +1,55 @@
 {
   "sfz": {
-    "group": {
-      "opcode": [
-        {
-          "@name": "sample",
-          "@value": "..\\..\\samples\\noise.wav"
-        },
-        {
-          "@name": "loop_mode",
-          "@value": "loop_continuous"
-        },
-        {
-          "@name": "pitch_keytrack",
-          "@value": "0"
-        },
-        {
-          "@name": "cutoff",
-          "@value": "400"
-        },
-        {
-          "@name": "resonance",
-          "@value": "30"
-        },
-        {
-          "@name": "fil_keytrack",
-          "@value": "100"
-        },
-        {
-          "@name": "amp_veltrack",
-          "@value": "0"
-        },
-        {
-          "@name": "volume",
-          "@value": "-6"
-        }
-      ]
-    },
+    "group": [
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\noise.wav"
+          },
+          {
+            "@name": "loop_mode",
+            "@value": "loop_continuous"
+          },
+          {
+            "@name": "pitch_keytrack",
+            "@value": "0"
+          },
+          {
+            "@name": "cutoff",
+            "@value": "400"
+          },
+          {
+            "@name": "resonance",
+            "@value": "30"
+          },
+          {
+            "@name": "fil_keytrack",
+            "@value": "100"
+          },
+          {
+            "@name": "amp_veltrack",
+            "@value": "0"
+          },
+          {
+            "@name": "volume",
+            "@value": "-6"
+          }
+        ]
+      }
+    ],
     "region": [
       {
-        "opcode": [
-          {
-            "@name": "fil_keycenter",
-            "@value": "48"
-          }
-        ]
+        "opcode": {
+          "@name": "fil_keycenter",
+          "@value": "48"
+        }
       },
       {
-        "opcode": [
-          {
-            "@name": "fil_keycenter",
-            "@value": "72"
-          }
-        ]
+        "opcode": {
+          "@name": "fil_keycenter",
+          "@value": "72"
+        }
       }
     ]
   }

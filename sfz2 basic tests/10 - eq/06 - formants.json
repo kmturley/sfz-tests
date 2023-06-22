@@ -1,17 +1,19 @@
 {
   "sfz": {
-    "group": {
-      "opcode": [
-        {
-          "@name": "sample",
-          "@value": "..\\..\\samples\\noise mono.wav"
-        },
-        {
-          "@name": "loop_mode",
-          "@value": "loop_continuous"
-        }
-      ]
-    },
+    "group": [
+      {
+        "opcode": [
+          {
+            "@name": "sample",
+            "@value": "..\\..\\samples\\noise mono.wav"
+          },
+          {
+            "@name": "loop_mode",
+            "@value": "loop_continuous"
+          }
+        ]
+      }
+    ],
     "region": [
       {
         "opcode": [

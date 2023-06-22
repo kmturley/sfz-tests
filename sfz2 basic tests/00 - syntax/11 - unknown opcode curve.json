@@ -2,33 +2,33 @@
   "sfz": {
     "region": [
       {
+        "opcode": {
+          "@name": "sample",
+          "@value": "..\\..\\samples\\440.wav"
+        }
+      }
+    ],
+    "curve": [
+      {
         "opcode": [
           {
-            "@name": "sample",
-            "@value": "..\\..\\samples\\440.wav"
+            "@name": "v000",
+            "@value": "0"
+          },
+          {
+            "@name": "v064",
+            "@value": "0.5"
+          },
+          {
+            "@name": "v127",
+            "@value": "0"
+          },
+          {
+            "@name": "332",
+            "@value": "1"
           }
         ]
       }
-    ],
-    "curve": {
-      "opcode": [
-        {
-          "@name": "v000",
-          "@value": "0"
-        },
-        {
-          "@name": "v064",
-          "@value": "0.5"
-        },
-        {
-          "@name": "v127",
-          "@value": "0"
-        },
-        {
-          "@name": "332",
-          "@value": "1"
-        }
-      ]
-    }
+    ]
   }
 }

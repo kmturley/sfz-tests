@@ -2,12 +2,10 @@
   "sfz": {
     "region": [
       {
-        "opcode": [
-          {
-            "@name": "sample",
-            "@value": "..\\..\\samples\\stereo looped 1k.wav"
-          }
-        ]
+        "opcode": {
+          "@name": "sample",
+          "@value": "..\\..\\samples\\stereo looped 1k.wav"
+        }
       }
     ]
   }

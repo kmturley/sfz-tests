@@ -1,25 +1,27 @@
 {
   "sfz": {
-    "group": {
-      "opcode": [
-        {
-          "@name": "sw_lokey",
-          "@value": "48"
-        },
-        {
-          "@name": "sw_hikey",
-          "@value": "52"
-        },
-        {
-          "@name": "sw_default",
-          "@value": "49"
-        },
-        {
-          "@name": "lokey",
-          "@value": "60"
-        }
-      ]
-    },
+    "group": [
+      {
+        "opcode": [
+          {
+            "@name": "sw_lokey",
+            "@value": "48"
+          },
+          {
+            "@name": "sw_hikey",
+            "@value": "52"
+          },
+          {
+            "@name": "sw_default",
+            "@value": "49"
+          },
+          {
+            "@name": "lokey",
+            "@value": "60"
+          }
+        ]
+      }
+    ],
     "region": [
       {
         "opcode": [

@@ -26,13 +26,13 @@
         ]
       }
     ],
-    "control": {
-      "opcode": [
-        {
+    "control": [
+      {
+        "opcode": {
           "@name": "octave_offset",
           "@value": "-1"
         }
-      ]
-    }
+      }
+    ]
   }
 }
