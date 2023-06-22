@@ -24,16 +24,20 @@
     ],
     "region": [
       {
-        "opcode": {
-          "@name": "transpose",
-          "@value": "12"
-        }
+        "opcode": [
+          {
+            "@name": "transpose",
+            "@value": "12"
+          }
+        ]
       },
       {
-        "opcode": {
-          "@name": "sustain_sw",
-          "@value": "off"
-        }
+        "opcode": [
+          {
+            "@name": "sustain_sw",
+            "@value": "off"
+          }
+        ]
       }
     ]
   }

@@ -2,10 +2,12 @@
   "sfz": {
     "control": [
       {
-        "opcode": {
-          "@name": "octave_offset",
-          "@value": "-1"
-        }
+        "opcode": [
+          {
+            "@name": "octave_offset",
+            "@value": "-1"
+          }
+        ]
       }
     ],
     "group": [

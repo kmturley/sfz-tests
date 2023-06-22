@@ -25,10 +25,12 @@
     "region": [
       null,
       {
-        "opcode": {
-          "@name": "pitch_oncc135",
-          "@value": "1200"
-        }
+        "opcode": [
+          {
+            "@name": "pitch_oncc135",
+            "@value": "1200"
+          }
+        ]
       }
     ]
   }

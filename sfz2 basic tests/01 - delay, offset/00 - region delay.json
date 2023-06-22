@@ -193,10 +193,12 @@
         ]
       },
       {
-        "opcode": {
-          "@name": "delay",
-          "@value": "3.5"
-        }
+        "opcode": [
+          {
+            "@name": "delay",
+            "@value": "3.5"
+          }
+        ]
       }
     ]
   }

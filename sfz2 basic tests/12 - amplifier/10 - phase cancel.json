@@ -28,16 +28,20 @@
     ],
     "region": [
       {
-        "opcode": {
-          "@name": "phase",
-          "@value": "normal"
-        }
+        "opcode": [
+          {
+            "@name": "phase",
+            "@value": "normal"
+          }
+        ]
       },
       {
-        "opcode": {
-          "@name": "phase",
-          "@value": "invert"
-        }
+        "opcode": [
+          {
+            "@name": "phase",
+            "@value": "invert"
+          }
+        ]
       }
     ]
   }

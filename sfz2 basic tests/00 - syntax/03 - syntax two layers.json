@@ -25,10 +25,12 @@
     "region": [
       null,
       {
-        "opcode": {
-          "@name": "transpose",
-          "@value": "12"
-        }
+        "opcode": [
+          {
+            "@name": "transpose",
+            "@value": "12"
+          }
+        ]
       }
     ]
   }

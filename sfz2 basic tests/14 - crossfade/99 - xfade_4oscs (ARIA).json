@@ -2,10 +2,12 @@
   "sfz": {
     "group": [
       {
-        "opcode": {
-          "@name": "xf_cccurve",
-          "@value": "gain"
-        }
+        "opcode": [
+          {
+            "@name": "xf_cccurve",
+            "@value": "gain"
+          }
+        ]
       }
     ],
     "region": [

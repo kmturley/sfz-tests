@@ -150,10 +150,12 @@
     ],
     "effect": [
       {
-        "opcode": {
-          "@name": "type",
-          "@value": "limiter"
-        }
+        "opcode": [
+          {
+            "@name": "type",
+            "@value": "limiter"
+          }
+        ]
       }
     ]
   }

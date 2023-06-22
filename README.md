@@ -20,4 +20,4 @@ Automatically generate `.xml` versions of each `.sfz` file using the sfizz prepr
 Automatically convert `.xml` files to `.json` using the yq tool:
 
     pip install yq
-    for file in $(find . -type f -name '*.xml'); do cat "$file" | xq . --xml-force-list "region" --xml-force-list "control" --xml-force-list "curve" --xml-force-list "effect" --xml-force-list "global" --xml-force-list "group" --xml-force-list "master" --xml-force-list "midi" --xml-force-list "region" > "${file%.*}.json"; done
+    for file in $(find . -type f -name '*.xml'); do cat "$file" | xq . --xml-force-list "region" --xml-force-list "control" --xml-force-list "curve" --xml-force-list "effect" --xml-force-list "global" --xml-force-list "group" --xml-force-list "master" --xml-force-list "midi" --xml-force-list "opcode" --xml-force-list "region" > "${file%.*}.json"; done
