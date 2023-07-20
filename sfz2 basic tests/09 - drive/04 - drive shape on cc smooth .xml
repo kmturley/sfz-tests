@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\two tone.wav" />
+	<opcode name="loop_mode" value="loop_continuous" />
+	<opcode name="volume" value="-6" />
+	<opcode name="drive_filter" value="lpf_1p" />
+	<opcode name="drive_shape_oncc73" value="100" />
+	<opcode name="drive_shape_smoothcc73" value="1" />
+	<opcode name="drive_shape_oncc70" value="100" />
+	<opcode name="drive_shape_smoothcc70" value="100" />
+	<opcode name="drive_shape_oncc20" value="100" />
+	<opcode name="drive_shape_stepcc20" value="-25" />
+	<opcode name="drive_shape_oncc21" value="100" />
+	<opcode name="drive_shape_smoothcc21" value="500" />
+	<opcode name="drive_shape_oncc129" value="100" />
+	<opcode name="drive_shape_smoothcc129" value="200" />
+</region>

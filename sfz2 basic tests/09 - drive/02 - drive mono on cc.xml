@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\mono 400 looped.wav" />
+	<opcode name="drive_shape_oncc73" value="100" />
+	<opcode name="volume" value="-12" />
+	<opcode name="drive_filter" value="lpf_1p" />
+	<opcode name="drive_tone_oncc70" value="-100" />
+</region>

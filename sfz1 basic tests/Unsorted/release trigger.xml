@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\110.wav" />
+	<opcode name="trigger" value="release" />
+	<opcode name="rtdecay" value="6.5" />
+</region>

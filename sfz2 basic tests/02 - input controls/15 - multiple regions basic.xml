@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+</group>
+<region>
+	<opcode name="transpose" value="-36" />
+	<opcode name="volume" value="-6" />
+</region>
+<region>
+	<opcode name="hikey" value="b3" />
+	<opcode name="transpose" value="-24" />
+</region>
+<region>
+	<opcode name="lokey" value="c4" />
+	<opcode name="lovel" value="64" />
+	<opcode name="transpose" value="-12" />
+</region>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="lokey" value="0" />
+	<opcode name="hikey" value="59" />
+	<opcode name="amp_veltrack" value="0" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="lokey" value="60" />
+	<opcode name="hikey" value="127" />
+	<opcode name="amp_veltrack" value="-100" />
+</region>

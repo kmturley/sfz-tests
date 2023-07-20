@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\noise.wav" />
+	<opcode name="loopmode" value="one_shot" />
+	<opcode name="pitch_keytrack" value="0" />
+</region>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="sample" value="..\..\samples\bd.wav" />
+</group>
+<region>
+	<opcode name="loop_mode" value="loop_continuous" />
+</region>
+<region>
+	<opcode name="direction" value="reverse" />
+	<opcode name="trigger" value="release" />
+</region>

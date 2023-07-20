@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\noise.wav" />
+	<opcode name="loop_mode" value="loop_continuous" />
+	<opcode name="volume" value="-6" />
+	<opcode name="amp_veltrack" value="0" />
+	<opcode name="eq3_gain" value="12" />
+	<opcode name="eq3_freq" value="2000" />
+	<opcode name="lfo01_freq" value="2" />
+	<opcode name="lfo01_eq3bw" value="4" />
+</region>

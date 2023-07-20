@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\fade out.wav" />
+	<opcode name="eg01_followattack" value="0" />
+	<opcode name="eg01_followrelease" value="0.5" />
+	<opcode name="eg01_followspeed" value="20" />
+	<opcode name="eg01_pitch" value="1200" />
+</region>

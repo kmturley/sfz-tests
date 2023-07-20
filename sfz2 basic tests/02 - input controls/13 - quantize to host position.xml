@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\loop.wav" />
+	<opcode name="sync_beats" value="4" />
+</region>

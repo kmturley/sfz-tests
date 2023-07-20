@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="loopstart" value="12629" />
+	<opcode name="loopend" value="56728" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="transpose" value="-12" />
+	<opcode name="pitchlfo_freq" value="6" />
+	<opcode name="pitchlfo_depth" value="20" />
+	<opcode name="pitchlfo_freqcc24" value="-6" />
+	<opcode name="effect1" value="40" />
+	<opcode name="effect2" value="20" />
+	<opcode name="volume" value="-6" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="loopstart" value="12629" />
+	<opcode name="loopend" value="56728" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="pitchlfo_freq" value="6" />
+	<opcode name="pitchlfo_depth" value="20" />
+	<opcode name="pitchlfo_freqcc24" value="-6" />
+	<opcode name="ampeg_attack" value="0.01" />
+	<opcode name="volume" value="-9" />
+	<opcode name="effect1" value="40" />
+	<opcode name="effect2" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="loopstart" value="12629" />
+	<opcode name="loopend" value="56728" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="pitchlfo_freq" value="6" />
+	<opcode name="pitchlfo_depth" value="-20" />
+	<opcode name="pitchlfo_freqcc24" value="-6" />
+	<opcode name="ampeg_attack" value="0.001" />
+	<opcode name="volume" value="-9" />
+	<opcode name="effect1" value="40" />
+	<opcode name="effect2" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="loopstart" value="12629" />
+	<opcode name="loopend" value="56728" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="transpose" value="7" />
+	<opcode name="pitchlfo_freq" value="6" />
+	<opcode name="pitchlfo_depth" value="20" />
+	<opcode name="pitchlfo_freqcc24" value="-6" />
+	<opcode name="ampeg_attack" value="0.001" />
+	<opcode name="volume" value="-9" />
+	<opcode name="effect1" value="40" />
+	<opcode name="effect2" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="loopstart" value="12629" />
+	<opcode name="loopend" value="56728" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="transpose" value="12" />
+	<opcode name="pitchlfo_freq" value="12" />
+	<opcode name="pitchlfo_depth" value="20" />
+	<opcode name="pitchlfo_freqcc25" value="-12" />
+	<opcode name="ampeg_attack" value="0.001" />
+	<opcode name="volume" value="-9" />
+	<opcode name="xfin_locc20" value="0" />
+	<opcode name="xfin_hicc20" value="127" />
+	<opcode name="effect1" value="40" />
+	<opcode name="effect2" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="loopstart" value="12629" />
+	<opcode name="loopend" value="56728" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="transpose" value="19" />
+	<opcode name="pitchlfo_freq" value="12" />
+	<opcode name="pitchlfo_depth" value="20" />
+	<opcode name="pitchlfo_freqcc25" value="-12" />
+	<opcode name="ampeg_attack" value="0.001" />
+	<opcode name="volume" value="-9" />
+	<opcode name="xfin_locc21" value="0" />
+	<opcode name="xfin_hicc21" value="127" />
+	<opcode name="effect1" value="40" />
+	<opcode name="effect2" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="loopstart" value="12629" />
+	<opcode name="loopend" value="56728" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="transpose" value="24" />
+	<opcode name="pitchlfo_freq" value="12" />
+	<opcode name="pitchlfo_depth" value="20" />
+	<opcode name="pitchlfo_freqcc25" value="-12" />
+	<opcode name="ampeg_attack" value="0.001" />
+	<opcode name="volume" value="-9" />
+	<opcode name="xfin_locc22" value="0" />
+	<opcode name="xfin_hicc22" value="127" />
+	<opcode name="effect1" value="40" />
+	<opcode name="effect2" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="loopstart" value="12629" />
+	<opcode name="loopend" value="56728" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="transpose" value="31" />
+	<opcode name="pitchlfo_freq" value="12" />
+	<opcode name="pitchlfo_depth" value="20" />
+	<opcode name="pitchlfo_freqcc25" value="-12" />
+	<opcode name="ampeg_attack" value="0.001" />
+	<opcode name="volume" value="-9" />
+	<opcode name="xfin_locc23" value="0" />
+	<opcode name="xfin_hicc23" value="127" />
+	<opcode name="effect1" value="40" />
+	<opcode name="effect2" value="20" />
+</region>

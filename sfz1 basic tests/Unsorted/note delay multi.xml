@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="ampeg_hold" value="0.25" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="loopstart" value="12629" />
+	<opcode name="loopend" value="56728" />
+	<opcode name="loopmode" value="loop_continuous" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="delay" value="0.25" />
+	<opcode name="ampeg_hold" value="0.25" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="loopstart" value="12629" />
+	<opcode name="loopend" value="56728" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="transpose" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="delay" value="0.5" />
+	<opcode name="ampeg_hold" value="0.25" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="loopstart" value="12629" />
+	<opcode name="loopend" value="56728" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="transpose" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="delay" value="0.75" />
+	<opcode name="ampeg_hold" value="0.25" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="loopstart" value="12629" />
+	<opcode name="loopend" value="56728" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="transpose" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="delay" value="1" />
+	<opcode name="ampeg_hold" value="0.25" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="loopstart" value="12629" />
+	<opcode name="loopend" value="56728" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="transpose" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="delay" value="1.25" />
+	<opcode name="ampeg_hold" value="0.25" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="loopstart" value="12629" />
+	<opcode name="loopend" value="56728" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="transpose" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="delay" value="1.5" />
+	<opcode name="ampeg_hold" value="0.25" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="loopstart" value="12629" />
+	<opcode name="loopend" value="56728" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="transpose" value="9" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="delay" value="1.75" />
+	<opcode name="ampeg_hold" value="0.25" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="loopstart" value="12629" />
+	<opcode name="loopend" value="56728" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="transpose" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="delay" value="2" />
+	<opcode name="ampeg_hold" value="0.25" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="loopstart" value="12629" />
+	<opcode name="loopend" value="56728" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="transpose" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="delay" value="2.25" />
+	<opcode name="ampeg_hold" value="0.25" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="loopstart" value="12629" />
+	<opcode name="loopend" value="56728" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="transpose" value="12" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="delay" value="2.5" />
+	<opcode name="ampeg_hold" value="0.25" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="loopstart" value="12629" />
+	<opcode name="loopend" value="56728" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="transpose" value="11" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="delay" value="2.75" />
+	<opcode name="ampeg_hold" value="0.25" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="loopstart" value="12629" />
+	<opcode name="loopend" value="56728" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="transpose" value="12" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="delay" value="3" />
+	<opcode name="ampeg_hold" value="0.25" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="loopstart" value="12629" />
+	<opcode name="loopend" value="56728" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="transpose" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="delay" value="3.25" />
+	<opcode name="ampeg_hold" value="0.25" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="loopstart" value="12629" />
+	<opcode name="loopend" value="56728" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="transpose" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="delay" value="3.5" />
+	<opcode name="ampeg_hold" value="0.25" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="loopstart" value="12629" />
+	<opcode name="loopend" value="56728" />
+	<opcode name="loopmode" value="loop_continuous" />
+</region>
