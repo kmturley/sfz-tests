@@ -22,7 +22,7 @@ then
   ./sfizz_preprocessor "$1" --mode=xml > "${1%.*}.xml"
 else
   # Convert folder.
-  for file in $(find "$1" -type f -name '*.sfz')
+  find "$1" -type f -name "*.sfz" | while read file
     do ./sfizz_preprocessor "$file" --mode=xml > "${file%.*}.xml"
   done
 fi
