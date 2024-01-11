@@ -1,0 +1,534 @@
+declaration:
+  attributes:
+    version: '1.0'
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\440.wav
+      - type: element
+        name: opcode
+        attributes:
+          name: loopstart
+          value: '12629'
+      - type: element
+        name: opcode
+        attributes:
+          name: loopend
+          value: '56728'
+      - type: element
+        name: opcode
+        attributes:
+          name: loopmode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: transpose
+          value: '-12'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_freq
+          value: '6'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_depth
+          value: '20'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_freqcc24
+          value: '-6'
+      - type: element
+        name: opcode
+        attributes:
+          name: effect1
+          value: '40'
+      - type: element
+        name: opcode
+        attributes:
+          name: effect2
+          value: '20'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-6'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\440.wav
+      - type: element
+        name: opcode
+        attributes:
+          name: loopstart
+          value: '12629'
+      - type: element
+        name: opcode
+        attributes:
+          name: loopend
+          value: '56728'
+      - type: element
+        name: opcode
+        attributes:
+          name: loopmode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_freq
+          value: '6'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_depth
+          value: '20'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_freqcc24
+          value: '-6'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_attack
+          value: '0.01'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-9'
+      - type: element
+        name: opcode
+        attributes:
+          name: effect1
+          value: '40'
+      - type: element
+        name: opcode
+        attributes:
+          name: effect2
+          value: '20'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\440.wav
+      - type: element
+        name: opcode
+        attributes:
+          name: loopstart
+          value: '12629'
+      - type: element
+        name: opcode
+        attributes:
+          name: loopend
+          value: '56728'
+      - type: element
+        name: opcode
+        attributes:
+          name: loopmode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_freq
+          value: '6'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_depth
+          value: '-20'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_freqcc24
+          value: '-6'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_attack
+          value: '0.001'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-9'
+      - type: element
+        name: opcode
+        attributes:
+          name: effect1
+          value: '40'
+      - type: element
+        name: opcode
+        attributes:
+          name: effect2
+          value: '20'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\440.wav
+      - type: element
+        name: opcode
+        attributes:
+          name: loopstart
+          value: '12629'
+      - type: element
+        name: opcode
+        attributes:
+          name: loopend
+          value: '56728'
+      - type: element
+        name: opcode
+        attributes:
+          name: loopmode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: transpose
+          value: '7'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_freq
+          value: '6'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_depth
+          value: '20'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_freqcc24
+          value: '-6'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_attack
+          value: '0.001'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-9'
+      - type: element
+        name: opcode
+        attributes:
+          name: effect1
+          value: '40'
+      - type: element
+        name: opcode
+        attributes:
+          name: effect2
+          value: '20'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\440.wav
+      - type: element
+        name: opcode
+        attributes:
+          name: loopstart
+          value: '12629'
+      - type: element
+        name: opcode
+        attributes:
+          name: loopend
+          value: '56728'
+      - type: element
+        name: opcode
+        attributes:
+          name: loopmode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: transpose
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_freq
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_depth
+          value: '20'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_freqcc25
+          value: '-12'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_attack
+          value: '0.001'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-9'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_locc20
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_hicc20
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: effect1
+          value: '40'
+      - type: element
+        name: opcode
+        attributes:
+          name: effect2
+          value: '20'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\440.wav
+      - type: element
+        name: opcode
+        attributes:
+          name: loopstart
+          value: '12629'
+      - type: element
+        name: opcode
+        attributes:
+          name: loopend
+          value: '56728'
+      - type: element
+        name: opcode
+        attributes:
+          name: loopmode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: transpose
+          value: '19'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_freq
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_depth
+          value: '20'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_freqcc25
+          value: '-12'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_attack
+          value: '0.001'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-9'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_locc21
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_hicc21
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: effect1
+          value: '40'
+      - type: element
+        name: opcode
+        attributes:
+          name: effect2
+          value: '20'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\440.wav
+      - type: element
+        name: opcode
+        attributes:
+          name: loopstart
+          value: '12629'
+      - type: element
+        name: opcode
+        attributes:
+          name: loopend
+          value: '56728'
+      - type: element
+        name: opcode
+        attributes:
+          name: loopmode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: transpose
+          value: '24'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_freq
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_depth
+          value: '20'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_freqcc25
+          value: '-12'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_attack
+          value: '0.001'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-9'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_locc22
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_hicc22
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: effect1
+          value: '40'
+      - type: element
+        name: opcode
+        attributes:
+          name: effect2
+          value: '20'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\440.wav
+      - type: element
+        name: opcode
+        attributes:
+          name: loopstart
+          value: '12629'
+      - type: element
+        name: opcode
+        attributes:
+          name: loopend
+          value: '56728'
+      - type: element
+        name: opcode
+        attributes:
+          name: loopmode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: transpose
+          value: '31'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_freq
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_depth
+          value: '20'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_freqcc25
+          value: '-12'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_attack
+          value: '0.001'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-9'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_locc23
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_hicc23
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: effect1
+          value: '40'
+      - type: element
+        name: opcode
+        attributes:
+          name: effect2
+          value: '20'
+

@@ -1,0 +1,105 @@
+declaration:
+  attributes:
+    version: '1.0'
+elements:
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: xf_cccurve
+          value: gain
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: '*sine'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_locc1
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_hicc1
+          value: '42'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: '*tri'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_locc1
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_hicc1
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_locc1
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_hicc1
+          value: '86'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: '*square'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_locc1
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_hicc1
+          value: '86'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_locc1
+          value: '86'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_hicc1
+          value: '127'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: '*saw'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_locc1
+          value: '86'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_hicc1
+          value: '127'
+

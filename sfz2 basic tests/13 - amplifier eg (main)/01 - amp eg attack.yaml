@@ -1,0 +1,43 @@
+declaration:
+  attributes:
+    version: '1.0'
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\440.wav
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '12629'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '56728'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_veltrack
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_attack
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '100'
+

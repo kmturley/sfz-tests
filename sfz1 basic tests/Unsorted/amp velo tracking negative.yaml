@@ -1,0 +1,51 @@
+declaration:
+  attributes:
+    version: '1.0'
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\440.wav
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '59'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_veltrack
+          value: '0'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\440.wav
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '60'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_veltrack
+          value: '-100'
+

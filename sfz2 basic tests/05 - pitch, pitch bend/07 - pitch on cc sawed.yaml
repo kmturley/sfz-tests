@@ -1,0 +1,276 @@
+declaration:
+  attributes:
+    version: '1.0'
+elements:
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\440.wav
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '12629'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '56728'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: bend_up
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: bend_down
+          value: '0'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc73
+          value: '1200'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_curvecc73
+          value: '7'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc70
+          value: '1200'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_curvecc70
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_smoothcc70
+          value: '100'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc20
+          value: '1200'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_curvecc20
+          value: '9'
+  - type: element
+    name: curve
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: v000
+          value: '-1'
+      - type: element
+        name: opcode
+        attributes:
+          name: v032
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: v064
+          value: '-1'
+      - type: element
+        name: opcode
+        attributes:
+          name: v096
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: v127
+          value: '-1'
+  - type: element
+    name: curve
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: v000
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: v032
+          value: '-1'
+      - type: element
+        name: opcode
+        attributes:
+          name: v064
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: v096
+          value: '-1'
+      - type: element
+        name: opcode
+        attributes:
+          name: v127
+          value: '1'
+  - type: element
+    name: curve
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: v000
+          value: '-1'
+      - type: element
+        name: opcode
+        attributes:
+          name: v064
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: v068
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: v069
+          value: '0.08333333'
+      - type: element
+        name: opcode
+        attributes:
+          name: v073
+          value: '0.08333333'
+      - type: element
+        name: opcode
+        attributes:
+          name: v074
+          value: '0.1666666667'
+      - type: element
+        name: opcode
+        attributes:
+          name: v078
+          value: '0.1666666667'
+      - type: element
+        name: opcode
+        attributes:
+          name: v079
+          value: '0.25'
+      - type: element
+        name: opcode
+        attributes:
+          name: v083
+          value: '0.25'
+      - type: element
+        name: opcode
+        attributes:
+          name: v084
+          value: '0.3333333333'
+      - type: element
+        name: opcode
+        attributes:
+          name: v089
+          value: '0.3333333333'
+      - type: element
+        name: opcode
+        attributes:
+          name: v090
+          value: '0.41666666666'
+      - type: element
+        name: opcode
+        attributes:
+          name: v094
+          value: '0.4166666666'
+      - type: element
+        name: opcode
+        attributes:
+          name: v095
+          value: '0.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: v099
+          value: '0.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: v100
+          value: '0.5833333333'
+      - type: element
+        name: opcode
+        attributes:
+          name: v104
+          value: '0.5833333333'
+      - type: element
+        name: opcode
+        attributes:
+          name: v105
+          value: '0.66666666666'
+      - type: element
+        name: opcode
+        attributes:
+          name: v109
+          value: '0.6666666666'
+      - type: element
+        name: opcode
+        attributes:
+          name: v110
+          value: '0.75'
+      - type: element
+        name: opcode
+        attributes:
+          name: v114
+          value: '0.75'
+      - type: element
+        name: opcode
+        attributes:
+          name: v115
+          value: '0.833333333'
+      - type: element
+        name: opcode
+        attributes:
+          name: v119
+          value: '0.83333333333'
+      - type: element
+        name: opcode
+        attributes:
+          name: v120
+          value: '0.916666666'
+      - type: element
+        name: opcode
+        attributes:
+          name: v124
+          value: '0.9166666666'
+      - type: element
+        name: opcode
+        attributes:
+          name: v125
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: v127
+          value: '1'
+

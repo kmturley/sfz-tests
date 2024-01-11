@@ -1,0 +1,41 @@
+declaration:
+  attributes:
+    version: '1.0'
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\bd.wav
+      - type: element
+        name: opcode
+        attributes:
+          name: lobpm
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hibpm
+          value: '100.3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\hh.wav
+      - type: element
+        name: opcode
+        attributes:
+          name: lobpm
+          value: '100.4'
+      - type: element
+        name: opcode
+        attributes:
+          name: hibpm
+          value: '200'
+

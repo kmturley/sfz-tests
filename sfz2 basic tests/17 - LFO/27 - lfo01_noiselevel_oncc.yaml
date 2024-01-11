@@ -1,0 +1,73 @@
+declaration:
+  attributes:
+    version: '1.0'
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\mono silence.wav
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_veltrack
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: lfo01_freq
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: lfo01_noiselevel_oncc73
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: lfo01_noiselevel_oncc70
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: lfo01_noiselevel_smoothcc70
+          value: '100'
+      - type: element
+        name: opcode
+        attributes:
+          name: lfo01_noiselevel_oncc20
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: lfo01_noiselevel_stepcc20
+          value: '6.1'
+      - type: element
+        name: opcode
+        attributes:
+          name: lfo01_noiselevel_oncc21
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: lfo01_noiselevel_smoothcc21
+          value: '1000'
+      - type: element
+        name: opcode
+        attributes:
+          name: lfo01_noiselevel_oncc129
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: lfo01_noiselevel_smoothcc129
+          value: '500'
+

@@ -1,0 +1,88 @@
+declaration:
+  attributes:
+    version: '1.0'
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\mono silence.wav
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_veltrack
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: noise_filter
+          value: pink
+      - type: element
+        name: opcode
+        attributes:
+          name: noise_level
+          value: '-48'
+      - type: element
+        name: opcode
+        attributes:
+          name: noise_step
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: noise_tone
+          value: '100'
+      - type: element
+        name: opcode
+        attributes:
+          name: noise_level_oncc73
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: noise_level_smoothcc73
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: noise_level_oncc70
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: noise_level_smoothcc70
+          value: '100'
+      - type: element
+        name: opcode
+        attributes:
+          name: noise_level_oncc20
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: noise_level_stepcc20
+          value: '24'
+      - type: element
+        name: opcode
+        attributes:
+          name: noise_level_oncc21
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: noise_level_smoothcc21
+          value: '500'
+      - type: element
+        name: opcode
+        attributes:
+          name: noise_level_oncc129
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: noise_level_smoothcc129
+          value: '200'
+

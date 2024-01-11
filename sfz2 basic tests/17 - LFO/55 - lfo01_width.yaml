@@ -1,0 +1,38 @@
+declaration:
+  attributes:
+    version: '1.0'
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\only l.wav
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_veltrack
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: lfo01_freq
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: lfo01_wave
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: lfo01_width
+          value: '100'
+

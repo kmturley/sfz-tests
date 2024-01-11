@@ -1,0 +1,53 @@
+declaration:
+  attributes:
+    version: '1.0'
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\noise stereo.wav
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keytrack
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: cutoff
+          value: '1000'
+      - type: element
+        name: opcode
+        attributes:
+          name: cutoff_oncc1
+          value: '8000'
+      - type: element
+        name: opcode
+        attributes:
+          name: cutoff_chanaft
+          value: '-8000'
+      - type: element
+        name: opcode
+        attributes:
+          name: resonance
+          value: '10'
+      - type: element
+        name: opcode
+        attributes:
+          name: resonance_oncc73
+          value: '20'
+      - type: element
+        name: opcode
+        attributes:
+          name: fil_type
+          value: lpf_4p
+

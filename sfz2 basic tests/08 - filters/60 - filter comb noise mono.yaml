@@ -1,0 +1,38 @@
+declaration:
+  attributes:
+    version: '1.0'
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\noise mono.wav
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-12'
+      - type: element
+        name: opcode
+        attributes:
+          name: fil_type
+          value: comb
+      - type: element
+        name: opcode
+        attributes:
+          name: cutoff_oncc1
+          value: '20000'
+      - type: element
+        name: opcode
+        attributes:
+          name: resonance
+          value: '90'
+

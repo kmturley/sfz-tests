@@ -1,0 +1,38 @@
+declaration:
+  attributes:
+    version: '1.0'
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\440.wav
+      - type: element
+        name: opcode
+        attributes:
+          name: loopstart
+          value: '12629'
+      - type: element
+        name: opcode
+        attributes:
+          name: loopend
+          value: '56728'
+      - type: element
+        name: opcode
+        attributes:
+          name: loopmode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_vel2delay
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_attack
+          value: '0.02'
+

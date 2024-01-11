@@ -1,0 +1,48 @@
+declaration:
+  attributes:
+    version: '1.0'
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\mono silence.wav
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_veltrack
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: noise_level
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: noise_filter
+          value: lpf_2p
+      - type: element
+        name: opcode
+        attributes:
+          name: noise_tone_oncc73
+          value: '100'
+      - type: element
+        name: opcode
+        attributes:
+          name: lfo01_freq
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: lfo01_noisetone
+          value: '100'
+

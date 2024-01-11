@@ -1,0 +1,33 @@
+declaration:
+  attributes:
+    version: '1.0'
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\fade out.wav
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_followattack
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_followrelease
+          value: '0.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_followspeed
+          value: '20'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_pitch
+          value: '1200'
+

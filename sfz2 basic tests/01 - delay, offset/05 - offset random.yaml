@@ -1,0 +1,18 @@
+declaration:
+  attributes:
+    version: '1.0'
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\sweep.wav
+      - type: element
+        name: opcode
+        attributes:
+          name: offset_oncc135
+          value: '88200'
+

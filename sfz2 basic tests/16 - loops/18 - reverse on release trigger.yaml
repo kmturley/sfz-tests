@@ -1,0 +1,34 @@
+declaration:
+  attributes:
+    version: '1.0'
+elements:
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\bd.wav
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: direction
+          value: reverse
+      - type: element
+        name: opcode
+        attributes:
+          name: trigger
+          value: release
+

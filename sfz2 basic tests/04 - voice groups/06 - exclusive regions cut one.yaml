@@ -1,0 +1,97 @@
+declaration:
+  attributes:
+    version: '1.0'
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\110.wav
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '10825'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '32473'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: b3
+      - type: element
+        name: opcode
+        attributes:
+          name: group
+          value: '1'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\440.wav
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '12629'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '56728'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: group
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c4
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c4
+      - type: element
+        name: opcode
+        attributes:
+          name: transpose
+          value: '7'
+      - type: element
+        name: opcode
+        attributes:
+          name: off_by
+          value: '1'
+

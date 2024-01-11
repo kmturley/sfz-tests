@@ -1,0 +1,23 @@
+declaration:
+  attributes:
+    version: '1.0'
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\440.wav
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_20
+          value: '0.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_90
+          value: '0.85'
+

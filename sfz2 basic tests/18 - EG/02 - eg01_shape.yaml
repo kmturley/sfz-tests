@@ -1,0 +1,144 @@
+declaration:
+  attributes:
+    version: '1.0'
+elements:
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\440.wav
+      - type: element
+        name: opcode
+        attributes:
+          name: loopstart
+          value: '12629'
+      - type: element
+        name: opcode
+        attributes:
+          name: loopend
+          value: '56728'
+      - type: element
+        name: opcode
+        attributes:
+          name: loopmode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_pitch
+          value: '2400'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: hicc1
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_points
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_sustain
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_level0
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_time0
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_shape0
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_level1
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_time1
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_level2
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_time2
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: locc1
+          value: '65'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_points
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_sustain
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_level0
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_time0
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_shape0
+          value: '.25'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_level1
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_time1
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_level2
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_time2
+          value: '1'
+

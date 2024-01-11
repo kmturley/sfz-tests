@@ -1,0 +1,233 @@
+declaration:
+  attributes:
+    version: '1.0'
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\Stereo_16_44100.wav
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keytrack
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_veltrack
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: width
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: position
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '60'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '61'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\Stereo_16_44100.wav
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keytrack
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_veltrack
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: width
+          value: '100'
+      - type: element
+        name: opcode
+        attributes:
+          name: position
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '63'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\Stereo_16_44100.wav
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keytrack
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_veltrack
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: width
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: position
+          value: '100'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '64'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\Stereo_16_44100.wav
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keytrack
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_veltrack
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: width
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: position
+          value: '-100'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '65'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '66'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\Stereo_16_44100.wav
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keytrack
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_veltrack
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: width
+          value: '50'
+      - type: element
+        name: opcode
+        attributes:
+          name: position
+          value: '50'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '67'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '68'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\Stereo_16_44100.wav
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keytrack
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_veltrack
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: width
+          value: '50'
+      - type: element
+        name: opcode
+        attributes:
+          name: position
+          value: '-50'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '69'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '70'
+

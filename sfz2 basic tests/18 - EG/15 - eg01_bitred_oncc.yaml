@@ -1,0 +1,133 @@
+declaration:
+  attributes:
+    version: '1.0'
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\440.wav
+      - type: element
+        name: opcode
+        attributes:
+          name: loopstart
+          value: '12629'
+      - type: element
+        name: opcode
+        attributes:
+          name: loopend
+          value: '56728'
+      - type: element
+        name: opcode
+        attributes:
+          name: loopmode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_points
+          value: '6'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_sustain
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_level0
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_time0
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_level1
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_time1
+          value: '0.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_level2
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_time2
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_level3
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_time3
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_shape3
+          value: '.1'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_level4
+          value: '0.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_time4
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_level5
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_time5
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_bitred_oncc73
+          value: '4800'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_bitred_oncc70
+          value: '4800'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_bitred_oncc20
+          value: '4800'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_bitred_oncc21
+          value: '4800'
+      - type: element
+        name: opcode
+        attributes:
+          name: eg01_bitred_oncc129
+          value: '4800'
+
