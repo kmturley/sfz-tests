@@ -3,10 +3,10 @@
 # Requires `npm install -g js-yaml`
 #
 # Usage: File
-# ./sfz-to-yaml.sh "./sfz1 basic tests/01 - Amp LFO/01 - amp lfo freq.json"
+# ./json-to-yaml.sh "./sfz1 basic tests/01 - Amp LFO/01 - amp lfo freq.json"
 #
 # Usage: Folder
-# ./sfz-to-yaml.sh .
+# ./json-to-yaml.sh .
 
 if [[ $1 == *.json ]]
 then

@@ -6,7 +6,6 @@
 # Usage: Folder
 # ./sfz-to-xml.sh .
 
-
 if [ ! -f sfizz_preprocessor ]
 then
   curl -LO https://github.com/studiorack/sfizz/releases/download/v1.1.1/sfizz-preprocessor-mac.zip
