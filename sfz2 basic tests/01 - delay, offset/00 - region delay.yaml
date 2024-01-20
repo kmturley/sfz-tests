@@ -1,219 +1,121 @@
-elements:
-  - type: element
-    name: group
-    elements:
-      - type: element
-        name: opcode
-        attributes:
-          name: sample
-          value: ..\..\samples\440.wav
-      - type: element
-        name: opcode
-        attributes:
-          name: loop_start
-          value: '12629'
-      - type: element
-        name: opcode
-        attributes:
-          name: loop_end
-          value: '56728'
-      - type: element
-        name: opcode
-        attributes:
-          name: loop_mode
-          value: loop_continuous
-      - type: element
-        name: opcode
-        attributes:
-          name: ampeg_hold
-          value: '0.25'
-      - type: element
-        name: opcode
-        attributes:
-          name: ampeg_attack
-          value: '0.01'
-      - type: element
-        name: opcode
-        attributes:
-          name: ampeg_sustain
-          value: '0'
-  - type: element
-    name: region
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
+group:
+  opcode:
+    - _attributes:
+        name: sample
+        value: ..\..\samples\440.wav
+    - _attributes:
+        name: loop_start
+        value: '12629'
+    - _attributes:
+        name: loop_end
+        value: '56728'
+    - _attributes:
+        name: loop_mode
+        value: loop_continuous
+    - _attributes:
+        name: ampeg_hold
+        value: '0.25'
+    - _attributes:
+        name: ampeg_attack
+        value: '0.01'
+    - _attributes:
+        name: ampeg_sustain
+        value: '0'
+region:
+  - {}
+  - opcode:
+      - _attributes:
           name: delay
           value: '0.25'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: transpose
           value: '2'
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
+  - opcode:
+      - _attributes:
           name: delay
           value: '0.5'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: transpose
           value: '4'
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
+  - opcode:
+      - _attributes:
           name: delay
           value: '0.75'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: transpose
           value: '7'
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
+  - opcode:
+      - _attributes:
           name: delay
           value: '1'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: transpose
           value: '5'
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
+  - opcode:
+      - _attributes:
           name: delay
           value: '1.25'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: transpose
           value: '5'
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
+  - opcode:
+      - _attributes:
           name: delay
           value: '1.5'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: transpose
           value: '9'
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
+  - opcode:
+      - _attributes:
           name: delay
           value: '1.75'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: transpose
           value: '7'
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
+  - opcode:
+      - _attributes:
           name: delay
           value: '2'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: transpose
           value: '7'
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
+  - opcode:
+      - _attributes:
           name: delay
           value: '2.25'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: transpose
           value: '12'
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
+  - opcode:
+      - _attributes:
           name: delay
           value: '2.5'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: transpose
           value: '11'
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
+  - opcode:
+      - _attributes:
           name: delay
           value: '2.75'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: transpose
           value: '12'
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
+  - opcode:
+      - _attributes:
           name: delay
           value: '3'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: transpose
           value: '7'
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
+  - opcode:
+      - _attributes:
           name: delay
           value: '3.25'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: transpose
           value: '4'
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
-          name: delay
-          value: '3.5'
+  - opcode:
+      _attributes:
+        name: delay
+        value: '3.5'
 

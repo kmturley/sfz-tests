@@ -1,58 +1,42 @@
 {
-  "elements": [
-    {
-      "type": "element",
-      "name": "region",
-      "elements": [
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "sample",
-            "value": "..\\..\\samples\\sweep test mono.wav"
-          }
-        },
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "loop_mode",
-            "value": "one_shot"
-          }
-        },
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "pitch_keytrack",
-            "value": "0"
-          }
-        },
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "amp_veltrack",
-            "value": "0"
-          }
-        },
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "fil_type",
-            "value": "comb"
-          }
-        },
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "cutoff",
-            "value": "1000"
-          }
+  "region": {
+    "opcode": [
+      {
+        "_attributes": {
+          "name": "sample",
+          "value": "..\\..\\samples\\sweep test mono.wav"
         }
-      ]
-    }
-  ]
+      },
+      {
+        "_attributes": {
+          "name": "loop_mode",
+          "value": "one_shot"
+        }
+      },
+      {
+        "_attributes": {
+          "name": "pitch_keytrack",
+          "value": "0"
+        }
+      },
+      {
+        "_attributes": {
+          "name": "amp_veltrack",
+          "value": "0"
+        }
+      },
+      {
+        "_attributes": {
+          "name": "fil_type",
+          "value": "comb"
+        }
+      },
+      {
+        "_attributes": {
+          "name": "cutoff",
+          "value": "1000"
+        }
+      }
+    ]
+  }
 }

@@ -1,34 +1,24 @@
 {
-  "elements": [
-    {
-      "type": "element",
-      "name": "region",
-      "elements": [
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "sample",
-            "value": "..\\..\\samples\\bd.wav"
-          }
-        },
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "direction",
-            "value": "reverse"
-          }
-        },
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "offset",
-            "value": "24307"
-          }
+  "region": {
+    "opcode": [
+      {
+        "_attributes": {
+          "name": "sample",
+          "value": "..\\..\\samples\\bd.wav"
         }
-      ]
-    }
-  ]
+      },
+      {
+        "_attributes": {
+          "name": "direction",
+          "value": "reverse"
+        }
+      },
+      {
+        "_attributes": {
+          "name": "offset",
+          "value": "24307"
+        }
+      }
+    ]
+  }
 }

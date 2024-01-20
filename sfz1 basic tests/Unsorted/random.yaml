@@ -1,94 +1,54 @@
-elements:
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
+region:
+  - opcode:
+      - _attributes:
           name: sample
           value: ..\..\samples\bd.wav
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: transpose
           value: '0'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: lorand
           value: '0'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: hirand
           value: '0.25'
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
+  - opcode:
+      - _attributes:
           name: sample
           value: ..\..\samples\bd.wav
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: transpose
           value: '3'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: lorand
           value: '0.25'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: hirand
           value: '0.5'
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
+  - opcode:
+      - _attributes:
           name: sample
           value: ..\..\samples\bd.wav
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: transpose
           value: '6'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: lorand
           value: '0.5'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: hirand
           value: '0.75'
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
+  - opcode:
+      - _attributes:
           name: sample
           value: ..\..\samples\bd.wav
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: transpose
           value: '8'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: lorand
           value: '0.75'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: hirand
           value: '1'
 

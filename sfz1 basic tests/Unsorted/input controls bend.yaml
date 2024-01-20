@@ -1,38 +1,22 @@
-elements:
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
+region:
+  - opcode:
+      - _attributes:
           name: sample
           value: ..\..\samples\440.wav
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: lobend
           value: '1'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: hibend
           value: '8192'
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
+  - opcode:
+      - _attributes:
           name: sample
           value: ..\..\samples\110.wav
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: lobend
           value: '-8192'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: hibend
           value: '-1'
 

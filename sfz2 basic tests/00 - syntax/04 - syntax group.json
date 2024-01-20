@@ -1,53 +1,39 @@
 {
-  "elements": [
+  "group": [
     {
-      "type": "element",
-      "name": "group",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\440.wav"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "ampeg_release",
             "value": "5"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loop_start",
             "value": "12629"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loop_end",
             "value": "56728"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loop_mode",
             "value": "loop_continuous"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "hicc1",
             "value": "64"
           }
@@ -55,21 +41,57 @@
       ]
     },
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\440.wav"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "ampeg_release",
+            "value": "0.1"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loop_start",
+            "value": "12629"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loop_end",
+            "value": "56728"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loop_mode",
+            "value": "loop_continuous"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "locc1",
+            "value": "65"
+          }
+        }
+      ]
+    }
+  ],
+  "region": [
+    {
+      "opcode": [
+        {
+          "_attributes": {
             "name": "lokey",
             "value": "c4"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "hikey",
             "value": "c#4"
           }
@@ -77,21 +99,15 @@
       ]
     },
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "lokey",
             "value": "d4"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "hikey",
             "value": "d#4"
           }
@@ -99,21 +115,15 @@
       ]
     },
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "lokey",
             "value": "e4"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "hikey",
             "value": "f4"
           }
@@ -121,21 +131,15 @@
       ]
     },
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "lokey",
             "value": "f#4"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "hikey",
             "value": "g4"
           }
@@ -143,21 +147,15 @@
       ]
     },
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "lokey",
             "value": "g#4"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "hikey",
             "value": "a4"
           }
@@ -165,21 +163,15 @@
       ]
     },
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "lokey",
             "value": "a#4"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "hikey",
             "value": "b4"
           }
@@ -187,21 +179,15 @@
       ]
     },
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "lokey",
             "value": "c5"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "hikey",
             "value": "c#5"
           }
@@ -209,75 +195,15 @@
       ]
     },
     {
-      "type": "element",
-      "name": "group",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "sample",
-            "value": "..\\..\\samples\\440.wav"
-          }
-        },
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "ampeg_release",
-            "value": "0.1"
-          }
-        },
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "loop_start",
-            "value": "12629"
-          }
-        },
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "loop_end",
-            "value": "56728"
-          }
-        },
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "loop_mode",
-            "value": "loop_continuous"
-          }
-        },
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "locc1",
-            "value": "65"
-          }
-        }
-      ]
-    },
-    {
-      "type": "element",
-      "name": "region",
-      "elements": [
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "lokey",
             "value": "c4"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "hikey",
             "value": "c#4"
           }
@@ -285,21 +211,15 @@
       ]
     },
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "lokey",
             "value": "d4"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "hikey",
             "value": "d#4"
           }
@@ -307,21 +227,15 @@
       ]
     },
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "lokey",
             "value": "e4"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "hikey",
             "value": "f4"
           }
@@ -329,21 +243,15 @@
       ]
     },
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "lokey",
             "value": "f#4"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "hikey",
             "value": "g4"
           }
@@ -351,21 +259,15 @@
       ]
     },
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "lokey",
             "value": "g#4"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "hikey",
             "value": "a4"
           }
@@ -373,21 +275,15 @@
       ]
     },
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "lokey",
             "value": "a#4"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "hikey",
             "value": "b4"
           }
@@ -395,21 +291,15 @@
       ]
     },
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "lokey",
             "value": "c5"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "hikey",
             "value": "c#5"
           }

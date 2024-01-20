@@ -1,50 +1,30 @@
-elements:
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
-          name: sample
-          value: ..\..\samples\440.wav
-      - type: element
-        name: opcode
-        attributes:
-          name: loop_mode
-          value: loop_continuous
-      - type: element
-        name: opcode
-        attributes:
-          name: loop_start
-          value: '12629'
-      - type: element
-        name: opcode
-        attributes:
-          name: loop_end
-          value: '56728'
-      - type: element
-        name: opcode
-        attributes:
-          name: amp_veltrack
-          value: '0'
-      - type: element
-        name: opcode
-        attributes:
-          name: volume
-          value: '-6'
-      - type: element
-        name: opcode
-        attributes:
-          name: lfo01_freq
-          value: '2'
-      - type: element
-        name: opcode
-        attributes:
-          name: bitred_oncc73
-          value: '100'
-      - type: element
-        name: opcode
-        attributes:
-          name: lfo01_bitred
-          value: '100'
+region:
+  opcode:
+    - _attributes:
+        name: sample
+        value: ..\..\samples\440.wav
+    - _attributes:
+        name: loop_mode
+        value: loop_continuous
+    - _attributes:
+        name: loop_start
+        value: '12629'
+    - _attributes:
+        name: loop_end
+        value: '56728'
+    - _attributes:
+        name: amp_veltrack
+        value: '0'
+    - _attributes:
+        name: volume
+        value: '-6'
+    - _attributes:
+        name: lfo01_freq
+        value: '2'
+    - _attributes:
+        name: bitred_oncc73
+        value: '100'
+    - _attributes:
+        name: lfo01_bitred
+        value: '100'
 

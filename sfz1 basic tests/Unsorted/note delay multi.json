@@ -1,53 +1,39 @@
 {
-  "elements": [
+  "region": [
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\440.wav"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "ampeg_hold",
             "value": "0.25"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "ampeg_sustain",
             "value": "0"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopstart",
             "value": "12629"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopend",
             "value": "56728"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopmode",
             "value": "loop_continuous"
           }
@@ -55,69 +41,51 @@
       ]
     },
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\440.wav"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "delay",
             "value": "0.25"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "ampeg_hold",
             "value": "0.25"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "ampeg_sustain",
             "value": "0"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopstart",
             "value": "12629"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopend",
             "value": "56728"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopmode",
             "value": "loop_continuous"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "transpose",
             "value": "2"
           }
@@ -125,69 +93,51 @@
       ]
     },
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\440.wav"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "delay",
             "value": "0.5"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "ampeg_hold",
             "value": "0.25"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "ampeg_sustain",
             "value": "0"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopstart",
             "value": "12629"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopend",
             "value": "56728"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopmode",
             "value": "loop_continuous"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "transpose",
             "value": "4"
           }
@@ -195,69 +145,51 @@
       ]
     },
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\440.wav"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "delay",
             "value": "0.75"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "ampeg_hold",
             "value": "0.25"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "ampeg_sustain",
             "value": "0"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopstart",
             "value": "12629"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopend",
             "value": "56728"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopmode",
             "value": "loop_continuous"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "transpose",
             "value": "7"
           }
@@ -265,69 +197,51 @@
       ]
     },
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\440.wav"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "delay",
             "value": "1"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "ampeg_hold",
             "value": "0.25"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "ampeg_sustain",
             "value": "0"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopstart",
             "value": "12629"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopend",
             "value": "56728"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopmode",
             "value": "loop_continuous"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "transpose",
             "value": "5"
           }
@@ -335,69 +249,51 @@
       ]
     },
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\440.wav"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "delay",
             "value": "1.25"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "ampeg_hold",
             "value": "0.25"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "ampeg_sustain",
             "value": "0"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopstart",
             "value": "12629"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopend",
             "value": "56728"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopmode",
             "value": "loop_continuous"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "transpose",
             "value": "5"
           }
@@ -405,69 +301,51 @@
       ]
     },
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\440.wav"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "delay",
             "value": "1.5"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "ampeg_hold",
             "value": "0.25"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "ampeg_sustain",
             "value": "0"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopstart",
             "value": "12629"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopend",
             "value": "56728"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopmode",
             "value": "loop_continuous"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "transpose",
             "value": "9"
           }
@@ -475,69 +353,51 @@
       ]
     },
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\440.wav"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "delay",
             "value": "1.75"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "ampeg_hold",
             "value": "0.25"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "ampeg_sustain",
             "value": "0"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopstart",
             "value": "12629"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopend",
             "value": "56728"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopmode",
             "value": "loop_continuous"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "transpose",
             "value": "7"
           }
@@ -545,69 +405,51 @@
       ]
     },
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\440.wav"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "delay",
             "value": "2"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "ampeg_hold",
             "value": "0.25"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "ampeg_sustain",
             "value": "0"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopstart",
             "value": "12629"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopend",
             "value": "56728"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopmode",
             "value": "loop_continuous"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "transpose",
             "value": "7"
           }
@@ -615,69 +457,51 @@
       ]
     },
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\440.wav"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "delay",
             "value": "2.25"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "ampeg_hold",
             "value": "0.25"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "ampeg_sustain",
             "value": "0"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopstart",
             "value": "12629"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopend",
             "value": "56728"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopmode",
             "value": "loop_continuous"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "transpose",
             "value": "12"
           }
@@ -685,69 +509,51 @@
       ]
     },
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\440.wav"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "delay",
             "value": "2.5"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "ampeg_hold",
             "value": "0.25"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "ampeg_sustain",
             "value": "0"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopstart",
             "value": "12629"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopend",
             "value": "56728"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopmode",
             "value": "loop_continuous"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "transpose",
             "value": "11"
           }
@@ -755,69 +561,51 @@
       ]
     },
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\440.wav"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "delay",
             "value": "2.75"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "ampeg_hold",
             "value": "0.25"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "ampeg_sustain",
             "value": "0"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopstart",
             "value": "12629"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopend",
             "value": "56728"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopmode",
             "value": "loop_continuous"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "transpose",
             "value": "12"
           }
@@ -825,69 +613,51 @@
       ]
     },
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\440.wav"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "delay",
             "value": "3"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "ampeg_hold",
             "value": "0.25"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "ampeg_sustain",
             "value": "0"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopstart",
             "value": "12629"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopend",
             "value": "56728"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopmode",
             "value": "loop_continuous"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "transpose",
             "value": "7"
           }
@@ -895,69 +665,51 @@
       ]
     },
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\440.wav"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "delay",
             "value": "3.25"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "ampeg_hold",
             "value": "0.25"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "ampeg_sustain",
             "value": "0"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopstart",
             "value": "12629"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopend",
             "value": "56728"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopmode",
             "value": "loop_continuous"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "transpose",
             "value": "4"
           }
@@ -965,61 +717,45 @@
       ]
     },
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\440.wav"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "delay",
             "value": "3.5"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "ampeg_hold",
             "value": "0.25"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "ampeg_sustain",
             "value": "0"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopstart",
             "value": "12629"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopend",
             "value": "56728"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopmode",
             "value": "loop_continuous"
           }

@@ -1,91 +1,67 @@
 {
-  "elements": [
-    {
-      "type": "element",
-      "name": "group",
-      "elements": [
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "xf_cccurve",
-            "value": "gain"
-          }
-        },
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "sample",
-            "value": "..\\..\\samples\\440.wav"
-          }
-        },
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "loop_start",
-            "value": "12629"
-          }
-        },
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "loop_end",
-            "value": "56728"
-          }
-        },
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "loop_mode",
-            "value": "loop_continuous"
-          }
-        },
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "amp_veltrack",
-            "value": "0"
-          }
+  "group": {
+    "opcode": [
+      {
+        "_attributes": {
+          "name": "xf_cccurve",
+          "value": "gain"
         }
-      ]
-    },
+      },
+      {
+        "_attributes": {
+          "name": "sample",
+          "value": "..\\..\\samples\\440.wav"
+        }
+      },
+      {
+        "_attributes": {
+          "name": "loop_start",
+          "value": "12629"
+        }
+      },
+      {
+        "_attributes": {
+          "name": "loop_end",
+          "value": "56728"
+        }
+      },
+      {
+        "_attributes": {
+          "name": "loop_mode",
+          "value": "loop_continuous"
+        }
+      },
+      {
+        "_attributes": {
+          "name": "amp_veltrack",
+          "value": "0"
+        }
+      }
+    ]
+  },
+  "region": [
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "xfin_locc1",
             "value": "0"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "xfin_hicc1",
             "value": "64"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "xfout_locc1",
             "value": "64"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "xfout_hicc1",
             "value": "127"
           }
@@ -93,45 +69,33 @@
       ]
     },
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "transpose",
             "value": "-12"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "xfout_locc1",
             "value": "0"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "xfout_hicc1",
             "value": "64"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "xfin_locc1",
             "value": "64"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "xfin_hicc1",
             "value": "127"
           }

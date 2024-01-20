@@ -1,103 +1,62 @@
-elements:
-  - type: element
-    name: group
-    elements:
-      - type: element
-        name: opcode
-        attributes:
-          name: sample
-          value: ..\..\samples\440.wav
-      - type: element
-        name: opcode
-        attributes:
-          name: loop_start
-          value: '12629'
-      - type: element
-        name: opcode
-        attributes:
-          name: loop_end
-          value: '56728'
-      - type: element
-        name: opcode
-        attributes:
-          name: loop_mode
-          value: loop_continuous
-      - type: element
-        name: opcode
-        attributes:
-          name: bend_up
-          value: '0'
-      - type: element
-        name: opcode
-        attributes:
-          name: bend_down
-          value: '0'
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
-          name: pitch_oncc73
-          value: '1200'
-      - type: element
-        name: opcode
-        attributes:
-          name: pitch_smoothcc73
-          value: '1'
-      - type: element
-        name: opcode
-        attributes:
-          name: pitch_oncc70
-          value: '1200'
-      - type: element
-        name: opcode
-        attributes:
-          name: pitch_smoothcc70
-          value: '100'
-      - type: element
-        name: opcode
-        attributes:
-          name: pitch_oncc20
-          value: '1200'
-      - type: element
-        name: opcode
-        attributes:
-          name: pitch_smoothcc20
-          value: '0'
-      - type: element
-        name: opcode
-        attributes:
-          name: pitch_stepcc20
-          value: '400'
-      - type: element
-        name: opcode
-        attributes:
-          name: pitch_oncc21
-          value: '1200'
-      - type: element
-        name: opcode
-        attributes:
-          name: pitch_smoothcc21
-          value: '500'
-      - type: element
-        name: opcode
-        attributes:
-          name: pitch_oncc128
-          value: '0'
-      - type: element
-        name: opcode
-        attributes:
-          name: pitch_smoothcc128
-          value: '100'
-      - type: element
-        name: opcode
-        attributes:
-          name: pitch_oncc129
-          value: '1200'
-      - type: element
-        name: opcode
-        attributes:
-          name: pitch_smoothcc129
-          value: '100'
+group:
+  opcode:
+    - _attributes:
+        name: sample
+        value: ..\..\samples\440.wav
+    - _attributes:
+        name: loop_start
+        value: '12629'
+    - _attributes:
+        name: loop_end
+        value: '56728'
+    - _attributes:
+        name: loop_mode
+        value: loop_continuous
+    - _attributes:
+        name: bend_up
+        value: '0'
+    - _attributes:
+        name: bend_down
+        value: '0'
+region:
+  opcode:
+    - _attributes:
+        name: pitch_oncc73
+        value: '1200'
+    - _attributes:
+        name: pitch_smoothcc73
+        value: '1'
+    - _attributes:
+        name: pitch_oncc70
+        value: '1200'
+    - _attributes:
+        name: pitch_smoothcc70
+        value: '100'
+    - _attributes:
+        name: pitch_oncc20
+        value: '1200'
+    - _attributes:
+        name: pitch_smoothcc20
+        value: '0'
+    - _attributes:
+        name: pitch_stepcc20
+        value: '400'
+    - _attributes:
+        name: pitch_oncc21
+        value: '1200'
+    - _attributes:
+        name: pitch_smoothcc21
+        value: '500'
+    - _attributes:
+        name: pitch_oncc128
+        value: '0'
+    - _attributes:
+        name: pitch_smoothcc128
+        value: '100'
+    - _attributes:
+        name: pitch_oncc129
+        value: '1200'
+    - _attributes:
+        name: pitch_smoothcc129
+        value: '100'
 

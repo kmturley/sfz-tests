@@ -1,53 +1,31 @@
-elements:
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
+region:
+  - opcode:
+      - _attributes:
           name: sample
           value: ..\..\samples\440.wav
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: loop_start
           value: '12629'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: loop_end
           value: '56728'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: loop_mode
           value: loop_continuous
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: lochan
           value: '1'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: hichan
           value: '5'
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
+  - opcode:
+      - _attributes:
           name: sample
           value: ..\..\samples\110.wav
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: lochan
           value: '6'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: hichan
           value: '10'
 

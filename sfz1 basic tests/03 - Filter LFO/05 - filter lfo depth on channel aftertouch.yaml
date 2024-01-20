@@ -1,40 +1,24 @@
-elements:
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
-          name: sample
-          value: ..\..\samples\noise.wav
-      - type: element
-        name: opcode
-        attributes:
-          name: loopmode
-          value: loop_continuous
-      - type: element
-        name: opcode
-        attributes:
-          name: fillfo_freq
-          value: '2'
-      - type: element
-        name: opcode
-        attributes:
-          name: cutoff
-          value: '1000'
-      - type: element
-        name: opcode
-        attributes:
-          name: resonance
-          value: '40'
-      - type: element
-        name: opcode
-        attributes:
-          name: volume
-          value: '-10'
-      - type: element
-        name: opcode
-        attributes:
-          name: fillfo_depthchanaft
-          value: '400'
+region:
+  opcode:
+    - _attributes:
+        name: sample
+        value: ..\..\samples\noise.wav
+    - _attributes:
+        name: loopmode
+        value: loop_continuous
+    - _attributes:
+        name: fillfo_freq
+        value: '2'
+    - _attributes:
+        name: cutoff
+        value: '1000'
+    - _attributes:
+        name: resonance
+        value: '40'
+    - _attributes:
+        name: volume
+        value: '-10'
+    - _attributes:
+        name: fillfo_depthchanaft
+        value: '400'
 
