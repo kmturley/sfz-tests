@@ -1,62 +1,87 @@
 {
-  "group": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "..\\..\\samples\\440.wav"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "loop_start",
-          "value": "12629"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "loop_end",
-          "value": "56728"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "loop_mode",
-          "value": "loop_continuous"
-        }
-      }
-    ]
-  },
-  "region": [
-    {},
+  "elements": [
     {
-      "opcode": [
+      "type": "element",
+      "name": "group",
+      "elements": [
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\440.wav"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "loop_start",
+            "value": "12629"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "loop_end",
+            "value": "56728"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "loop_mode",
+            "value": "loop_continuous"
+          }
+        }
+      ]
+    },
+    {
+      "type": "element",
+      "name": "region"
+    },
+    {
+      "type": "element",
+      "name": "region",
+      "elements": [
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "transpose",
             "value": "12"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "gate_threshold",
             "value": "-20"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "gate_attack",
             "value": ".0"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "gate_release",
             "value": ".0"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "gate_oncc64",
             "value": "100"
           }

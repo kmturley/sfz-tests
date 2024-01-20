@@ -1,36 +1,50 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "440.wav"
+  "elements": [
+    {
+      "type": "element",
+      "name": "region",
+      "elements": [
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "sample",
+            "value": "440.wav"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "loopstart",
+            "value": "12629"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "loopend",
+            "value": "56728"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "loopmode",
+            "value": "loop_continuous"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "delay",
+            "value": "0.5"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "loopstart",
-          "value": "12629"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "loopend",
-          "value": "56728"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "loopmode",
-          "value": "loop_continuous"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "delay",
-          "value": "0.5"
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }

@@ -1,33 +1,55 @@
-region:
-  opcode:
-    - _attributes:
-        name: volume
-        value: '-6'
-    - _attributes:
-        name: sample
-        value: '*sine'
-    - _attributes:
-        name: lfo06_wave
-        value: '1'
-    - _attributes:
-        name: lfo06_pitch
-        value: '700'
-    - _attributes:
-        name: lfo06_freq
-        value: '0'
-    - _attributes:
-        name: lfo06_freq_oncc1
-        value: '4'
-    - _attributes:
-        name: lfo06_wave2
-        value: '1'
-    - _attributes:
-        name: lfo06_ratio2
-        value: '4'
-    - _attributes:
-        name: lfo06_offset2
-        value: '0'
-    - _attributes:
-        name: lfo06_scale2
-        value: '1'
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-6'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: '*sine'
+      - type: element
+        name: opcode
+        attributes:
+          name: lfo06_wave
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: lfo06_pitch
+          value: '700'
+      - type: element
+        name: opcode
+        attributes:
+          name: lfo06_freq
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: lfo06_freq_oncc1
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: lfo06_wave2
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: lfo06_ratio2
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: lfo06_offset2
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: lfo06_scale2
+          value: '1'
 

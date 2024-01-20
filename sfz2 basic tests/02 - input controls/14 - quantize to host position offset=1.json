@@ -1,24 +1,34 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "..\\..\\samples\\loop.wav"
+  "elements": [
+    {
+      "type": "element",
+      "name": "region",
+      "elements": [
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\loop.wav"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "sync_beats",
+            "value": "4"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "sync_offset",
+            "value": "1"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "sync_beats",
-          "value": "4"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "sync_offset",
-          "value": "1"
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }

@@ -1,55 +1,75 @@
 {
-  "group": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "lokey",
-          "value": "-1"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "hikey",
-          "value": "-1"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "..\\..\\samples\\440.ogg"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "loop_start",
-          "value": "12629"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "loop_end",
-          "value": "56728"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "loop_mode",
-          "value": "loop_continuous"
-        }
-      }
-    ]
-  },
-  "region": [
+  "elements": [
     {
-      "opcode": [
+      "type": "element",
+      "name": "group",
+      "elements": [
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "lokey",
+            "value": "-1"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "hikey",
+            "value": "-1"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\440.ogg"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "loop_start",
+            "value": "12629"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "loop_end",
+            "value": "56728"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "loop_mode",
+            "value": "loop_continuous"
+          }
+        }
+      ]
+    },
+    {
+      "type": "element",
+      "name": "region",
+      "elements": [
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "start_locc64",
             "value": "127"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "start_hicc64",
             "value": "127"
           }
@@ -57,15 +77,21 @@
       ]
     },
     {
-      "opcode": [
+      "type": "element",
+      "name": "region",
+      "elements": [
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "stop_locc64",
             "value": "0"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "stop_hicc64",
             "value": "0"
           }

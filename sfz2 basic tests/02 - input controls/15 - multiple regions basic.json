@@ -1,23 +1,35 @@
 {
-  "group": {
-    "opcode": {
-      "_attributes": {
-        "name": "sample",
-        "value": "..\\..\\samples\\440.wav"
-      }
-    }
-  },
-  "region": [
+  "elements": [
     {
-      "opcode": [
+      "type": "element",
+      "name": "group",
+      "elements": [
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\440.wav"
+          }
+        }
+      ]
+    },
+    {
+      "type": "element",
+      "name": "region",
+      "elements": [
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "transpose",
             "value": "-36"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "volume",
             "value": "-6"
           }
@@ -25,15 +37,21 @@
       ]
     },
     {
-      "opcode": [
+      "type": "element",
+      "name": "region",
+      "elements": [
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "hikey",
             "value": "b3"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "transpose",
             "value": "-24"
           }
@@ -41,21 +59,29 @@
       ]
     },
     {
-      "opcode": [
+      "type": "element",
+      "name": "region",
+      "elements": [
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "lokey",
             "value": "c4"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "lovel",
             "value": "64"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "transpose",
             "value": "-12"
           }

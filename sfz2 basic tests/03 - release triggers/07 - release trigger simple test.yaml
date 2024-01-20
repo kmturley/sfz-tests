@@ -1,22 +1,38 @@
-region:
-  - opcode:
-      - _attributes:
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: key
           value: c4
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\noise.wav
-  - opcode:
-      - _attributes:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: key
           value: d4
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\hh.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: trigger
           value: release_key
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: rt_dead
           value: 'on'
 

@@ -1,45 +1,61 @@
 {
-  "region": [
+  "elements": [
     {
-      "opcode": [
+      "type": "element",
+      "name": "region",
+      "elements": [
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\Stereo_16_44100.wav"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "pitch_keytrack",
             "value": "0"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "amp_veltrack",
             "value": "0"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "width",
             "value": "0"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "position",
             "value": "0"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "lokey",
             "value": "60"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "hikey",
             "value": "61"
           }
@@ -47,45 +63,61 @@
       ]
     },
     {
-      "opcode": [
+      "type": "element",
+      "name": "region",
+      "elements": [
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\Stereo_16_44100.wav"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "pitch_keytrack",
             "value": "0"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "amp_veltrack",
             "value": "0"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "width",
             "value": "100"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "position",
             "value": "0"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "lokey",
             "value": "62"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "hikey",
             "value": "63"
           }
@@ -93,45 +125,61 @@
       ]
     },
     {
-      "opcode": [
+      "type": "element",
+      "name": "region",
+      "elements": [
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\Stereo_16_44100.wav"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "pitch_keytrack",
             "value": "0"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "amp_veltrack",
             "value": "0"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "width",
             "value": "0"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "position",
             "value": "100"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "lokey",
             "value": "64"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "hikey",
             "value": "64"
           }
@@ -139,45 +187,61 @@
       ]
     },
     {
-      "opcode": [
+      "type": "element",
+      "name": "region",
+      "elements": [
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\Stereo_16_44100.wav"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "pitch_keytrack",
             "value": "0"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "amp_veltrack",
             "value": "0"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "width",
             "value": "0"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "position",
             "value": "-100"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "lokey",
             "value": "65"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "hikey",
             "value": "66"
           }
@@ -185,45 +249,61 @@
       ]
     },
     {
-      "opcode": [
+      "type": "element",
+      "name": "region",
+      "elements": [
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\Stereo_16_44100.wav"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "pitch_keytrack",
             "value": "0"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "amp_veltrack",
             "value": "0"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "width",
             "value": "50"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "position",
             "value": "50"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "lokey",
             "value": "67"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "hikey",
             "value": "68"
           }
@@ -231,45 +311,61 @@
       ]
     },
     {
-      "opcode": [
+      "type": "element",
+      "name": "region",
+      "elements": [
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\Stereo_16_44100.wav"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "pitch_keytrack",
             "value": "0"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "amp_veltrack",
             "value": "0"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "width",
             "value": "50"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "position",
             "value": "-50"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "lokey",
             "value": "69"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "hikey",
             "value": "70"
           }

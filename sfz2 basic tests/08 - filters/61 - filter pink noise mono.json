@@ -1,24 +1,34 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "..\\..\\samples\\noise mono.wav"
+  "elements": [
+    {
+      "type": "element",
+      "name": "region",
+      "elements": [
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\noise mono.wav"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "loop_mode",
+            "value": "loop_continuous"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "fil_type",
+            "value": "pink"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "loop_mode",
-          "value": "loop_continuous"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "fil_type",
-          "value": "pink"
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }

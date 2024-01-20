@@ -1,33 +1,45 @@
 {
-  "region": [
+  "elements": [
     {
-      "opcode": [
+      "type": "element",
+      "name": "region",
+      "elements": [
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\440.wav"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "lokey",
             "value": "60"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "sw_lokey",
             "value": "48"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "sw_hikey",
             "value": "52"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "sw_up",
             "value": "48"
           }
@@ -35,33 +47,45 @@
       ]
     },
     {
-      "opcode": [
+      "type": "element",
+      "name": "region",
+      "elements": [
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\110.wav"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "lokey",
             "value": "60"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "sw_lokey",
             "value": "48"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "sw_hikey",
             "value": "52"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "sw_up",
             "value": "49"
           }
@@ -69,33 +93,45 @@
       ]
     },
     {
-      "opcode": [
+      "type": "element",
+      "name": "region",
+      "elements": [
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\noise.wav"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "lokey",
             "value": "60"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "sw_lokey",
             "value": "48"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "sw_hikey",
             "value": "52"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "sw_up",
             "value": "50"
           }
@@ -103,33 +139,45 @@
       ]
     },
     {
-      "opcode": [
+      "type": "element",
+      "name": "region",
+      "elements": [
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\bd.wav"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "lokey",
             "value": "60"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "sw_lokey",
             "value": "48"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "sw_hikey",
             "value": "52"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "sw_up",
             "value": "51"
           }
@@ -137,33 +185,45 @@
       ]
     },
     {
-      "opcode": [
+      "type": "element",
+      "name": "region",
+      "elements": [
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\hh.wav"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "lokey",
             "value": "60"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "sw_lokey",
             "value": "48"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "sw_hikey",
             "value": "52"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "sw_up",
             "value": "52"
           }

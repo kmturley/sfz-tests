@@ -1,140 +1,190 @@
 {
-  "group": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "..\\..\\samples\\440.wav"
+  "elements": [
+    {
+      "type": "element",
+      "name": "group",
+      "elements": [
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\440.wav"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "loop_start",
+            "value": "12629"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "loop_end",
+            "value": "56728"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "loop_mode",
+            "value": "loop_continuous"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "amp_veltrack",
+            "value": "0"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "loop_start",
-          "value": "12629"
+      ]
+    },
+    {
+      "type": "element",
+      "name": "region",
+      "elements": [
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "pan_oncc73",
+            "value": "100"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "pan_smoothcc73",
+            "value": "1"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "pan_curvecc73",
+            "value": "7"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "pan_oncc70",
+            "value": "100"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "pan_smoothcc70",
+            "value": "100"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "pan_curvecc70",
+            "value": "7"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "pan_oncc20",
+            "value": "100"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "pan_stepcc20",
+            "value": "50"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "pan_curvecc20",
+            "value": "7"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "pan_oncc21",
+            "value": "100"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "pan_smoothcc21",
+            "value": "500"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "pan_curvecc21",
+            "value": "7"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "loop_end",
-          "value": "56728"
+      ]
+    },
+    {
+      "type": "element",
+      "name": "curve",
+      "elements": [
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "curve_index",
+            "value": "7"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "v000",
+            "value": "-1"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "v064",
+            "value": "0"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "v127",
+            "value": "1"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "loop_mode",
-          "value": "loop_continuous"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "amp_veltrack",
-          "value": "0"
-        }
-      }
-    ]
-  },
-  "region": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "pan_oncc73",
-          "value": "100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "pan_smoothcc73",
-          "value": "1"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "pan_curvecc73",
-          "value": "7"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "pan_oncc70",
-          "value": "100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "pan_smoothcc70",
-          "value": "100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "pan_curvecc70",
-          "value": "7"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "pan_oncc20",
-          "value": "100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "pan_stepcc20",
-          "value": "50"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "pan_curvecc20",
-          "value": "7"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "pan_oncc21",
-          "value": "100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "pan_smoothcc21",
-          "value": "500"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "pan_curvecc21",
-          "value": "7"
-        }
-      }
-    ]
-  },
-  "curve": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "curve_index",
-          "value": "7"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "v000",
-          "value": "-1"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "v064",
-          "value": "0"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "v127",
-          "value": "1"
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }

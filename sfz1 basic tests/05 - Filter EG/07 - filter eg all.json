@@ -1,78 +1,106 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "..\\..\\samples\\noise.wav"
+  "elements": [
+    {
+      "type": "element",
+      "name": "region",
+      "elements": [
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\noise.wav"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "cutoff",
+            "value": "250"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "resonance",
+            "value": "40"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "volume",
+            "value": "-6"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "loopmode",
+            "value": "loop_continuous"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "ampeg_release",
+            "value": "5"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "fileg_attack",
+            "value": ".5"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "fileg_depth",
+            "value": "1200"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "fileg_hold",
+            "value": ".5"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "fileg_decay",
+            "value": ".5"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "fileg_sustain",
+            "value": "60"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "fileg_release",
+            "value": ".5"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "cutoff",
-          "value": "250"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "resonance",
-          "value": "40"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "volume",
-          "value": "-6"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "loopmode",
-          "value": "loop_continuous"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "ampeg_release",
-          "value": "5"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "fileg_attack",
-          "value": ".5"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "fileg_depth",
-          "value": "1200"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "fileg_hold",
-          "value": ".5"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "fileg_decay",
-          "value": ".5"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "fileg_sustain",
-          "value": "60"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "fileg_release",
-          "value": ".5"
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }

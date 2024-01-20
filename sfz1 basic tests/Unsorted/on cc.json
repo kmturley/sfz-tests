@@ -1,33 +1,45 @@
 {
-  "region": [
+  "elements": [
     {
-      "opcode": [
+      "type": "element",
+      "name": "region",
+      "elements": [
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\bd.wav"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "lokey",
             "value": "-1"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "hikey",
             "value": "-1"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "on_locc64",
             "value": "127"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "on_hicc64",
             "value": "127"
           }
@@ -35,33 +47,45 @@
       ]
     },
     {
-      "opcode": [
+      "type": "element",
+      "name": "region",
+      "elements": [
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\hh.wav"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "lokey",
             "value": "-1"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "hikey",
             "value": "-1"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "on_locc64",
             "value": "0"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "on_hicc64",
             "value": "0"
           }
@@ -69,33 +93,45 @@
       ]
     },
     {
-      "opcode": [
+      "type": "element",
+      "name": "region",
+      "elements": [
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\bd.wav"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "lokey",
             "value": "-1"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "hikey",
             "value": "-1"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "on_locc1",
             "value": "0"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "on_hicc1",
             "value": "0"
           }
@@ -103,33 +139,45 @@
       ]
     },
     {
-      "opcode": [
+      "type": "element",
+      "name": "region",
+      "elements": [
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\hh.wav"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "lokey",
             "value": "-1"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "hikey",
             "value": "-1"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "on_locc1",
             "value": "64"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "on_hicc1",
             "value": "127"
           }

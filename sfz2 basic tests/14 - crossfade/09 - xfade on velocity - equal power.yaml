@@ -1,52 +1,88 @@
-region:
-  - opcode:
-      - _attributes:
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\440.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loop_start
           value: '12629'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loop_end
           value: '56728'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loop_mode
           value: loop_continuous
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: amp_veltrack
           value: '0'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: xfin_lovel
           value: '0'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: xfin_hivel
           value: '127'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: xf_velcurve
           value: power
-  - opcode:
-      - _attributes:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\110.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loop_start
           value: '10825'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loop_end
           value: '32473'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loop_mode
           value: loop_continuous
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: amp_veltrack
           value: '0'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: xfout_lovel
           value: '0'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: xfout_hivel
           value: '127'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: xf_velcurve
           value: power
 

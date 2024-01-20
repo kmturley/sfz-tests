@@ -1,18 +1,26 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "..\\..\\samples\\bd.wav"
+  "elements": [
+    {
+      "type": "element",
+      "name": "region",
+      "elements": [
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\bd.wav"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "sw_previous",
+            "value": "60"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "sw_previous",
-          "value": "60"
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }

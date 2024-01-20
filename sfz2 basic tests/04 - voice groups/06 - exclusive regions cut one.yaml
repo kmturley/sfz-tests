@@ -1,55 +1,94 @@
-region:
-  - opcode:
-      - _attributes:
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\110.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loop_start
           value: '10825'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loop_end
           value: '32473'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loop_mode
           value: loop_continuous
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lokey
           value: '0'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: hikey
           value: b3
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: group
           value: '1'
-  - opcode:
-      - _attributes:
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\440.wav
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '12629'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '56728'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: group
           value: '2'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lokey
           value: c4
-  - opcode:
-      - _attributes:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: lokey
           value: c4
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: transpose
           value: '7'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: off_by
           value: '1'
-group:
-  opcode:
-    - _attributes:
-        name: sample
-        value: ..\..\samples\440.wav
-    - _attributes:
-        name: loop_start
-        value: '12629'
-    - _attributes:
-        name: loop_end
-        value: '56728'
-    - _attributes:
-        name: loop_mode
-        value: loop_continuous
 

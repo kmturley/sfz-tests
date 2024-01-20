@@ -1,49 +1,67 @@
 {
-  "group": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "volume",
-          "value": "-6"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "*tri"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "ampeg_release",
-          "value": "1"
-        }
-      }
-    ]
-  },
-  "region": [
+  "elements": [
     {
-      "opcode": [
+      "type": "element",
+      "name": "group",
+      "elements": [
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "volume",
+            "value": "-6"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "sample",
+            "value": "*tri"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "ampeg_release",
+            "value": "1"
+          }
+        }
+      ]
+    },
+    {
+      "type": "element",
+      "name": "region",
+      "elements": [
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "pan",
             "value": "-100"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "polyphony_stealing",
             "value": "1"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "polyphony_group",
             "value": "1"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "polyphony",
             "value": "8"
           }
@@ -51,27 +69,37 @@
       ]
     },
     {
-      "opcode": [
+      "type": "element",
+      "name": "region",
+      "elements": [
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "pan",
             "value": "100"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "polyphony_stealing",
             "value": "0"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "polyphony_group",
             "value": "2"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "polyphony",
             "value": "8"
           }

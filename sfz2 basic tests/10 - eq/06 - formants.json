@@ -1,118 +1,160 @@
 {
-  "group": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "..\\..\\samples\\noise mono.wav"
+  "elements": [
+    {
+      "type": "element",
+      "name": "group",
+      "elements": [
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\noise mono.wav"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "loop_mode",
+            "value": "loop_continuous"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "loop_mode",
-          "value": "loop_continuous"
+      ]
+    },
+    {
+      "type": "element",
+      "name": "region",
+      "elements": [
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "eq1_freq",
+            "value": "600"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "eq1_freq_oncc1",
+            "value": "-200"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "eq1_freq_oncc2",
+            "value": "-200"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "eq1_bw",
+            "value": "0.1"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "eq1_gain",
+            "value": "24"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "eq2_freq",
+            "value": "1040"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "eq2_freq_oncc1",
+            "value": "750"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "eq2_freq_oncc2",
+            "value": "-350"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "eq2_bw",
+            "value": "0.07"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "eq2_gain",
+            "value": "18"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "eq2_gain_oncc1",
+            "value": "-10"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "eq3_freq",
+            "value": "2250"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "eq3_freq_oncc1",
+            "value": "350"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "eq3_bw",
+            "value": "0.05"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "eq3_gain",
+            "value": "15"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "eq3_gain_oncc1",
+            "value": "-6"
+          }
         }
-      }
-    ]
-  },
-  "region": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "eq1_freq",
-          "value": "600"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eq1_freq_oncc1",
-          "value": "-200"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eq1_freq_oncc2",
-          "value": "-200"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eq1_bw",
-          "value": "0.1"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eq1_gain",
-          "value": "24"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eq2_freq",
-          "value": "1040"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eq2_freq_oncc1",
-          "value": "750"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eq2_freq_oncc2",
-          "value": "-350"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eq2_bw",
-          "value": "0.07"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eq2_gain",
-          "value": "18"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eq2_gain_oncc1",
-          "value": "-10"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eq3_freq",
-          "value": "2250"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eq3_freq_oncc1",
-          "value": "350"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eq3_bw",
-          "value": "0.05"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eq3_gain",
-          "value": "15"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eq3_gain_oncc1",
-          "value": "-6"
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }

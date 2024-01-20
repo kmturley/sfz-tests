@@ -1,46 +1,78 @@
-region:
-  - opcode:
-      - _attributes:
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\440.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loopstart
           value: '12629'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loopend
           value: '56728'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loopmode
           value: loop_continuous
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lokey
           value: c4
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: hikey
           value: c#4
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: pitch_keycenter
           value: c4
-  - opcode:
-      - _attributes:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\440.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loopstart
           value: '12629'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loopend
           value: '56728'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loopmode
           value: loop_continuous
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lokey
           value: d4
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: hikey
           value: d#4
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: pitch_keycenter
           value: c4
 

@@ -1,90 +1,122 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "..\\..\\samples\\440.wav"
+  "elements": [
+    {
+      "type": "element",
+      "name": "region",
+      "elements": [
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\440.wav"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "loop_mode",
+            "value": "loop_continuous"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "loop_start",
+            "value": "12629"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "loop_end",
+            "value": "56728"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "lfo01_freq",
+            "value": "2"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "lfo01_bitred_oncc73",
+            "value": "100"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "lfo01_bitred_oncc70",
+            "value": "100"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "lfo01_bitred_smoothcc70",
+            "value": "100"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "lfo01_bitred_oncc20",
+            "value": "100"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "lfo01_bitred_stepcc20",
+            "value": "51"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "lfo01_bitred_oncc21",
+            "value": "100"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "lfo01_bitred_smoothcc21",
+            "value": "1000"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "lfo01_bitred_oncc129",
+            "value": "100"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "lfo01_bitred_smoothcc129",
+            "value": "500"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "loop_mode",
-          "value": "loop_continuous"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "loop_start",
-          "value": "12629"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "loop_end",
-          "value": "56728"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_freq",
-          "value": "2"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_bitred_oncc73",
-          "value": "100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_bitred_oncc70",
-          "value": "100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_bitred_smoothcc70",
-          "value": "100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_bitred_oncc20",
-          "value": "100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_bitred_stepcc20",
-          "value": "51"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_bitred_oncc21",
-          "value": "100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_bitred_smoothcc21",
-          "value": "1000"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_bitred_oncc129",
-          "value": "100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_bitred_smoothcc129",
-          "value": "500"
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }

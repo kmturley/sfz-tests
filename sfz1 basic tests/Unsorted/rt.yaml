@@ -1,31 +1,53 @@
-region:
-  - opcode:
-      - _attributes:
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: lokey
           value: '36'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: hikey
           value: '36'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: pitch_keycenter
           value: '36'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\noise.wav
-  - opcode:
-      - _attributes:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: lokey
           value: '38'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: hikey
           value: '38'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: pitch_keycenter
           value: '38'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\hh.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: trigger
           value: release
 

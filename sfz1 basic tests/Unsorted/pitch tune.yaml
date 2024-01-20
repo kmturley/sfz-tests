@@ -1,16 +1,28 @@
-region:
-  - opcode:
-      - _attributes:
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\440.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: tune
           value: '100'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: transpose
           value: '-1'
-  - opcode:
-      _attributes:
-        name: sample
-        value: ..\..\samples\440.wav
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\440.wav
 

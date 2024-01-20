@@ -1,20 +1,33 @@
-region:
-  opcode:
-    _attributes:
-      name: sample
-      value: ..\..\samples\440.wav
-curve:
-  opcode:
-    - _attributes:
-        name: v000
-        value: '0'
-    - _attributes:
-        name: v064
-        value: '0.5'
-    - _attributes:
-        name: v127
-        value: '0'
-    - _attributes:
-        name: '332'
-        value: '1'
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\..\samples\440.wav
+  - type: element
+    name: curve
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: v000
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: v064
+          value: '0.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: v127
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: '332'
+          value: '1'
 

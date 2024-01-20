@@ -1,24 +1,34 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "..\\..\\samples\\mono 400 looped.wav"
+  "elements": [
+    {
+      "type": "element",
+      "name": "region",
+      "elements": [
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\mono 400 looped.wav"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "drive_shape",
+            "value": "100"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "volume",
+            "value": "-12"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "drive_shape",
-          "value": "100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "volume",
-          "value": "-12"
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }

@@ -1,34 +1,58 @@
-region:
-  - opcode:
-      - _attributes:
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\noise.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loop_mode
           value: loop_continuous
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: pitch_keytrack
           value: '0'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: ampeg_release
           value: '10'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lokey
           value: c4
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: off_by
           value: '1'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: off_mode
           value: fast
-  - opcode:
-      - _attributes:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\440.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: hikey
           value: b3
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: group
           value: '1'
 

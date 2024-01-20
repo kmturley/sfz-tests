@@ -1,21 +1,36 @@
-region:
-  - opcode:
-      - _attributes:
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\440.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: key
           value: c4
-  - opcode:
-      - _attributes:
+  - type: element
+    name: control
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: octave_offset
+          value: '-1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\440.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: key
           value: c4
-control:
-  opcode:
-    _attributes:
-      name: octave_offset
-      value: '-1'
 

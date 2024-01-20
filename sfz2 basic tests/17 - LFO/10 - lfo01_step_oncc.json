@@ -1,126 +1,170 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "..\\..\\samples\\440.wav"
+  "elements": [
+    {
+      "type": "element",
+      "name": "region",
+      "elements": [
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\440.wav"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "loop_mode",
+            "value": "loop_continuous"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "loop_start",
+            "value": "12629"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "loop_end",
+            "value": "56728"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "volume",
+            "value": "-6"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "amp_veltrack",
+            "value": "0"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "lfo01_steps",
+            "value": "10"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "lfo01_freq",
+            "value": "1"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "lfo01_pitch",
+            "value": "1200"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "lfo01_step01_oncc73",
+            "value": "100"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "lfo01_step01_smoothcc73",
+            "value": "400"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "lfo01_step02_oncc73",
+            "value": "-50"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "lfo01_step03_on",
+            "value": "100"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "lfo01_step04_on",
+            "value": "-100"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "lfo01_step05_on",
+            "value": "20"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "lfo01_step06_on",
+            "value": "-20"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "lfo01_step07_oncc73",
+            "value": "60"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "lfo01_step08_oncc73",
+            "value": "-60"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "lfo01_step09_oncc73",
+            "value": "2"
+          }
+        },
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "lfo01_step10_oncc73",
+            "value": "-2"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "loop_mode",
-          "value": "loop_continuous"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "loop_start",
-          "value": "12629"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "loop_end",
-          "value": "56728"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "volume",
-          "value": "-6"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "amp_veltrack",
-          "value": "0"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_steps",
-          "value": "10"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_freq",
-          "value": "1"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_pitch",
-          "value": "1200"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_step01_oncc73",
-          "value": "100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_step01_smoothcc73",
-          "value": "400"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_step02_oncc73",
-          "value": "-50"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_step03_on",
-          "value": "100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_step04_on",
-          "value": "-100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_step05_on",
-          "value": "20"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_step06_on",
-          "value": "-20"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_step07_oncc73",
-          "value": "60"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_step08_oncc73",
-          "value": "-60"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_step09_oncc73",
-          "value": "2"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_step10_oncc73",
-          "value": "-2"
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }
