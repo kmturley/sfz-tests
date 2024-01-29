@@ -1,66 +1,39 @@
-elements:
-  - type: element
-    name: group
-    elements:
-      - type: element
-        name: opcode
-        attributes:
-          name: volume
-          value: '-6'
-      - type: element
-        name: opcode
-        attributes:
-          name: sample
-          value: '*tri'
-      - type: element
-        name: opcode
-        attributes:
-          name: ampeg_release
-          value: '1'
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
+group:
+  opcode:
+    - _attributes:
+        name: volume
+        value: '-6'
+    - _attributes:
+        name: sample
+        value: '*tri'
+    - _attributes:
+        name: ampeg_release
+        value: '1'
+region:
+  - opcode:
+      - _attributes:
           name: pan
           value: '-100'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: polyphony_stealing
           value: '1'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: polyphony_group
           value: '1'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: polyphony
           value: '8'
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
+  - opcode:
+      - _attributes:
           name: pan
           value: '100'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: polyphony_stealing
           value: '0'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: polyphony_group
           value: '2'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: polyphony
           value: '8'
 

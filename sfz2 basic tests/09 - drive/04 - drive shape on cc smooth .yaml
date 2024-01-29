@@ -1,75 +1,45 @@
-elements:
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
-          name: sample
-          value: ..\..\samples\two tone.wav
-      - type: element
-        name: opcode
-        attributes:
-          name: loop_mode
-          value: loop_continuous
-      - type: element
-        name: opcode
-        attributes:
-          name: volume
-          value: '-6'
-      - type: element
-        name: opcode
-        attributes:
-          name: drive_filter
-          value: lpf_1p
-      - type: element
-        name: opcode
-        attributes:
-          name: drive_shape_oncc73
-          value: '100'
-      - type: element
-        name: opcode
-        attributes:
-          name: drive_shape_smoothcc73
-          value: '1'
-      - type: element
-        name: opcode
-        attributes:
-          name: drive_shape_oncc70
-          value: '100'
-      - type: element
-        name: opcode
-        attributes:
-          name: drive_shape_smoothcc70
-          value: '100'
-      - type: element
-        name: opcode
-        attributes:
-          name: drive_shape_oncc20
-          value: '100'
-      - type: element
-        name: opcode
-        attributes:
-          name: drive_shape_stepcc20
-          value: '-25'
-      - type: element
-        name: opcode
-        attributes:
-          name: drive_shape_oncc21
-          value: '100'
-      - type: element
-        name: opcode
-        attributes:
-          name: drive_shape_smoothcc21
-          value: '500'
-      - type: element
-        name: opcode
-        attributes:
-          name: drive_shape_oncc129
-          value: '100'
-      - type: element
-        name: opcode
-        attributes:
-          name: drive_shape_smoothcc129
-          value: '200'
+region:
+  opcode:
+    - _attributes:
+        name: sample
+        value: ..\..\samples\two tone.wav
+    - _attributes:
+        name: loop_mode
+        value: loop_continuous
+    - _attributes:
+        name: volume
+        value: '-6'
+    - _attributes:
+        name: drive_filter
+        value: lpf_1p
+    - _attributes:
+        name: drive_shape_oncc73
+        value: '100'
+    - _attributes:
+        name: drive_shape_smoothcc73
+        value: '1'
+    - _attributes:
+        name: drive_shape_oncc70
+        value: '100'
+    - _attributes:
+        name: drive_shape_smoothcc70
+        value: '100'
+    - _attributes:
+        name: drive_shape_oncc20
+        value: '100'
+    - _attributes:
+        name: drive_shape_stepcc20
+        value: '-25'
+    - _attributes:
+        name: drive_shape_oncc21
+        value: '100'
+    - _attributes:
+        name: drive_shape_smoothcc21
+        value: '500'
+    - _attributes:
+        name: drive_shape_oncc129
+        value: '100'
+    - _attributes:
+        name: drive_shape_smoothcc129
+        value: '200'
 

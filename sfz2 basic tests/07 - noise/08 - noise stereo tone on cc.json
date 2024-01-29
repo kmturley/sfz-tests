@@ -1,66 +1,48 @@
 {
-  "elements": [
-    {
-      "type": "element",
-      "name": "region",
-      "elements": [
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "sample",
-            "value": "..\\..\\samples\\stereo silence.wav"
-          }
-        },
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "amp_veltrack",
-            "value": "0"
-          }
-        },
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "noise_filter",
-            "value": "lpf_1p"
-          }
-        },
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "noise_level",
-            "value": "0"
-          }
-        },
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "noise_step",
-            "value": "0"
-          }
-        },
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "noise_tone",
-            "value": "0"
-          }
-        },
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "noise_tone_oncc73",
-            "value": "100"
-          }
+  "region": {
+    "opcode": [
+      {
+        "_attributes": {
+          "name": "sample",
+          "value": "..\\..\\samples\\stereo silence.wav"
         }
-      ]
-    }
-  ]
+      },
+      {
+        "_attributes": {
+          "name": "amp_veltrack",
+          "value": "0"
+        }
+      },
+      {
+        "_attributes": {
+          "name": "noise_filter",
+          "value": "lpf_1p"
+        }
+      },
+      {
+        "_attributes": {
+          "name": "noise_level",
+          "value": "0"
+        }
+      },
+      {
+        "_attributes": {
+          "name": "noise_step",
+          "value": "0"
+        }
+      },
+      {
+        "_attributes": {
+          "name": "noise_tone",
+          "value": "0"
+        }
+      },
+      {
+        "_attributes": {
+          "name": "noise_tone_oncc73",
+          "value": "100"
+        }
+      }
+    ]
+  }
 }

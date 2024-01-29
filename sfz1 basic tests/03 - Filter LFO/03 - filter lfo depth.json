@@ -1,58 +1,42 @@
 {
-  "elements": [
-    {
-      "type": "element",
-      "name": "region",
-      "elements": [
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "sample",
-            "value": "..\\..\\samples\\noise.wav"
-          }
-        },
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "loopmode",
-            "value": "loop_continuous"
-          }
-        },
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "fillfo_freq",
-            "value": "1"
-          }
-        },
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "fillfo_depth",
-            "value": "2100"
-          }
-        },
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "cutoff",
-            "value": "500"
-          }
-        },
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "resonance",
-            "value": "20"
-          }
+  "region": {
+    "opcode": [
+      {
+        "_attributes": {
+          "name": "sample",
+          "value": "..\\..\\samples\\noise.wav"
         }
-      ]
-    }
-  ]
+      },
+      {
+        "_attributes": {
+          "name": "loopmode",
+          "value": "loop_continuous"
+        }
+      },
+      {
+        "_attributes": {
+          "name": "fillfo_freq",
+          "value": "1"
+        }
+      },
+      {
+        "_attributes": {
+          "name": "fillfo_depth",
+          "value": "2100"
+        }
+      },
+      {
+        "_attributes": {
+          "name": "cutoff",
+          "value": "500"
+        }
+      },
+      {
+        "_attributes": {
+          "name": "resonance",
+          "value": "20"
+        }
+      }
+    ]
+  }
 }

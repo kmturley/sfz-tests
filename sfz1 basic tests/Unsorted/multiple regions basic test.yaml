@@ -1,106 +1,62 @@
-elements:
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
+region:
+  - opcode:
+      - _attributes:
           name: sample
           value: ..\..\samples\440.wav
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: tune
           value: '0'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: transpose
           value: '-36'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: volume
           value: '-6'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: pan
           value: '-100'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: offset
           value: '1000'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: cutoff
           value: '1000'
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
+  - opcode:
+      - _attributes:
           name: lokey
           value: '0'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: hikey
           value: '64'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: sample
           value: ..\..\samples\440.wav
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: tune
           value: '0'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: transpose
           value: '-24'
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
+  - opcode:
+      - _attributes:
           name: lokey
           value: '0'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: hikey
           value: '64'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: lovel
           value: '64'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: hivel
           value: '127'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: sample
           value: ..\..\samples\440.wav
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: tune
           value: '0'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: transpose
           value: '-12'
 

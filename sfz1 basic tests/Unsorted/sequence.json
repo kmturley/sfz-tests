@@ -1,61 +1,45 @@
 {
-  "elements": [
+  "region": [
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\440.wav"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopstart",
             "value": "12629"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopend",
             "value": "56728"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopmode",
             "value": "loop_continuous"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "seq_position",
             "value": "1"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "seq_length",
             "value": "3"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "hikey",
             "value": "60"
           }
@@ -63,69 +47,51 @@
       ]
     },
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\440.wav"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopstart",
             "value": "12629"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopend",
             "value": "56728"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopmode",
             "value": "loop_continuous"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "transpose",
             "value": "2"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "seq_position",
             "value": "2"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "seq_length",
             "value": "3"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "hikey",
             "value": "60"
           }
@@ -133,69 +99,51 @@
       ]
     },
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\440.wav"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopstart",
             "value": "12629"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopend",
             "value": "56728"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopmode",
             "value": "loop_continuous"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "transpose",
             "value": "4"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "seq_position",
             "value": "3"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "seq_length",
             "value": "3"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "hikey",
             "value": "60"
           }
@@ -203,61 +151,45 @@
       ]
     },
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\440.wav"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopstart",
             "value": "12629"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopend",
             "value": "56728"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopmode",
             "value": "loop_continuous"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "seq_position",
             "value": "1"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "seq_length",
             "value": "3"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "lokey",
             "value": "61"
           }
@@ -265,69 +197,51 @@
       ]
     },
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\440.wav"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopstart",
             "value": "12629"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopend",
             "value": "56728"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopmode",
             "value": "loop_continuous"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "transpose",
             "value": "2"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "seq_position",
             "value": "2"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "seq_length",
             "value": "3"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "lokey",
             "value": "61"
           }
@@ -335,69 +249,51 @@
       ]
     },
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\440.wav"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopstart",
             "value": "12629"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopend",
             "value": "56728"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loopmode",
             "value": "loop_continuous"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "transpose",
             "value": "4"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "seq_position",
             "value": "3"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "seq_length",
             "value": "3"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "lokey",
             "value": "61"
           }

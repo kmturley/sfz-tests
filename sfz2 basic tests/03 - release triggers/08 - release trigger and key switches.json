@@ -1,89 +1,73 @@
 {
-  "elements": [
-    {
-      "type": "element",
-      "name": "global",
-      "elements": [
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "sw_lokey",
-            "value": "0"
-          }
-        },
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "sw_hikey",
-            "value": "11"
-          }
-        },
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "sw_default",
-            "value": "0"
-          }
-        },
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "lokey",
-            "value": "12"
-          }
+  "global": {
+    "opcode": [
+      {
+        "_attributes": {
+          "name": "sw_lokey",
+          "value": "0"
         }
-      ]
+      },
+      {
+        "_attributes": {
+          "name": "sw_hikey",
+          "value": "11"
+        }
+      },
+      {
+        "_attributes": {
+          "name": "sw_default",
+          "value": "0"
+        }
+      },
+      {
+        "_attributes": {
+          "name": "lokey",
+          "value": "12"
+        }
+      }
+    ]
+  },
+  "group": [
+    {
+      "opcode": {
+        "_attributes": {
+          "name": "sw_last",
+          "value": "0"
+        }
+      }
     },
     {
-      "type": "element",
-      "name": "group",
-      "elements": [
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "sw_last",
-            "value": "0"
-          }
+      "opcode": {
+        "_attributes": {
+          "name": "sw_last",
+          "value": "1"
         }
-      ]
-    },
+      }
+    }
+  ],
+  "region": [
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\110.wav"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loop_start",
             "value": "10825"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loop_end",
             "value": "32473"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loop_mode",
             "value": "loop_continuous"
           }
@@ -91,61 +75,45 @@
       ]
     },
     {
-      "type": "element",
-      "name": "region",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\440.wav"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loop_start",
             "value": "12629"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loop_end",
             "value": "56728"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loop_mode",
             "value": "loop_continuous"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "trigger",
             "value": "release"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "ampeg_sustain",
             "value": "0"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "ampeg_decay",
             "value": "1"
           }
@@ -153,59 +121,33 @@
       ]
     },
     {
-      "type": "element",
-      "name": "group",
-      "elements": [
+      "opcode": [
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
-            "name": "sw_last",
-            "value": "1"
-          }
-        }
-      ]
-    },
-    {
-      "type": "element",
-      "name": "region",
-      "elements": [
-        {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\440.wav"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loop_start",
             "value": "12629"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loop_end",
             "value": "56728"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "loop_mode",
             "value": "loop_continuous"
           }
         },
         {
-          "type": "element",
-          "name": "opcode",
-          "attributes": {
+          "_attributes": {
             "name": "end",
             "value": "-1"
           }

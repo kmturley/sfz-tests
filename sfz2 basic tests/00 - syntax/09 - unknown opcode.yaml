@@ -1,20 +1,12 @@
-elements:
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
-          name: sample
-          value: ..\..\samples\440.wav
-      - type: element
-        name: opcode
-        attributes:
-          name: engine_color
-          value: organic
-      - type: element
-        name: opcode
-        attributes:
-          name: engine_tone
-          value: warm
+region:
+  opcode:
+    - _attributes:
+        name: sample
+        value: ..\..\samples\440.wav
+    - _attributes:
+        name: engine_color
+        value: organic
+    - _attributes:
+        name: engine_tone
+        value: warm
 

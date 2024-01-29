@@ -1,48 +1,28 @@
-elements:
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
+region:
+  - opcode:
+      - _attributes:
           name: sample
           value: ..\..\samples\440.wav
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: lokey
           value: '0'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: hikey
           value: '59'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: amp_veltrack
           value: '0'
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
+  - opcode:
+      - _attributes:
           name: sample
           value: ..\..\samples\440.wav
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: lokey
           value: '60'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: hikey
           value: '127'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: amp_veltrack
           value: '-100'
 

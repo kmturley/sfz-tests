@@ -1,230 +1,134 @@
-elements:
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
+region:
+  - opcode:
+      - _attributes:
           name: locc20
           value: '0'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: hicc20
           value: '20'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: sample
           value: ..\..\samples\noise.wav
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: loopmode
           value: loop_continuous
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: eq1_freq
           value: '1000'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: eq1_bw
           value: '0.3'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: eq1_gain
           value: '-12'
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
+  - opcode:
+      - _attributes:
           name: locc20
           value: '21'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: hicc20
           value: '40'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: sample
           value: ..\..\samples\noise.wav
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: loopmode
           value: loop_continuous
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: eq1_freq
           value: '1000'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: eq1_bw
           value: '0.3'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: eq1_gain
           value: '-6'
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
+  - opcode:
+      - _attributes:
           name: locc20
           value: '41'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: hicc20
           value: '60'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: sample
           value: ..\..\samples\noise.wav
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: loopmode
           value: loop_continuous
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: eq1_freq
           value: '1000'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: eq1_bw
           value: '0.3'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: eq1_gain
           value: '0'
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
+  - opcode:
+      - _attributes:
           name: locc20
           value: '61'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: hicc20
           value: '80'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: sample
           value: ..\..\samples\noise.wav
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: loopmode
           value: loop_continuous
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: eq1_freq
           value: '1000'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: eq1_bw
           value: '0.3'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: eq1_gain
           value: '6'
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
+  - opcode:
+      - _attributes:
           name: locc20
           value: '81'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: hicc20
           value: '100'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: sample
           value: ..\..\samples\noise.wav
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: loopmode
           value: loop_continuous
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: eq1_freq
           value: '1000'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: eq1_bw
           value: '0.3'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: eq1_gain
           value: '12'
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
+  - opcode:
+      - _attributes:
           name: locc20
           value: '101'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: hicc20
           value: '127'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: sample
           value: ..\..\samples\noise.wav
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: loopmode
           value: loop_continuous
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: eq1_freq
           value: '1000'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: eq1_bw
           value: '0.3'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: eq1_gain
           value: '18'
 

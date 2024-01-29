@@ -1,50 +1,30 @@
-elements:
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
-          name: sample
-          value: '*sine'
-      - type: element
-        name: opcode
-        attributes:
-          name: pitcheg_delay
-          value: '0.5'
-      - type: element
-        name: opcode
-        attributes:
-          name: pitcheg_attack
-          value: '1'
-      - type: element
-        name: opcode
-        attributes:
-          name: pitcheg_hold
-          value: '0.5'
-      - type: element
-        name: opcode
-        attributes:
-          name: pitcheg_decay
-          value: '0.5'
-      - type: element
-        name: opcode
-        attributes:
-          name: pitcheg_sustain
-          value: '50'
-      - type: element
-        name: opcode
-        attributes:
-          name: pitcheg_release
-          value: '0.5'
-      - type: element
-        name: opcode
-        attributes:
-          name: pitcheg_depth
-          value: '2400'
-      - type: element
-        name: opcode
-        attributes:
-          name: ampeg_release
-          value: '2'
+region:
+  opcode:
+    - _attributes:
+        name: sample
+        value: '*sine'
+    - _attributes:
+        name: pitcheg_delay
+        value: '0.5'
+    - _attributes:
+        name: pitcheg_attack
+        value: '1'
+    - _attributes:
+        name: pitcheg_hold
+        value: '0.5'
+    - _attributes:
+        name: pitcheg_decay
+        value: '0.5'
+    - _attributes:
+        name: pitcheg_sustain
+        value: '50'
+    - _attributes:
+        name: pitcheg_release
+        value: '0.5'
+    - _attributes:
+        name: pitcheg_depth
+        value: '2400'
+    - _attributes:
+        name: ampeg_release
+        value: '2'
 

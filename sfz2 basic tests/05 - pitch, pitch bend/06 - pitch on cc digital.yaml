@@ -1,73 +1,44 @@
-elements:
-  - type: element
-    name: group
-    elements:
-      - type: element
-        name: opcode
-        attributes:
-          name: sample
-          value: ..\..\samples\440.wav
-      - type: element
-        name: opcode
-        attributes:
-          name: loop_start
-          value: '12629'
-      - type: element
-        name: opcode
-        attributes:
-          name: loop_end
-          value: '56728'
-      - type: element
-        name: opcode
-        attributes:
-          name: loop_mode
-          value: loop_continuous
-      - type: element
-        name: opcode
-        attributes:
-          name: bend_up
-          value: '0'
-      - type: element
-        name: opcode
-        attributes:
-          name: bend_down
-          value: '0'
-  - type: element
-    name: region
-  - type: element
-    name: region
-    elements:
-      - type: element
-        name: opcode
-        attributes:
+group:
+  opcode:
+    - _attributes:
+        name: sample
+        value: ..\..\samples\440.wav
+    - _attributes:
+        name: loop_start
+        value: '12629'
+    - _attributes:
+        name: loop_end
+        value: '56728'
+    - _attributes:
+        name: loop_mode
+        value: loop_continuous
+    - _attributes:
+        name: bend_up
+        value: '0'
+    - _attributes:
+        name: bend_down
+        value: '0'
+region:
+  - {}
+  - opcode:
+      - _attributes:
           name: pitch_oncc73
           value: '1200'
-      - type: element
-        name: opcode
-        attributes:
+      - _attributes:
           name: pitch_curvecc73
           value: '7'
-  - type: element
-    name: curve
-    elements:
-      - type: element
-        name: opcode
-        attributes:
-          name: v000
-          value: '-1'
-      - type: element
-        name: opcode
-        attributes:
-          name: v064
-          value: '-1'
-      - type: element
-        name: opcode
-        attributes:
-          name: v065
-          value: '1'
-      - type: element
-        name: opcode
-        attributes:
-          name: v127
-          value: '1'
+curve:
+  opcode:
+    - _attributes:
+        name: v000
+        value: '-1'
+    - _attributes:
+        name: v064
+        value: '-1'
+    - _attributes:
+        name: v065
+        value: '1'
+    - _attributes:
+        name: v127
+        value: '1'
 
