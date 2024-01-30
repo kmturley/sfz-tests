@@ -1,20 +1,22 @@
 {
-  "group": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "bend_up",
-          "value": "0"
+  "group": [
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "bend_up",
+            "value": "0"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "bend_down",
+            "value": "0"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "bend_down",
-          "value": "0"
-        }
-      }
-    ]
-  },
+      ]
+    }
+  ],
   "region": [
     {
       "opcode": [

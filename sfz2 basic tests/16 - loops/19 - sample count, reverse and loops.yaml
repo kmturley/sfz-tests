@@ -1,12 +1,12 @@
 region:
-  opcode:
-    - _attributes:
-        name: sample
-        value: ..\..\samples\loop tests - three loops overlap.wav
-    - _attributes:
-        name: count
-        value: '3'
-    - _attributes:
-        name: direction
-        value: reverse
+  - opcode:
+      - _attributes:
+          name: sample
+          value: ..\..\samples\loop tests - three loops overlap.wav
+      - _attributes:
+          name: count
+          value: '3'
+      - _attributes:
+          name: direction
+          value: reverse
 

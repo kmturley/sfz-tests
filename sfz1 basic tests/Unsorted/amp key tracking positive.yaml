@@ -1,15 +1,15 @@
 region:
-  opcode:
-    - _attributes:
-        name: sample
-        value: ..\..\samples\440.wav
-    - _attributes:
-        name: amp_keycenter
-        value: '60'
-    - _attributes:
-        name: amp_keytrack
-        value: '1'
-    - _attributes:
-        name: volume
-        value: '-10'
+  - opcode:
+      - _attributes:
+          name: sample
+          value: ..\..\samples\440.wav
+      - _attributes:
+          name: amp_keycenter
+          value: '60'
+      - _attributes:
+          name: amp_keytrack
+          value: '1'
+      - _attributes:
+          name: volume
+          value: '-10'
 

@@ -1,96 +1,98 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "..\\..\\samples\\mono silence.wav"
+  "region": [
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\mono silence.wav"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loop_mode",
+            "value": "loop_continuous"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "amp_veltrack",
+            "value": "0"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "noise_level",
+            "value": "0"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "noise_filter",
+            "value": "lpf_2p"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "noise_tone_oncc73",
+            "value": "100"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo01_freq",
+            "value": "2"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo01_noisetone_oncc70",
+            "value": "100"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo01_noisetone_smoothcc70",
+            "value": "100"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo01_noisetone_oncc20",
+            "value": "100"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo01_noisetone_stepcc20",
+            "value": "51"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo01_noisetone_oncc21",
+            "value": "100"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo01_noisetone_smoothcc21",
+            "value": "1000"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo01_noisetone_oncc129",
+            "value": "100"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo01_noisetone_smoothcc129",
+            "value": "500"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "loop_mode",
-          "value": "loop_continuous"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "amp_veltrack",
-          "value": "0"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "noise_level",
-          "value": "0"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "noise_filter",
-          "value": "lpf_2p"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "noise_tone_oncc73",
-          "value": "100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_freq",
-          "value": "2"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_noisetone_oncc70",
-          "value": "100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_noisetone_smoothcc70",
-          "value": "100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_noisetone_oncc20",
-          "value": "100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_noisetone_stepcc20",
-          "value": "51"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_noisetone_oncc21",
-          "value": "100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_noisetone_smoothcc21",
-          "value": "1000"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_noisetone_oncc129",
-          "value": "100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_noisetone_smoothcc129",
-          "value": "500"
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }

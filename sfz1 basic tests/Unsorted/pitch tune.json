@@ -23,12 +23,14 @@
       ]
     },
     {
-      "opcode": {
-        "_attributes": {
-          "name": "sample",
-          "value": "..\\..\\samples\\440.wav"
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\440.wav"
+          }
         }
-      }
+      ]
     }
   ]
 }

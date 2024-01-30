@@ -1,26 +1,32 @@
 {
-  "region": {
-    "opcode": {
-      "_attributes": {
-        "name": "sample",
-        "value": "..\\..\\samples\\440.wav"
-      }
+  "region": [
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\440.wav"
+          }
+        }
+      ]
     }
-  },
-  "effect": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "type",
-          "value": "delay"
+  ],
+  "effect": [
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "type",
+            "value": "delay"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "delay_hyperbolization",
+            "value": "high"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "delay_hyperbolization",
-          "value": "high"
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }

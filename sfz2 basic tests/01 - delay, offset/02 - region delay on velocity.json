@@ -1,48 +1,50 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "..\\..\\samples\\440.wav"
+  "region": [
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\440.wav"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loop_start",
+            "value": "12629"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loop_end",
+            "value": "56728"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loop_mode",
+            "value": "loop_continuous"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "delay",
+            "value": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "delay_oncc131",
+            "value": "-2"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "amp_veltrack",
+            "value": "0"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "loop_start",
-          "value": "12629"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "loop_end",
-          "value": "56728"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "loop_mode",
-          "value": "loop_continuous"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "delay",
-          "value": "1"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "delay_oncc131",
-          "value": "-2"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "amp_veltrack",
-          "value": "0"
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }

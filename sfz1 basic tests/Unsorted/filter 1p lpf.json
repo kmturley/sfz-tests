@@ -1,48 +1,50 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "..\\..\\samples\\noise.wav"
+  "region": [
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\noise.wav"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loopmode",
+            "value": "loop_continuous"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "filtype",
+            "value": "lpf_1p"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "cutoff",
+            "value": "1000"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "cutoff_cc1",
+            "value": "12000"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "resonance",
+            "value": "3"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "cutoff_chanaft",
+            "value": "-4000"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "loopmode",
-          "value": "loop_continuous"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "filtype",
-          "value": "lpf_1p"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "cutoff",
-          "value": "1000"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "cutoff_cc1",
-          "value": "12000"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "resonance",
-          "value": "3"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "cutoff_chanaft",
-          "value": "-4000"
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }

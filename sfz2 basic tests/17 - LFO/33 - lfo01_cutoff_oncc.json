@@ -1,96 +1,98 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "..\\..\\samples\\noise.wav"
+  "region": [
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\noise.wav"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loop_mode",
+            "value": "loop_continuous"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "cutoff",
+            "value": "1000"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "resonance",
+            "value": "10"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "amp_veltrack",
+            "value": "0"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo01_freq",
+            "value": "2"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo01_cutoff_oncc73",
+            "value": "4800"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo01_cutoff_oncc70",
+            "value": "4800"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo01_cutoff_smoothcc70",
+            "value": "100"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo01_cutoff_oncc20",
+            "value": "4800"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo01_cutoff_stepcc20",
+            "value": "1200"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo01_cutoff_oncc21",
+            "value": "4800"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo01_cutoff_smoothcc21",
+            "value": "1000"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo01_cutoff_oncc129",
+            "value": "4800"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo01_cutoff_smoothcc129",
+            "value": "500"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "loop_mode",
-          "value": "loop_continuous"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "cutoff",
-          "value": "1000"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "resonance",
-          "value": "10"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "amp_veltrack",
-          "value": "0"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_freq",
-          "value": "2"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_cutoff_oncc73",
-          "value": "4800"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_cutoff_oncc70",
-          "value": "4800"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_cutoff_smoothcc70",
-          "value": "100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_cutoff_oncc20",
-          "value": "4800"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_cutoff_stepcc20",
-          "value": "1200"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_cutoff_oncc21",
-          "value": "4800"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_cutoff_smoothcc21",
-          "value": "1000"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_cutoff_oncc129",
-          "value": "4800"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_cutoff_smoothcc129",
-          "value": "500"
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }

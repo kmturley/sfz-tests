@@ -1,12 +1,12 @@
 region:
-  opcode:
-    - _attributes:
-        name: sample
-        value: ..\..\samples\bd.wav
-    - _attributes:
-        name: direction
-        value: reverse
-    - _attributes:
-        name: offset
-        value: '24307'
+  - opcode:
+      - _attributes:
+          name: sample
+          value: ..\..\samples\bd.wav
+      - _attributes:
+          name: direction
+          value: reverse
+      - _attributes:
+          name: offset
+          value: '24307'
 

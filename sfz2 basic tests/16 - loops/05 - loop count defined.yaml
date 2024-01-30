@@ -1,12 +1,12 @@
 region:
-  opcode:
-    - _attributes:
-        name: sample
-        value: ..\..\samples\bd.wav
-    - _attributes:
-        name: loop_count
-        value: '3'
-    - _attributes:
-        name: loop_mode
-        value: loop_continuous
+  - opcode:
+      - _attributes:
+          name: sample
+          value: ..\..\samples\bd.wav
+      - _attributes:
+          name: loop_count
+          value: '3'
+      - _attributes:
+          name: loop_mode
+          value: loop_continuous
 

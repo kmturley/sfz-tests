@@ -14,8 +14,8 @@ region:
           name: key
           value: c4
 control:
-  opcode:
-    _attributes:
-      name: octave_offset
-      value: '-1'
+  - opcode:
+      - _attributes:
+          name: octave_offset
+          value: '-1'
 

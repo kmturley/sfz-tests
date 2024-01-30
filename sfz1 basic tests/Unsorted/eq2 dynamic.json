@@ -1,42 +1,44 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "..\\..\\samples\\noise.wav"
+  "region": [
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\noise.wav"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loopmode",
+            "value": "loop_continuous"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eq2_freq",
+            "value": "200"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eq2_freqcc20",
+            "value": "4000"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eq2_bwcc21",
+            "value": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eq2_gaincc22",
+            "value": "24"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "loopmode",
-          "value": "loop_continuous"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eq2_freq",
-          "value": "200"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eq2_freqcc20",
-          "value": "4000"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eq2_bwcc21",
-          "value": "1"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eq2_gaincc22",
-          "value": "24"
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }

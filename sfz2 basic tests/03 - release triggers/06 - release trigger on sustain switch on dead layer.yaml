@@ -1,8 +1,8 @@
 region:
   - opcode:
-      _attributes:
-        name: sample
-        value: ..\..\samples\440.wav
+      - _attributes:
+          name: sample
+          value: ..\..\samples\440.wav
   - opcode:
       - _attributes:
           name: sample

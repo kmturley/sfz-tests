@@ -1,24 +1,26 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "..\\..\\samples\\440.wav"
+  "region": [
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\440.wav"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "amp_velcurve_20",
+            "value": "0.5"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "amp_velcurve_90",
+            "value": "0.85"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "amp_velcurve_20",
-          "value": "0.5"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "amp_velcurve_90",
-          "value": "0.85"
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }

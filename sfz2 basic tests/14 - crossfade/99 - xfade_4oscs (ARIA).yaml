@@ -1,8 +1,8 @@
 group:
-  opcode:
-    _attributes:
-      name: xf_cccurve
-      value: gain
+  - opcode:
+      - _attributes:
+          name: xf_cccurve
+          value: gain
 region:
   - opcode:
       - _attributes:

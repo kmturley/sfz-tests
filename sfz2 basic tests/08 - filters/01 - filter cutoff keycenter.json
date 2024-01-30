@@ -1,72 +1,78 @@
 {
-  "group": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "..\\..\\samples\\noise.wav"
+  "group": [
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\noise.wav"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loop_mode",
+            "value": "loop_continuous"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "pitch_keytrack",
+            "value": "0"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "cutoff",
+            "value": "400"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "resonance",
+            "value": "30"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "fil_keytrack",
+            "value": "100"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "amp_veltrack",
+            "value": "0"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "volume",
+            "value": "-6"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "loop_mode",
-          "value": "loop_continuous"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "pitch_keytrack",
-          "value": "0"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "cutoff",
-          "value": "400"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "resonance",
-          "value": "30"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "fil_keytrack",
-          "value": "100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "amp_veltrack",
-          "value": "0"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "volume",
-          "value": "-6"
-        }
-      }
-    ]
-  },
+      ]
+    }
+  ],
   "region": [
     {
-      "opcode": {
-        "_attributes": {
-          "name": "fil_keycenter",
-          "value": "48"
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "fil_keycenter",
+            "value": "48"
+          }
         }
-      }
+      ]
     },
     {
-      "opcode": {
-        "_attributes": {
-          "name": "fil_keycenter",
-          "value": "72"
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "fil_keycenter",
+            "value": "72"
+          }
         }
-      }
+      ]
     }
   ]
 }

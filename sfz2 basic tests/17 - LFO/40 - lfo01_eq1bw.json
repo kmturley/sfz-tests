@@ -1,60 +1,62 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "..\\..\\samples\\noise.wav"
+  "region": [
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\noise.wav"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loop_mode",
+            "value": "loop_continuous"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "volume",
+            "value": "-6"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "amp_veltrack",
+            "value": "0"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "amp_veltrack",
+            "value": "0"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eq1_gain",
+            "value": "12"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eq1_freq",
+            "value": "2000"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo01_freq",
+            "value": "2"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo01_eq1bw",
+            "value": "4"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "loop_mode",
-          "value": "loop_continuous"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "volume",
-          "value": "-6"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "amp_veltrack",
-          "value": "0"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "amp_veltrack",
-          "value": "0"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eq1_gain",
-          "value": "12"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eq1_freq",
-          "value": "2000"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_freq",
-          "value": "2"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_eq1bw",
-          "value": "4"
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }

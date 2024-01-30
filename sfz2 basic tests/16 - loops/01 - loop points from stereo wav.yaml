@@ -1,6 +1,6 @@
 region:
-  opcode:
-    _attributes:
-      name: sample
-      value: ..\..\samples\stereo looped 1k.wav
+  - opcode:
+      - _attributes:
+          name: sample
+          value: ..\..\samples\stereo looped 1k.wav
 

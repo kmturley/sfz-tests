@@ -1,54 +1,56 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "..\\..\\samples\\440.wav"
+  "region": [
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\440.wav"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loopstart",
+            "value": "12629"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loopend",
+            "value": "56728"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loopmode",
+            "value": "loop_continuous"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "amplfo_delay",
+            "value": "0.5"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "amplfo_freq",
+            "value": "5"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "amplfo_depth",
+            "value": "3"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "volume",
+            "value": "-10"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "loopstart",
-          "value": "12629"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "loopend",
-          "value": "56728"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "loopmode",
-          "value": "loop_continuous"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "amplfo_delay",
-          "value": "0.5"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "amplfo_freq",
-          "value": "5"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "amplfo_depth",
-          "value": "3"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "volume",
-          "value": "-10"
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }

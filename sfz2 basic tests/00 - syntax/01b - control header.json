@@ -33,12 +33,16 @@
       ]
     }
   ],
-  "control": {
-    "opcode": {
-      "_attributes": {
-        "name": "octave_offset",
-        "value": "-1"
-      }
+  "control": [
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "octave_offset",
+            "value": "-1"
+          }
+        }
+      ]
     }
-  }
+  ]
 }

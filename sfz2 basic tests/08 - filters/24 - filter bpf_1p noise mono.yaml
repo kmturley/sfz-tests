@@ -1,27 +1,27 @@
 region:
-  opcode:
-    - _attributes:
-        name: sample
-        value: ..\..\samples\noise mono.wav
-    - _attributes:
-        name: loop_mode
-        value: loop_continuous
-    - _attributes:
-        name: pitch_keytrack
-        value: '0'
-    - _attributes:
-        name: fil_type
-        value: bpf_1p
-    - _attributes:
-        name: volume
-        value: '6'
-    - _attributes:
-        name: cutoff
-        value: '1000'
-    - _attributes:
-        name: cutoff_oncc1
-        value: '8000'
-    - _attributes:
-        name: cutoff_chanaft
-        value: '-8000'
+  - opcode:
+      - _attributes:
+          name: sample
+          value: ..\..\samples\noise mono.wav
+      - _attributes:
+          name: loop_mode
+          value: loop_continuous
+      - _attributes:
+          name: pitch_keytrack
+          value: '0'
+      - _attributes:
+          name: fil_type
+          value: bpf_1p
+      - _attributes:
+          name: volume
+          value: '6'
+      - _attributes:
+          name: cutoff
+          value: '1000'
+      - _attributes:
+          name: cutoff_oncc1
+          value: '8000'
+      - _attributes:
+          name: cutoff_chanaft
+          value: '-8000'
 

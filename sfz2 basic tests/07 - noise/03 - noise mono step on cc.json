@@ -1,102 +1,104 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "..\\..\\samples\\mono silence.wav"
+  "region": [
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\mono silence.wav"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "amp_veltrack",
+            "value": "0"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "noise_filter",
+            "value": "pink"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "noise_level",
+            "value": "0"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "noise_step",
+            "value": "0"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "noise_tone",
+            "value": "100"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "noise_step_oncc73",
+            "value": "100"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "noise_step_smoothcc73",
+            "value": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "noise_step_oncc70",
+            "value": "100"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "noise_step_smoothcc70",
+            "value": "100"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "noise_step_oncc20",
+            "value": "100"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "noise_step_stepcc20",
+            "value": "24"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "noise_step_oncc21",
+            "value": "100"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "noise_step_smoothcc21",
+            "value": "500"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "noise_step_oncc129",
+            "value": "100"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "noise_step_smoothcc129",
+            "value": "200"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "amp_veltrack",
-          "value": "0"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "noise_filter",
-          "value": "pink"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "noise_level",
-          "value": "0"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "noise_step",
-          "value": "0"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "noise_tone",
-          "value": "100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "noise_step_oncc73",
-          "value": "100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "noise_step_smoothcc73",
-          "value": "1"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "noise_step_oncc70",
-          "value": "100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "noise_step_smoothcc70",
-          "value": "100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "noise_step_oncc20",
-          "value": "100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "noise_step_stepcc20",
-          "value": "24"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "noise_step_oncc21",
-          "value": "100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "noise_step_smoothcc21",
-          "value": "500"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "noise_step_oncc129",
-          "value": "100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "noise_step_smoothcc129",
-          "value": "200"
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }

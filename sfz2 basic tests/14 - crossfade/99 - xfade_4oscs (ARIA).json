@@ -1,12 +1,16 @@
 {
-  "group": {
-    "opcode": {
-      "_attributes": {
-        "name": "xf_cccurve",
-        "value": "gain"
-      }
+  "group": [
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "xf_cccurve",
+            "value": "gain"
+          }
+        }
+      ]
     }
-  },
+  ],
   "region": [
     {
       "opcode": [

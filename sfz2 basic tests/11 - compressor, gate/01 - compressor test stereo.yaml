@@ -1,21 +1,21 @@
 region:
-  opcode:
-    - _attributes:
-        name: sample
-        value: ..\..\samples\compressor test stereo.wav
-    - _attributes:
-        name: loop_mode
-        value: loop_continuous
-    - _attributes:
-        name: comp_threshold
-        value: '-6'
-    - _attributes:
-        name: comp_ratio
-        value: '50'
-    - _attributes:
-        name: comp_attack
-        value: '.05'
-    - _attributes:
-        name: comp_release
-        value: '.05'
+  - opcode:
+      - _attributes:
+          name: sample
+          value: ..\..\samples\compressor test stereo.wav
+      - _attributes:
+          name: loop_mode
+          value: loop_continuous
+      - _attributes:
+          name: comp_threshold
+          value: '-6'
+      - _attributes:
+          name: comp_ratio
+          value: '50'
+      - _attributes:
+          name: comp_attack
+          value: '.05'
+      - _attributes:
+          name: comp_release
+          value: '.05'
 

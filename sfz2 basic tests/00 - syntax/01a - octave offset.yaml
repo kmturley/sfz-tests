@@ -1,22 +1,22 @@
 control:
-  opcode:
-    _attributes:
-      name: octave_offset
-      value: '-1'
+  - opcode:
+      - _attributes:
+          name: octave_offset
+          value: '-1'
 group:
-  opcode:
-    - _attributes:
-        name: sample
-        value: ..\..\samples\440.wav
-    - _attributes:
-        name: loop_start
-        value: '12629'
-    - _attributes:
-        name: loop_end
-        value: '56728'
-    - _attributes:
-        name: loop_mode
-        value: loop_continuous
+  - opcode:
+      - _attributes:
+          name: sample
+          value: ..\..\samples\440.wav
+      - _attributes:
+          name: loop_start
+          value: '12629'
+      - _attributes:
+          name: loop_end
+          value: '56728'
+      - _attributes:
+          name: loop_mode
+          value: loop_continuous
 region:
   - opcode:
       - _attributes:

@@ -1,18 +1,20 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "..\\..\\samples\\bd.wav"
+  "region": [
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\bd.wav"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "count",
+            "value": "3"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "count",
-          "value": "3"
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }

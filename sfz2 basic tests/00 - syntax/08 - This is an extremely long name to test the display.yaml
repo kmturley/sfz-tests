@@ -1,9 +1,9 @@
 region:
-  opcode:
-    - _attributes:
-        name: sample
-        value: ..\..\samples\440.wav
-    - _attributes:
-        name: loop_mode
-        value: loop_continuous
+  - opcode:
+      - _attributes:
+          name: sample
+          value: ..\..\samples\440.wav
+      - _attributes:
+          name: loop_mode
+          value: loop_continuous
 

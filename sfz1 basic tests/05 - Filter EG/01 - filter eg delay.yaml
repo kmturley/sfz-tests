@@ -1,24 +1,24 @@
 region:
-  opcode:
-    - _attributes:
-        name: sample
-        value: ..\..\samples\noise.wav
-    - _attributes:
-        name: cutoff
-        value: '250'
-    - _attributes:
-        name: resonance
-        value: '40'
-    - _attributes:
-        name: volume
-        value: '-6'
-    - _attributes:
-        name: loop_mode
-        value: loop_continuous
-    - _attributes:
-        name: fileg_delay
-        value: '0.5'
-    - _attributes:
-        name: fileg_depth
-        value: '1200'
+  - opcode:
+      - _attributes:
+          name: sample
+          value: ..\..\samples\noise.wav
+      - _attributes:
+          name: cutoff
+          value: '250'
+      - _attributes:
+          name: resonance
+          value: '40'
+      - _attributes:
+          name: volume
+          value: '-6'
+      - _attributes:
+          name: loop_mode
+          value: loop_continuous
+      - _attributes:
+          name: fileg_delay
+          value: '0.5'
+      - _attributes:
+          name: fileg_depth
+          value: '1200'
 

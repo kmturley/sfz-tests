@@ -1,48 +1,50 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "..\\..\\samples\\noise stereo.wav"
+  "region": [
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\noise stereo.wav"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loop_mode",
+            "value": "loop_continuous"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "pitch_keytrack",
+            "value": "0"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "fil_type",
+            "value": "lpf_1p"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "cutoff",
+            "value": "1000"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "cutoff_oncc1",
+            "value": "8000"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "cutoff_chanaft",
+            "value": "-8000"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "loop_mode",
-          "value": "loop_continuous"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "pitch_keytrack",
-          "value": "0"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "fil_type",
-          "value": "lpf_1p"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "cutoff",
-          "value": "1000"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "cutoff_oncc1",
-          "value": "8000"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "cutoff_chanaft",
-          "value": "-8000"
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }

@@ -1,12 +1,12 @@
 region:
-  opcode:
-    - _attributes:
-        name: sample
-        value: ..\..\samples\loop.wav
-    - _attributes:
-        name: sync_beats
-        value: '4'
-    - _attributes:
-        name: sync_offset
-        value: '1'
+  - opcode:
+      - _attributes:
+          name: sample
+          value: ..\..\samples\loop.wav
+      - _attributes:
+          name: sync_beats
+          value: '4'
+      - _attributes:
+          name: sync_offset
+          value: '1'
 

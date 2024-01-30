@@ -1,96 +1,98 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "..\\..\\samples\\440.wav"
+  "region": [
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\440.wav"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loop_mode",
+            "value": "loop_continuous"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loop_start",
+            "value": "12629"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loop_end",
+            "value": "56728"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "volume",
+            "value": "-12"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo01_freq",
+            "value": "2"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo01_volume_oncc73",
+            "value": "12"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo01_volume_oncc70",
+            "value": "12"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo01_volume_smoothcc70",
+            "value": "100"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo01_volume_oncc20",
+            "value": "12"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo01_volume_stepcc20",
+            "value": "6.1"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo01_volume_oncc21",
+            "value": "12"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo01_volume_smoothcc21",
+            "value": "1000"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo01_volume_oncc129",
+            "value": "12"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo01_volume_smoothcc129",
+            "value": "500"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "loop_mode",
-          "value": "loop_continuous"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "loop_start",
-          "value": "12629"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "loop_end",
-          "value": "56728"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "volume",
-          "value": "-12"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_freq",
-          "value": "2"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_volume_oncc73",
-          "value": "12"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_volume_oncc70",
-          "value": "12"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_volume_smoothcc70",
-          "value": "100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_volume_oncc20",
-          "value": "12"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_volume_stepcc20",
-          "value": "6.1"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_volume_oncc21",
-          "value": "12"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_volume_smoothcc21",
-          "value": "1000"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_volume_oncc129",
-          "value": "12"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo01_volume_smoothcc129",
-          "value": "500"
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }

@@ -1,20 +1,22 @@
 {
-  "group": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "lokey",
-          "value": "-1"
+  "group": [
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "lokey",
+            "value": "-1"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "hikey",
+            "value": "-1"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "hikey",
-          "value": "-1"
-        }
-      }
-    ]
-  },
+      ]
+    }
+  ],
   "region": [
     {
       "opcode": [

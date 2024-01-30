@@ -1,54 +1,56 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "..\\..\\samples\\440.wav"
+  "region": [
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\440.wav"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loopstart",
+            "value": "12629"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loopend",
+            "value": "56728"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loopmode",
+            "value": "loop_continuous"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "pitcheg_delay",
+            "value": "0.5"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "pitcheg_attack",
+            "value": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "pitcheg_sustain",
+            "value": "100"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "pitcheg_depth",
+            "value": "1200"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "loopstart",
-          "value": "12629"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "loopend",
-          "value": "56728"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "loopmode",
-          "value": "loop_continuous"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "pitcheg_delay",
-          "value": "0.5"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "pitcheg_attack",
-          "value": "1"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "pitcheg_sustain",
-          "value": "100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "pitcheg_depth",
-          "value": "1200"
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }

@@ -1,32 +1,34 @@
 {
-  "group": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "sw_lokey",
-          "value": "48"
+  "group": [
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sw_lokey",
+            "value": "48"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "sw_hikey",
+            "value": "52"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "sw_default",
+            "value": "49"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lokey",
+            "value": "60"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "sw_hikey",
-          "value": "52"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "sw_default",
-          "value": "49"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lokey",
-          "value": "60"
-        }
-      }
-    ]
-  },
+      ]
+    }
+  ],
   "region": [
     {
       "opcode": [

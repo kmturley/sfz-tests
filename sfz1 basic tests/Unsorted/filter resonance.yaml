@@ -1,18 +1,18 @@
 region:
-  opcode:
-    - _attributes:
-        name: sample
-        value: ..\..\samples\noise.wav
-    - _attributes:
-        name: cutoff
-        value: '500'
-    - _attributes:
-        name: resonance
-        value: '40'
-    - _attributes:
-        name: volume
-        value: '-6'
-    - _attributes:
-        name: loopmode
-        value: loop_continuous
+  - opcode:
+      - _attributes:
+          name: sample
+          value: ..\..\samples\noise.wav
+      - _attributes:
+          name: cutoff
+          value: '500'
+      - _attributes:
+          name: resonance
+          value: '40'
+      - _attributes:
+          name: volume
+          value: '-6'
+      - _attributes:
+          name: loopmode
+          value: loop_continuous
 

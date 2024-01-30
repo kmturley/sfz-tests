@@ -1,74 +1,76 @@
 {
-  "group": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "*silence"
+  "group": [
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "*silence"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loop_start",
+            "value": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loop_end",
+            "value": "100"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loop_mode",
+            "value": "loop_continuous"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "noise_filter",
+            "value": "pink"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "noise_level",
+            "value": "10"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "noise_step",
+            "value": "0"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "noise_tone",
+            "value": "100"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "fil_type",
+            "value": "lpf_2p"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "cutoff_oncc150",
+            "value": "0"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "resonance",
+            "value": "96"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "loop_start",
-          "value": "1"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "loop_end",
-          "value": "100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "loop_mode",
-          "value": "loop_continuous"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "noise_filter",
-          "value": "pink"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "noise_level",
-          "value": "10"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "noise_step",
-          "value": "0"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "noise_tone",
-          "value": "100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "fil_type",
-          "value": "lpf_2p"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "cutoff_oncc150",
-          "value": "0"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "resonance",
-          "value": "96"
-        }
-      }
-    ]
-  },
+      ]
+    }
+  ],
   "region": [
     {
       "opcode": [
@@ -199,12 +201,16 @@
       ]
     }
   ],
-  "effect": {
-    "opcode": {
-      "_attributes": {
-        "name": "type",
-        "value": "limiter"
-      }
+  "effect": [
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "type",
+            "value": "limiter"
+          }
+        }
+      ]
     }
-  }
+  ]
 }

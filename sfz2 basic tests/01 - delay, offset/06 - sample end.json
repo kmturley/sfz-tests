@@ -1,18 +1,20 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "..\\..\\samples\\mono looped 1k.wav"
+  "region": [
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\mono looped 1k.wav"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "end",
+            "value": "1764"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "end",
-          "value": "1764"
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }

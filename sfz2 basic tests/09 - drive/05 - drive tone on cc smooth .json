@@ -1,96 +1,98 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "..\\..\\samples\\two tone.wav"
+  "region": [
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\two tone.wav"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loop_mode",
+            "value": "loop_continuous"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "drive_shape",
+            "value": "100"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "volume",
+            "value": "-6"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "drive_filter",
+            "value": "lpf_2p"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "drive_tone_oncc73",
+            "value": "-100"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "drive_tone_smoothcc73",
+            "value": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "drive_tone_oncc70",
+            "value": "-100"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "drive_tone_smoothcc70",
+            "value": "100"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "drive_tone_oncc20",
+            "value": "-100"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "drive_tone_stepcc20",
+            "value": "-25"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "drive_tone_oncc21",
+            "value": "-100"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "drive_tone_smoothcc21",
+            "value": "500"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "drive_tone_oncc129",
+            "value": "-100"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "drive_tone_smoothcc129",
+            "value": "200"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "loop_mode",
-          "value": "loop_continuous"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "drive_shape",
-          "value": "100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "volume",
-          "value": "-6"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "drive_filter",
-          "value": "lpf_2p"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "drive_tone_oncc73",
-          "value": "-100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "drive_tone_smoothcc73",
-          "value": "1"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "drive_tone_oncc70",
-          "value": "-100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "drive_tone_smoothcc70",
-          "value": "100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "drive_tone_oncc20",
-          "value": "-100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "drive_tone_stepcc20",
-          "value": "-25"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "drive_tone_oncc21",
-          "value": "-100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "drive_tone_smoothcc21",
-          "value": "500"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "drive_tone_oncc129",
-          "value": "-100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "drive_tone_smoothcc129",
-          "value": "200"
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }

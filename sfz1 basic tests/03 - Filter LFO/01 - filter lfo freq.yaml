@@ -1,21 +1,21 @@
 region:
-  opcode:
-    - _attributes:
-        name: sample
-        value: ..\..\samples\noise.wav
-    - _attributes:
-        name: loopmode
-        value: loop_continuous
-    - _attributes:
-        name: fillfo_freq
-        value: '1'
-    - _attributes:
-        name: fillfo_depth
-        value: '1200'
-    - _attributes:
-        name: cutoff
-        value: '500'
-    - _attributes:
-        name: resonance
-        value: '20'
+  - opcode:
+      - _attributes:
+          name: sample
+          value: ..\..\samples\noise.wav
+      - _attributes:
+          name: loopmode
+          value: loop_continuous
+      - _attributes:
+          name: fillfo_freq
+          value: '1'
+      - _attributes:
+          name: fillfo_depth
+          value: '1200'
+      - _attributes:
+          name: cutoff
+          value: '500'
+      - _attributes:
+          name: resonance
+          value: '20'
 

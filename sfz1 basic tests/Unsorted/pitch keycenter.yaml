@@ -1,9 +1,9 @@
 region:
-  opcode:
-    - _attributes:
-        name: sample
-        value: ..\..\samples\440.wav
-    - _attributes:
-        name: pitch_keycenter
-        value: '57'
+  - opcode:
+      - _attributes:
+          name: sample
+          value: ..\..\samples\440.wav
+      - _attributes:
+          name: pitch_keycenter
+          value: '57'
 

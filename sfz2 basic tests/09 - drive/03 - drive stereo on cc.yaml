@@ -1,18 +1,18 @@
 region:
-  opcode:
-    - _attributes:
-        name: sample
-        value: ..\..\samples\stereo 400 looped.wav
-    - _attributes:
-        name: drive_shape_oncc73
-        value: '100'
-    - _attributes:
-        name: volume
-        value: '-12'
-    - _attributes:
-        name: drive_filter
-        value: lpf_1p
-    - _attributes:
-        name: drive_tone_oncc70
-        value: '-100'
+  - opcode:
+      - _attributes:
+          name: sample
+          value: ..\..\samples\stereo 400 looped.wav
+      - _attributes:
+          name: drive_shape_oncc73
+          value: '100'
+      - _attributes:
+          name: volume
+          value: '-12'
+      - _attributes:
+          name: drive_filter
+          value: lpf_1p
+      - _attributes:
+          name: drive_tone_oncc70
+          value: '-100'
 

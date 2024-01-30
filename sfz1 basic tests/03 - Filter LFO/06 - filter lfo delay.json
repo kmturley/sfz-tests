@@ -1,48 +1,50 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "..\\..\\samples\\noise.wav"
+  "region": [
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\noise.wav"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loopmode",
+            "value": "loop_continuous"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "fillfo_delay",
+            "value": "0.5"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "fillfo_freq",
+            "value": "5"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "fillfo_depth",
+            "value": "1200"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "cutoff",
+            "value": "250"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "resonance",
+            "value": "40"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "loopmode",
-          "value": "loop_continuous"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "fillfo_delay",
-          "value": "0.5"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "fillfo_freq",
-          "value": "5"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "fillfo_depth",
-          "value": "1200"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "cutoff",
-          "value": "250"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "resonance",
-          "value": "40"
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }

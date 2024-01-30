@@ -1,100 +1,104 @@
 {
-  "group": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "..\\..\\samples\\440.wav"
+  "group": [
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\440.wav"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loop_start",
+            "value": "12629"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loop_end",
+            "value": "56728"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loop_mode",
+            "value": "loop_continuous"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "volume",
+            "value": "-24"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "loop_start",
-          "value": "12629"
+      ]
+    }
+  ],
+  "region": [
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "volume_oncc73",
+            "value": "24"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "volume_smoothcc73",
+            "value": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "volume_oncc70",
+            "value": "24"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "volume_smoothcc70",
+            "value": "100"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "volume_oncc20",
+            "value": "24"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "volume_stepcc20",
+            "value": "4"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "volume_oncc21",
+            "value": "24"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "volume_smoothcc21",
+            "value": "500"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "volume_oncc129",
+            "value": "24"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "volume_smoothcc129",
+            "value": "200"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "loop_end",
-          "value": "56728"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "loop_mode",
-          "value": "loop_continuous"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "volume",
-          "value": "-24"
-        }
-      }
-    ]
-  },
-  "region": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "volume_oncc73",
-          "value": "24"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "volume_smoothcc73",
-          "value": "1"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "volume_oncc70",
-          "value": "24"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "volume_smoothcc70",
-          "value": "100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "volume_oncc20",
-          "value": "24"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "volume_stepcc20",
-          "value": "4"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "volume_oncc21",
-          "value": "24"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "volume_smoothcc21",
-          "value": "500"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "volume_oncc129",
-          "value": "24"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "volume_smoothcc129",
-          "value": "200"
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }

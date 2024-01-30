@@ -1,60 +1,62 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "..\\..\\samples\\440.wav"
+  "region": [
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\440.wav"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loopstart",
+            "value": "12629"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loopend",
+            "value": "56728"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loopmode",
+            "value": "loop_continuous"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "amp_veltrack",
+            "value": "0"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "pitcheg_sustain",
+            "value": "100"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "pitcheg_vel2release",
+            "value": "2"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "pitcheg_depth",
+            "value": "1200"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "ampeg_release",
+            "value": "3"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "loopstart",
-          "value": "12629"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "loopend",
-          "value": "56728"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "loopmode",
-          "value": "loop_continuous"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "amp_veltrack",
-          "value": "0"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "pitcheg_sustain",
-          "value": "100"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "pitcheg_vel2release",
-          "value": "2"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "pitcheg_depth",
-          "value": "1200"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "ampeg_release",
-          "value": "3"
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }

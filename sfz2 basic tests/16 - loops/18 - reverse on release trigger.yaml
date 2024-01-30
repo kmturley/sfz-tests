@@ -1,13 +1,13 @@
 group:
-  opcode:
-    _attributes:
-      name: sample
-      value: ..\..\samples\bd.wav
+  - opcode:
+      - _attributes:
+          name: sample
+          value: ..\..\samples\bd.wav
 region:
   - opcode:
-      _attributes:
-        name: loop_mode
-        value: loop_continuous
+      - _attributes:
+          name: loop_mode
+          value: loop_continuous
   - opcode:
       - _attributes:
           name: direction

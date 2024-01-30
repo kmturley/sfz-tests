@@ -1,114 +1,116 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "..\\..\\samples\\440.wav"
+  "region": [
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\440.wav"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loopstart",
+            "value": "12629"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loopend",
+            "value": "56728"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loopmode",
+            "value": "loop_continuous"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "ampeg_release",
+            "value": "2"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "polyphony",
+            "value": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eg01_points",
+            "value": "3"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eg01_sustain",
+            "value": "2"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eg01_level0",
+            "value": "0"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eg01_time0",
+            "value": "0"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eg01_level1",
+            "value": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eg01_time1",
+            "value": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eg01_shape1",
+            "value": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eg01_level2",
+            "value": "0.5"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eg01_time1",
+            "value": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eg01_shape1",
+            "value": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eg01_glide_speed",
+            "value": ".5"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eg01_pitch",
+            "value": "1200"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "loopstart",
-          "value": "12629"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "loopend",
-          "value": "56728"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "loopmode",
-          "value": "loop_continuous"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "ampeg_release",
-          "value": "2"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "polyphony",
-          "value": "1"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eg01_points",
-          "value": "3"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eg01_sustain",
-          "value": "2"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eg01_level0",
-          "value": "0"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eg01_time0",
-          "value": "0"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eg01_level1",
-          "value": "1"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eg01_time1",
-          "value": "1"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eg01_shape1",
-          "value": "1"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eg01_level2",
-          "value": "0.5"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eg01_time1",
-          "value": "1"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eg01_shape1",
-          "value": "1"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eg01_glide_speed",
-          "value": ".5"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eg01_pitch",
-          "value": "1200"
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }

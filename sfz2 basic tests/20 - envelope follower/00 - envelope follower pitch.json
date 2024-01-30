@@ -1,36 +1,38 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "..\\..\\samples\\fade out.wav"
+  "region": [
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\fade out.wav"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eg01_followattack",
+            "value": "0"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eg01_followrelease",
+            "value": "0.5"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eg01_followspeed",
+            "value": "20"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eg01_pitch",
+            "value": "1200"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "eg01_followattack",
-          "value": "0"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eg01_followrelease",
-          "value": "0.5"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eg01_followspeed",
-          "value": "20"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eg01_pitch",
-          "value": "1200"
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }

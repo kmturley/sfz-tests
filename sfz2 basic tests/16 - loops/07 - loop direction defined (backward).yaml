@@ -1,18 +1,18 @@
 region:
-  opcode:
-    - _attributes:
-        name: sample
-        value: ..\..\samples\stereo looped 1k.wav
-    - _attributes:
-        name: loop_mode
-        value: loop_continuous
-    - _attributes:
-        name: loop_type
-        value: backward
-    - _attributes:
-        name: loop_start
-        value: '0'
-    - _attributes:
-        name: loop_end
-        value: '44100'
+  - opcode:
+      - _attributes:
+          name: sample
+          value: ..\..\samples\stereo looped 1k.wav
+      - _attributes:
+          name: loop_mode
+          value: loop_continuous
+      - _attributes:
+          name: loop_type
+          value: backward
+      - _attributes:
+          name: loop_start
+          value: '0'
+      - _attributes:
+          name: loop_end
+          value: '44100'
 

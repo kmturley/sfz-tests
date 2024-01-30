@@ -1,29 +1,29 @@
 group:
-  opcode:
-    - _attributes:
-        name: sample
-        value: ..\..\samples\noise.wav
-    - _attributes:
-        name: loop_mode
-        value: loop_continuous
-    - _attributes:
-        name: pitch_keytrack
-        value: '0'
-    - _attributes:
-        name: amp_veltrack
-        value: '0'
-    - _attributes:
-        name: volume
-        value: '-6'
+  - opcode:
+      - _attributes:
+          name: sample
+          value: ..\..\samples\noise.wav
+      - _attributes:
+          name: loop_mode
+          value: loop_continuous
+      - _attributes:
+          name: pitch_keytrack
+          value: '0'
+      - _attributes:
+          name: amp_veltrack
+          value: '0'
+      - _attributes:
+          name: volume
+          value: '-6'
 region:
   - opcode:
-      _attributes:
-        name: effect1
-        value: '100'
+      - _attributes:
+          name: effect1
+          value: '100'
   - opcode:
-      _attributes:
-        name: effect2
-        value: '100'
+      - _attributes:
+          name: effect2
+          value: '100'
 effect:
   - opcode:
       - _attributes:

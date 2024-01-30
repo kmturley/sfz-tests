@@ -1,24 +1,24 @@
 region:
-  opcode:
-    - _attributes:
-        name: sample
-        value: ..\..\samples\440.wav
-    - _attributes:
-        name: loopstart
-        value: '11227'
-    - _attributes:
-        name: loopend
-        value: '31672'
-    - _attributes:
-        name: loopmode
-        value: loop_continuous
-    - _attributes:
-        name: transpose
-        value: '12'
-    - _attributes:
-        name: xfout_locc1
-        value: '0'
-    - _attributes:
-        name: xfout_hicc1
-        value: '127'
+  - opcode:
+      - _attributes:
+          name: sample
+          value: ..\..\samples\440.wav
+      - _attributes:
+          name: loopstart
+          value: '11227'
+      - _attributes:
+          name: loopend
+          value: '31672'
+      - _attributes:
+          name: loopmode
+          value: loop_continuous
+      - _attributes:
+          name: transpose
+          value: '12'
+      - _attributes:
+          name: xfout_locc1
+          value: '0'
+      - _attributes:
+          name: xfout_hicc1
+          value: '127'
 

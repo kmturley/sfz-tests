@@ -1,54 +1,56 @@
 {
-  "region": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "..\\..\\samples\\noise.wav"
+  "region": [
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\noise.wav"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loop_mode",
+            "value": "loop_continuous"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eq2_freq",
+            "value": "200"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eq2_freq_oncc73",
+            "value": "2400"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eq2_bw",
+            "value": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eq2_bw_oncc70",
+            "value": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eq2_gain",
+            "value": "6"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eq2_gain_oncc20",
+            "value": "18"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "loop_mode",
-          "value": "loop_continuous"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eq2_freq",
-          "value": "200"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eq2_freq_oncc73",
-          "value": "2400"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eq2_bw",
-          "value": "1"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eq2_bw_oncc70",
-          "value": "1"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eq2_gain",
-          "value": "6"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eq2_gain_oncc20",
-          "value": "18"
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }

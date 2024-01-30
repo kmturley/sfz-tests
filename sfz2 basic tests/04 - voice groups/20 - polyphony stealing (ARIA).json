@@ -1,26 +1,28 @@
 {
-  "group": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "volume",
-          "value": "-6"
+  "group": [
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "volume",
+            "value": "-6"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "*tri"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "ampeg_release",
+            "value": "1"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "*tri"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "ampeg_release",
-          "value": "1"
-        }
-      }
-    ]
-  },
+      ]
+    }
+  ],
   "region": [
     {
       "opcode": [

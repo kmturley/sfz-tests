@@ -1,134 +1,136 @@
 {
-  "group": {
-    "opcode": [
-      {
-        "_attributes": {
-          "name": "sample",
-          "value": "..\\..\\samples\\noise.wav"
+  "group": [
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "..\\..\\samples\\noise.wav"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "loopmode",
+            "value": "loop_continuous"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "ampeg_release",
+            "value": "4"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "cutoff",
+            "value": "1000"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "resonance",
+            "value": "10"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eg10_sustain",
+            "value": "4"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eg10_level0",
+            "value": "0"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eg10_time0",
+            "value": "0"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eg10_level1",
+            "value": "0"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eg10_time1",
+            "value": "0.5"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eg10_level2",
+            "value": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eg10_time2",
+            "value": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eg10_level3",
+            "value": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eg10_time3",
+            "value": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eg10_shape3",
+            "value": ".1"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eg10_level4",
+            "value": "0.5"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eg10_time4",
+            "value": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eg10_level5",
+            "value": "0"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "eg10_time5",
+            "value": "0"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo10_freq",
+            "value": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo10_cutoff",
+            "value": "1200"
+          }
         }
-      },
-      {
-        "_attributes": {
-          "name": "loopmode",
-          "value": "loop_continuous"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "ampeg_release",
-          "value": "4"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "cutoff",
-          "value": "1000"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "resonance",
-          "value": "10"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eg10_sustain",
-          "value": "4"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eg10_level0",
-          "value": "0"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eg10_time0",
-          "value": "0"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eg10_level1",
-          "value": "0"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eg10_time1",
-          "value": "0.5"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eg10_level2",
-          "value": "1"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eg10_time2",
-          "value": "1"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eg10_level3",
-          "value": "1"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eg10_time3",
-          "value": "1"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eg10_shape3",
-          "value": ".1"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eg10_level4",
-          "value": "0.5"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eg10_time4",
-          "value": "1"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eg10_level5",
-          "value": "0"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "eg10_time5",
-          "value": "0"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo10_freq",
-          "value": "1"
-        }
-      },
-      {
-        "_attributes": {
-          "name": "lfo10_cutoff",
-          "value": "1200"
-        }
-      }
-    ]
-  },
+      ]
+    }
+  ],
   "region": [
     {
       "opcode": [
