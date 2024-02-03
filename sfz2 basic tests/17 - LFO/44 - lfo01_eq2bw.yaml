@@ -1,27 +1,45 @@
-region:
-  - opcode:
-      - _attributes:
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\noise.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loop_mode
           value: loop_continuous
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: volume
           value: '-6'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: amp_veltrack
           value: '0'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: eq2_gain
           value: '12'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: eq2_freq
           value: '2000'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lfo01_freq
           value: '2'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lfo01_eq2bw
           value: '4'
 

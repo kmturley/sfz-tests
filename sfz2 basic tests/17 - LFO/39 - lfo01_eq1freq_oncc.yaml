@@ -1,51 +1,85 @@
-region:
-  - opcode:
-      - _attributes:
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\noise.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loop_mode
           value: loop_continuous
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: volume
           value: '-6'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: amp_veltrack
           value: '0'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: eq1_gain
           value: '12'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: eq1_freq
           value: '2000'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lfo01_freq
           value: '2'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lfo01_eq1freq_oncc73
           value: '3000'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lfo01_eq1freq_oncc70
           value: '3000'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lfo01_eq1freq_smoothcc70
           value: '100'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lfo01_eq1freq_oncc20
           value: '3000'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lfo01_eq1freq_stepcc20
           value: '1000'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lfo01_eq1freq_oncc21
           value: '3000'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lfo01_eq1freq_smoothcc21
           value: '1000'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lfo01_eq1freq_oncc129
           value: '3000'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lfo01_eq1freq_smoothcc129
           value: '500'
 

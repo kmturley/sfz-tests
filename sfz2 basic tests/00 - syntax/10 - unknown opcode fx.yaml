@@ -1,14 +1,23 @@
-region:
-  - opcode:
-      - _attributes:
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\440.wav
-effect:
-  - opcode:
-      - _attributes:
+  - type: element
+    name: effect
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: type
           value: delay
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: delay_hyperbolization
           value: high
 

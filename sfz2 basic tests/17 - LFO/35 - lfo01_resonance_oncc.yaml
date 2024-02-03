@@ -1,54 +1,90 @@
-region:
-  - opcode:
-      - _attributes:
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\noise.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loop_mode
           value: loop_continuous
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: volume
           value: '-6'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: amp_veltrack
           value: '0'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: cutoff
           value: '1000'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: resonance
           value: '10'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: amp_veltrack
           value: '0'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lfo01_freq
           value: '2'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lfo01_resonance_oncc73
           value: '30'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lfo01_resonance_oncc70
           value: '30'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lfo01_resonance_smoothcc70
           value: '100'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lfo01_resonance_oncc20
           value: '30'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lfo01_resonance_stepcc20
           value: '15'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lfo01_resonance_oncc21
           value: '30'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lfo01_resonance_smoothcc21
           value: '1000'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lfo01_resonance_oncc129
           value: '30'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lfo01_resonance_smoothcc129
           value: '500'
 

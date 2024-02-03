@@ -1,34 +1,58 @@
-region:
-  - opcode:
-      - _attributes:
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\440.wav
-  - opcode:
-      - _attributes:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\110.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loop_start
           value: '10825'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loop_end
           value: '32473'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loop_mode
           value: loop_continuous
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: trigger
           value: release
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: rt_dead
           value: 'off'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: ampeg_attack
           value: '0.1'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: ampeg_decay
           value: '0.4'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: ampeg_sustain
           value: '0'
 

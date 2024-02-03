@@ -1,15 +1,21 @@
 {
-  "region": [
+  "elements": [
     {
-      "opcode": [
+      "type": "element",
+      "name": "region",
+      "elements": [
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\440.wav"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "key",
             "value": "c4"
           }
@@ -17,29 +23,37 @@
       ]
     },
     {
-      "opcode": [
+      "type": "element",
+      "name": "control",
+      "elements": [
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
+            "name": "octave_offset",
+            "value": "-1"
+          }
+        }
+      ]
+    },
+    {
+      "type": "element",
+      "name": "region",
+      "elements": [
+        {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\440.wav"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "key",
             "value": "c4"
-          }
-        }
-      ]
-    }
-  ],
-  "control": [
-    {
-      "opcode": [
-        {
-          "_attributes": {
-            "name": "octave_offset",
-            "value": "-1"
           }
         }
       ]

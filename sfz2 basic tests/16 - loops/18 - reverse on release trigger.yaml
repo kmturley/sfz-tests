@@ -1,18 +1,31 @@
-group:
-  - opcode:
-      - _attributes:
+elements:
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\bd.wav
-region:
-  - opcode:
-      - _attributes:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: loop_mode
           value: loop_continuous
-  - opcode:
-      - _attributes:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: direction
           value: reverse
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: trigger
           value: release
 

@@ -1,18 +1,30 @@
-region:
-  - opcode:
-      - _attributes:
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\440.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: locc73
           value: '64'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: hicc73
           value: '90'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: locc1
           value: '0'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: hicc1
           value: '30'
 

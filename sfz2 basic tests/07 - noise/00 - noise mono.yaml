@@ -1,21 +1,35 @@
-region:
-  - opcode:
-      - _attributes:
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\mono silence.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: amp_veltrack
           value: '0'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: noise_filter
           value: pink
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: noise_level
           value: '10'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: noise_step
           value: '0'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: noise_tone
           value: '100'
 

@@ -1,24 +1,40 @@
-region:
-  - opcode:
-      - _attributes:
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\compressor test link.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loop_mode
           value: loop_continuous
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: comp_stlink
           value: 'on'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: comp_threshold
           value: '-9'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: comp_ratio
           value: '50'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: comp_attack
           value: '.05'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: comp_release
           value: '.05'
 

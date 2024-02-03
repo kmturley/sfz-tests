@@ -1,24 +1,40 @@
-region:
-  - opcode:
-      - _attributes:
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\440.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loopstart
           value: '12629'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loopend
           value: '56728'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loopmode
           value: loop_continuous
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: ampeg_attack
           value: '2'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: ampeg_vel2attack
           value: '-3'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: ampeg_sustain
           value: '100'
 

@@ -1,57 +1,95 @@
-region:
-  - opcode:
-      - _attributes:
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\440.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loopstart
           value: '12629'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loopend
           value: '56728'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loopmode
           value: loop_continuous
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: ampeg_release
           value: '2'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: polyphony
           value: '1'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: eg01_points
           value: '3'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: eg01_sustain
           value: '2'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: eg01_level0
           value: '0'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: eg01_time0
           value: '0'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: eg01_level1
           value: '1'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: eg01_time1
           value: '1'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: eg01_shape1
           value: '1'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: eg01_level2_oncc73
           value: '1'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: eg01_time1
           value: '1'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: eg01_shape1
           value: '1'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: eg01_glide_speed
           value: '.5'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: eg01_pitch
           value: '1200'
 

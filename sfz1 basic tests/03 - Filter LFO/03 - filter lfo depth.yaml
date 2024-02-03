@@ -1,21 +1,35 @@
-region:
-  - opcode:
-      - _attributes:
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\noise.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loopmode
           value: loop_continuous
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: fillfo_freq
           value: '1'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: fillfo_depth
           value: '2100'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: cutoff
           value: '500'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: resonance
           value: '20'
 

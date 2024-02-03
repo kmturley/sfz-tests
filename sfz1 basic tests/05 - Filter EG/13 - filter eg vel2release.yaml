@@ -1,33 +1,55 @@
-region:
-  - opcode:
-      - _attributes:
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\noise.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: cutoff
           value: '250'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: resonance
           value: '40'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: volume
           value: '-6'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loopmode
           value: loop_continuous
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: amp_veltrack
           value: '0'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loopmode
           value: loop_continuous
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: ampeg_release
           value: '5'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: fileg_vel2release
           value: '3'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: fileg_depth
           value: '1200'
 

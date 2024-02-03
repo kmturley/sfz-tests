@@ -1,24 +1,40 @@
-region:
-  - opcode:
-      - _attributes:
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\noise.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loopmode
           value: loop_continuous
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: filtype
           value: hpf_2p
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: cutoff
           value: '1000'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: cutoff_cc1
           value: '12000'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: resonance
           value: '3'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: cutoff_chanaft
           value: '-4000'
 

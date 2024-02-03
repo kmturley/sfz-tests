@@ -1,45 +1,59 @@
 {
-  "region": [
+  "elements": [
     {
-      "opcode": [
+      "type": "element",
+      "name": "region",
+      "elements": [
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "sample",
             "value": "..\\..\\samples\\noise.wav"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "loop_mode",
             "value": "loop_continuous"
           }
         }
       ]
-    }
-  ],
-  "effect": [
+    },
     {
-      "opcode": [
+      "type": "element",
+      "name": "effect",
+      "elements": [
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "type",
             "value": "filter"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "filter_type",
             "value": "lpf_4p"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "filter_cutoff_oncc1",
             "value": "12700"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "filter_resonance_oncc71",
             "value": "10"
           }
@@ -47,27 +61,37 @@
       ]
     },
     {
-      "opcode": [
+      "type": "element",
+      "name": "effect",
+      "elements": [
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "type",
             "value": "filter"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "filter_type",
             "value": "lpf_4p"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "filter_cutoff_oncc1",
             "value": "12700"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "filter_resonance_oncc71",
             "value": "10"
           }
@@ -75,27 +99,37 @@
       ]
     },
     {
-      "opcode": [
+      "type": "element",
+      "name": "effect",
+      "elements": [
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "type",
             "value": "filter"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "filter_type",
             "value": "lpf_4p"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "filter_cutoff_oncc1",
             "value": "12700"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "filter_resonance_oncc71",
             "value": "10"
           }
@@ -103,27 +137,37 @@
       ]
     },
     {
-      "opcode": [
+      "type": "element",
+      "name": "effect",
+      "elements": [
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "type",
             "value": "filter"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "filter_type",
             "value": "lpf_4p"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "filter_cutoff_oncc1",
             "value": "12700"
           }
         },
         {
-          "_attributes": {
+          "type": "element",
+          "name": "opcode",
+          "attributes": {
             "name": "filter_resonance_oncc71",
             "value": "10"
           }

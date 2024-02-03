@@ -1,82 +1,142 @@
-region:
-  - opcode:
-      - _attributes:
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\440.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lokey
           value: '60'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: sw_lokey
           value: '48'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: sw_hikey
           value: '52'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: sw_down
           value: '48'
-  - opcode:
-      - _attributes:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\110.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lokey
           value: '60'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: sw_lokey
           value: '48'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: sw_hikey
           value: '52'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: sw_down
           value: '49'
-  - opcode:
-      - _attributes:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\noise.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lokey
           value: '60'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: sw_lokey
           value: '48'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: sw_hikey
           value: '52'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: sw_down
           value: '50'
-  - opcode:
-      - _attributes:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\bd.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lokey
           value: '60'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: sw_lokey
           value: '48'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: sw_hikey
           value: '52'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: sw_down
           value: '51'
-  - opcode:
-      - _attributes:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\hh.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lokey
           value: '60'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: sw_lokey
           value: '48'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: sw_hikey
           value: '52'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: sw_down
           value: '52'
 

@@ -1,76 +1,130 @@
-global:
-  - opcode:
-      - _attributes:
+elements:
+  - type: element
+    name: global
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sw_lokey
           value: '0'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: sw_hikey
           value: '11'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: sw_default
           value: '0'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lokey
           value: '12'
-group:
-  - opcode:
-      - _attributes:
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sw_last
           value: '0'
-  - opcode:
-      - _attributes:
-          name: sw_last
-          value: '1'
-region:
-  - opcode:
-      - _attributes:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\110.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loop_start
           value: '10825'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loop_end
           value: '32473'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loop_mode
           value: loop_continuous
-  - opcode:
-      - _attributes:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\440.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loop_start
           value: '12629'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loop_end
           value: '56728'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loop_mode
           value: loop_continuous
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: trigger
           value: release
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: ampeg_sustain
           value: '0'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: ampeg_decay
           value: '1'
-  - opcode:
-      - _attributes:
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sw_last
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\440.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loop_start
           value: '12629'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loop_end
           value: '56728'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loop_mode
           value: loop_continuous
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: end
           value: '-1'
 

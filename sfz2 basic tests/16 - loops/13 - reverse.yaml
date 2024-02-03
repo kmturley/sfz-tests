@@ -1,9 +1,15 @@
-region:
-  - opcode:
-      - _attributes:
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\bd.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: direction
           value: reverse
 

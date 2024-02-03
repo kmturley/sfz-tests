@@ -1,59 +1,101 @@
-region:
-  - opcode:
-      - _attributes:
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\440.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lokey
           value: '0'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: hikey
           value: '59'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: pitch_keytrack
           value: '0'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: amp_veltrack
           value: '0'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: pan
           value: '-100'
-  - opcode:
-      - _attributes:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\440.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lokey
           value: '60'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: hikey
           value: '60'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: pitch_keytrack
           value: '0'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: amp_veltrack
           value: '0'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: pan
           value: '0'
-  - opcode:
-      - _attributes:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\440.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lokey
           value: '61'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: hikey
           value: '127'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: pitch_keytrack
           value: '0'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: amp_veltrack
           value: '0'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: pan
           value: '100'
 

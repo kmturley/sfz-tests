@@ -1,36 +1,61 @@
-group:
-  - opcode:
-      - _attributes:
+elements:
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\noise.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loop_mode
           value: loop_continuous
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: pitch_keytrack
           value: '0'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: cutoff
           value: '400'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: resonance
           value: '30'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: fil_keytrack
           value: '100'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: amp_veltrack
           value: '0'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: volume
           value: '-6'
-region:
-  - opcode:
-      - _attributes:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: fil_keycenter
           value: '48'
-  - opcode:
-      - _attributes:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: fil_keycenter
           value: '72'
 

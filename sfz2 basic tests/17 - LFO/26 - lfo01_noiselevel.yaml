@@ -1,27 +1,45 @@
-region:
-  - opcode:
-      - _attributes:
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\mono silence.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loop_mode
           value: loop_continuous
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: volume
           value: '-6'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: amp_veltrack
           value: '0'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: noise_level_oncc73
           value: '-48'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lfo01_freq
           value: '2'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lfo01_noiselevel
           value: '12'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: lfo01_noiselevel_oncc70
           value: '-12'
 

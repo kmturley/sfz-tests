@@ -1,51 +1,86 @@
-group:
-  - opcode:
-      - _attributes:
+elements:
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: xf_cccurve
           value: gain
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\440.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loop_start
           value: '12629'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loop_end
           value: '56728'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loop_mode
           value: loop_continuous
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: amp_veltrack
           value: '0'
-region:
-  - opcode:
-      - _attributes:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: xfin_locc1
           value: '0'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: xfin_hicc1
           value: '64'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: xfout_locc1
           value: '64'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: xfout_hicc1
           value: '127'
-  - opcode:
-      - _attributes:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: transpose
           value: '-12'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: xfout_locc1
           value: '0'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: xfout_hicc1
           value: '64'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: xfin_locc1
           value: '64'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: xfin_hicc1
           value: '127'
 

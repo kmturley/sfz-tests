@@ -1,42 +1,70 @@
-region:
-  - opcode:
-      - _attributes:
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: locc20
           value: '0'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: hicc20
           value: '20'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\sweep.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loopmode
           value: loop_continuous
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: eq1_freq
           value: '200'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: eq1_bw
           value: '0.1'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: eq1_gain
           value: '6'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: eq2_freq
           value: '800'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: eq2_bw
           value: '0.1'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: eq2_gain
           value: '6'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: eq3_freq
           value: '2000'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: eq3_bw
           value: '0.1'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: eq3_gain
           value: '6'
 

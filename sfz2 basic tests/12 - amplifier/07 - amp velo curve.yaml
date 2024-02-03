@@ -1,12 +1,20 @@
-region:
-  - opcode:
-      - _attributes:
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\440.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: amp_velcurve_20
           value: '0.5'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: amp_velcurve_90
           value: '0.85'
 

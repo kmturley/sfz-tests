@@ -1,21 +1,35 @@
-region:
-  - opcode:
-      - _attributes:
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\noise.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loopmode
           value: loop_continuous
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: eq3_freq
           value: '400'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: eq3_freqcc20
           value: '4000'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: eq3_bwcc21
           value: '1'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: eq3_gaincc22
           value: '24'
 

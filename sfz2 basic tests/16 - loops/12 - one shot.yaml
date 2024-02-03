@@ -1,15 +1,25 @@
-region:
-  - opcode:
-      - _attributes:
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
           name: sample
           value: ..\..\samples\sweep.wav
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: volume
           value: '-6'
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: loop_mode
           value: one_shot
-      - _attributes:
+      - type: element
+        name: opcode
+        attributes:
           name: pitch_keytrack
           value: '0'
 
