@@ -5,7 +5,7 @@ import os from "node:os";
 import { execFileSync } from "node:child_process";
 
 function usage() {
-  console.error("Usage: node ./xml-to-json.mjs <input.xml> [output.json]");
+  console.error("Usage: node ./xml-to-json.mjs <input.sfz.xml> [output.sfz.json]");
   process.exit(1);
 }
 
@@ -90,9 +90,9 @@ function main() {
   const input = process.argv[2];
   if (!input) usage();
 
-  const output = process.argv[3] || input.replace(/\.xml$/i, ".json");
-  if (!/\.xml$/i.test(input)) {
-    console.error(`Input must be an .xml file: ${input}`);
+  const output = process.argv[3] || input.replace(/\.sfz\.xml$/i, ".sfz.json");
+  if (!/\.sfz\.xml$/i.test(input)) {
+    console.error(`Input must be an .sfz.xml file: ${input}`);
     process.exit(1);
   }
 

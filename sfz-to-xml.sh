@@ -18,10 +18,10 @@ IFS=$'\n'
 if [[ $1 == *.sfz ]]
 then
   # Convert file.
-  ./sfizz_preprocessor "$1" --mode=xml > "${1%.*}.xml"
+  ./sfizz_preprocessor "$1" --mode=xml > "${1%.*}.sfz.xml"
 else
   # Convert folder.
   find "$1" -type f -name "*.sfz" | while read file
-    do ./sfizz_preprocessor "$file" --mode=xml > "${file%.*}.xml"
+    do ./sfizz_preprocessor "$file" --mode=xml > "${file%.*}.sfz.xml"
   done
 fi
