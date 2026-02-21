@@ -41,23 +41,23 @@ function transform(xmlJsJson) {
     headers.push({ [el.name]: opcodes });
   }
 
-  return { headers };
+  return { sfz: headers };
 }
 
 function formatCompactPretty(data) {
   const q = (v) => JSON.stringify(v);
-  if (!data || !Array.isArray(data.headers)) {
+  if (!data || !Array.isArray(data.sfz)) {
     return `${JSON.stringify(data, null, 2)}\n`;
   }
 
   const lines = [];
   lines.push("{");
-  lines.push('  "headers": [');
+  lines.push('  "sfz": [');
 
-  data.headers.forEach((headerObj, headerIndex) => {
+  data.sfz.forEach((headerObj, headerIndex) => {
     const keys = Object.keys(headerObj || {});
     if (keys.length !== 1 || !Array.isArray(headerObj[keys[0]])) {
-      const trailing = headerIndex === data.headers.length - 1 ? "" : ",";
+      const trailing = headerIndex === data.sfz.length - 1 ? "" : ",";
       lines.push(`    ${JSON.stringify(headerObj)}${trailing}`);
       return;
     }
@@ -77,7 +77,7 @@ function formatCompactPretty(data) {
       const opcodeValue = opcodeObj[opcodeName];
       lines.push(`      {${q(opcodeName)}: ${q(opcodeValue)}}${trailing}`);
     });
-    const headerTrailing = headerIndex === data.headers.length - 1 ? "" : ",";
+    const headerTrailing = headerIndex === data.sfz.length - 1 ? "" : ",";
     lines.push(`    ]}${headerTrailing}`);
   });
 
