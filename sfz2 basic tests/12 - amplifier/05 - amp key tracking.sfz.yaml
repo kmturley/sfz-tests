@@ -1,12 +1,11 @@
-sfz:
-  - region:
-      - sample: ..\..\samples\440.wav
-      - loop_start: 12629
-      - loop_end: 56728
-      - loop_mode: loop_continuous
-      - amp_veltrack: 0
-      - hikey: c5
-      - amp_keycenter: c4
-      - amp_keytrack: 1
-      - volume: -10
+- region:
+    - sample: ..\..\samples\440.wav
+    - loop_start: 12629
+    - loop_end: 56728
+    - loop_mode: loop_continuous
+    - amp_veltrack: 0
+    - hikey: c5
+    - amp_keycenter: c4
+    - amp_keytrack: 1
+    - volume: -10
 

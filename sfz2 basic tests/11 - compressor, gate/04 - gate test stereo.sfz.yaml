@@ -1,8 +1,7 @@
-sfz:
-  - region:
-      - sample: ..\..\samples\compressor test stereo.wav
-      - loop_mode: loop_continuous
-      - gate_threshold: -6
-      - gate_attack: 0.05
-      - gate_release: 0.05
+- region:
+    - sample: ..\..\samples\compressor test stereo.wav
+    - loop_mode: loop_continuous
+    - gate_threshold: -6
+    - gate_attack: 0.05
+    - gate_release: 0.05
 

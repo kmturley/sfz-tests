@@ -1,4 +1,3 @@
-sfz:
-  - region:
-      - sample: ..\..\samples\loop.wav
+- region:
+    - sample: ..\..\samples\loop.wav
 

@@ -1,9 +1,8 @@
-sfz:
-  - region:
-      - sample: ..\..\samples\440.wav
-      - loop_mode: loop_continuous
-      - loop_start: 12629
-      - loop_end: 56728
-      - lfo01_freq: 1
-      - lfo01_drive: 100
+- region:
+    - sample: ..\..\samples\440.wav
+    - loop_mode: loop_continuous
+    - loop_start: 12629
+    - loop_end: 56728
+    - lfo01_freq: 1
+    - lfo01_drive: 100
 

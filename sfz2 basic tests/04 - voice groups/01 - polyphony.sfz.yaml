@@ -1,21 +1,20 @@
-sfz:
-  - group:
-      - sample: ..\..\samples\440.wav
-      - loop_start: 12629
-      - loop_end: 56728
-      - loop_mode: loop_continuous
-      - pitch_keycenter: a3
-  - region:
-      - group: 1
-      - hikey: b3
-      - polyphony: 7
-  - region:
-      - group: 2
-      - lokey: c4
-      - hikey: b4
-      - polyphony: 1
-  - region:
-      - group: 2
-      - lokey: c5
-      - polyphony: 1
+- group:
+    - sample: ..\..\samples\440.wav
+    - loop_start: 12629
+    - loop_end: 56728
+    - loop_mode: loop_continuous
+    - pitch_keycenter: a3
+- region:
+    - group: 1
+    - hikey: b3
+    - polyphony: 7
+- region:
+    - group: 2
+    - lokey: c4
+    - hikey: b4
+    - polyphony: 1
+- region:
+    - group: 2
+    - lokey: c5
+    - polyphony: 1
 

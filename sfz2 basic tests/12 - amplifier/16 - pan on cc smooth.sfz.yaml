@@ -1,26 +1,25 @@
-sfz:
-  - group:
-      - sample: ..\..\samples\440.wav
-      - loop_start: 12629
-      - loop_end: 56728
-      - loop_mode: loop_continuous
-      - amp_veltrack: 0
-  - region:
-      - pan_oncc73: 100
-      - pan_smoothcc73: 1
-      - pan_curvecc73: 7
-      - pan_oncc70: 100
-      - pan_smoothcc70: 100
-      - pan_curvecc70: 7
-      - pan_oncc20: 100
-      - pan_stepcc20: 50
-      - pan_curvecc20: 7
-      - pan_oncc21: 100
-      - pan_smoothcc21: 500
-      - pan_curvecc21: 7
-  - curve:
-      - curve_index: 7
-      - v000: -1
-      - v064: 0
-      - v127: 1
+- group:
+    - sample: ..\..\samples\440.wav
+    - loop_start: 12629
+    - loop_end: 56728
+    - loop_mode: loop_continuous
+    - amp_veltrack: 0
+- region:
+    - pan_oncc73: 100
+    - pan_smoothcc73: 1
+    - pan_curvecc73: 7
+    - pan_oncc70: 100
+    - pan_smoothcc70: 100
+    - pan_curvecc70: 7
+    - pan_oncc20: 100
+    - pan_stepcc20: 50
+    - pan_curvecc20: 7
+    - pan_oncc21: 100
+    - pan_smoothcc21: 500
+    - pan_curvecc21: 7
+- curve:
+    - curve_index: 7
+    - v000: -1
+    - v064: 0
+    - v127: 1
 

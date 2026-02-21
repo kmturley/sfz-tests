@@ -1,58 +1,57 @@
-sfz:
-  - group:
-      - sample: ..\..\samples\440.wav
-      - ampeg_release: 5
-      - loop_start: 12629
-      - loop_end: 56728
-      - loop_mode: loop_continuous
-      - hicc1: 64
-  - region:
-      - lokey: c4
-      - hikey: c#4
-  - region:
-      - lokey: d4
-      - hikey: d#4
-  - region:
-      - lokey: e4
-      - hikey: f4
-  - region:
-      - lokey: f#4
-      - hikey: g4
-  - region:
-      - lokey: g#4
-      - hikey: a4
-  - region:
-      - lokey: a#4
-      - hikey: b4
-  - region:
-      - lokey: c5
-      - hikey: c#5
-  - group:
-      - sample: ..\..\samples\440.wav
-      - ampeg_release: 0.1
-      - loop_start: 12629
-      - loop_end: 56728
-      - loop_mode: loop_continuous
-      - locc1: 65
-  - region:
-      - lokey: c4
-      - hikey: c#4
-  - region:
-      - lokey: d4
-      - hikey: d#4
-  - region:
-      - lokey: e4
-      - hikey: f4
-  - region:
-      - lokey: f#4
-      - hikey: g4
-  - region:
-      - lokey: g#4
-      - hikey: a4
-  - region:
-      - lokey: a#4
-      - hikey: b4
-  - region:
-      - lokey: c5
-      - hikey: c#5
+- group:
+    - sample: ..\..\samples\440.wav
+    - ampeg_release: 5
+    - loop_start: 12629
+    - loop_end: 56728
+    - loop_mode: loop_continuous
+    - hicc1: 64
+- region:
+    - lokey: c4
+    - hikey: c#4
+- region:
+    - lokey: d4
+    - hikey: d#4
+- region:
+    - lokey: e4
+    - hikey: f4
+- region:
+    - lokey: f#4
+    - hikey: g4
+- region:
+    - lokey: g#4
+    - hikey: a4
+- region:
+    - lokey: a#4
+    - hikey: b4
+- region:
+    - lokey: c5
+    - hikey: c#5
+- group:
+    - sample: ..\..\samples\440.wav
+    - ampeg_release: 0.1
+    - loop_start: 12629
+    - loop_end: 56728
+    - loop_mode: loop_continuous
+    - locc1: 65
+- region:
+    - lokey: c4
+    - hikey: c#4
+- region:
+    - lokey: d4
+    - hikey: d#4
+- region:
+    - lokey: e4
+    - hikey: f4
+- region:
+    - lokey: f#4
+    - hikey: g4
+- region:
+    - lokey: g#4
+    - hikey: a4
+- region:
+    - lokey: a#4
+    - hikey: b4
+- region:
+    - lokey: c5
+    - hikey: c#5
 

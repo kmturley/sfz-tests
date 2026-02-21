@@ -1,5 +1,4 @@
-sfz:
-  - region:
-      - sample: ..\..\samples\bd.wav
-      - count: 3
+- region:
+    - sample: ..\..\samples\bd.wav
+    - count: 3
 

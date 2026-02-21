@@ -1,7 +1,6 @@
-sfz:
-  - region:
-      - tune: 100
-      - transpose: -1
-      - sample: ..\..\samples\440.wav
-      - bendup: 1200
+- region:
+    - tune: 100
+    - transpose: -1
+    - sample: ..\..\samples\440.wav
+    - bendup: 1200
 

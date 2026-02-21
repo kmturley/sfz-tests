@@ -1,6 +1,5 @@
-sfz:
-  - region:
-      - sample: ..\..\samples\loop.wav
-      - sync_beats: 4
-      - sync_offset: 1
+- region:
+    - sample: ..\..\samples\loop.wav
+    - sync_beats: 4
+    - sync_offset: 1
 

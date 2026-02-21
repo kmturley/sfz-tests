@@ -1,18 +1,17 @@
-sfz:
-  - region:
-      - sample: ..\..\samples\440.wav
-      - loopstart: 12629
-      - loopend: 56728
-      - loopmode: loop_continuous
-      - ampeg_release: 2
-      - polyphony: 1
-      - eg01_points: 2
-      - eg01_sustain: 1
-      - eg01_level0: 0
-      - eg01_time0: 0
-      - eg01_level1: 1
-      - eg01_time1: 1
-      - eg01_shape1: 1
-      - eg01_glide_time: 0.06
-      - eg01_pitch: 1200
+- region:
+    - sample: ..\..\samples\440.wav
+    - loopstart: 12629
+    - loopend: 56728
+    - loopmode: loop_continuous
+    - ampeg_release: 2
+    - polyphony: 1
+    - eg01_points: 2
+    - eg01_sustain: 1
+    - eg01_level0: 0
+    - eg01_time0: 0
+    - eg01_level1: 1
+    - eg01_time1: 1
+    - eg01_shape1: 1
+    - eg01_glide_time: 0.06
+    - eg01_pitch: 1200
 

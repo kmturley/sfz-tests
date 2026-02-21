@@ -1,10 +1,9 @@
-sfz:
-  - region:
-      - sample: ..\..\samples\noise.wav
-      - loop_mode: loop_continuous
-      - volume: -6
-      - amp_veltrack: 0
-      - eq2_freq: 2000
-      - lfo01_freq: 2
-      - lfo01_eq2gain: 18
+- region:
+    - sample: ..\..\samples\noise.wav
+    - loop_mode: loop_continuous
+    - volume: -6
+    - amp_veltrack: 0
+    - eq2_freq: 2000
+    - lfo01_freq: 2
+    - lfo01_eq2gain: 18
 

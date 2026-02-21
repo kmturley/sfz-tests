@@ -1,6 +1,5 @@
-sfz:
-  - region:
-      - sample: ..\..\samples\loop.wav
-      - loop_mode: loop_continuous
-      - direction: reverse
+- region:
+    - sample: ..\..\samples\loop.wav
+    - loop_mode: loop_continuous
+    - direction: reverse
 

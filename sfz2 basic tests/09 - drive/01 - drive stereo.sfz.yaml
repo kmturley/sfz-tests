@@ -1,6 +1,5 @@
-sfz:
-  - region:
-      - sample: ..\..\samples\stereo 400 looped.wav
-      - drive_shape: 100
-      - volume: -12
+- region:
+    - sample: ..\..\samples\stereo 400 looped.wav
+    - drive_shape: 100
+    - volume: -12
 

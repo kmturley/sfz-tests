@@ -1,10 +1,9 @@
-sfz:
-  - region:
-      - sample: ..\..\samples\440.wav
-      - loop_start: 12629
-      - loop_end: 56728
-      - loop_mode: loop_continuous
-      - amp_veltrack: 0
-      - ampeg_decay: 1
-      - ampeg_sustain: 0
+- region:
+    - sample: ..\..\samples\440.wav
+    - loop_start: 12629
+    - loop_end: 56728
+    - loop_mode: loop_continuous
+    - amp_veltrack: 0
+    - ampeg_decay: 1
+    - ampeg_sustain: 0
 

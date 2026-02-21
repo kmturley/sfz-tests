@@ -1,8 +1,7 @@
-sfz:
-  - region:
-      - sample: ..\..\samples\stereo 400 looped.wav
-      - drive_shape_oncc73: 100
-      - volume: -12
-      - drive_filter: lpf_1p
-      - drive_tone_oncc70: -100
+- region:
+    - sample: ..\..\samples\stereo 400 looped.wav
+    - drive_shape_oncc73: 100
+    - volume: -12
+    - drive_filter: lpf_1p
+    - drive_tone_oncc70: -100
 

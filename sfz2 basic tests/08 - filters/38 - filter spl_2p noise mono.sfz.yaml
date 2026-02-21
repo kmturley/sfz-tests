@@ -1,12 +1,11 @@
-sfz:
-  - region:
-      - sample: ..\..\samples\noise mono.wav
-      - loop_mode: loop_continuous
-      - pitch_keytrack: 0
-      - cutoff: 1000
-      - resonance_oncc73: 20
-      - volume: -6
-      - cutoff_oncc1: 12000
-      - cutoff_chanaft: -4000
-      - fil_type: spl_2p
+- region:
+    - sample: ..\..\samples\noise mono.wav
+    - loop_mode: loop_continuous
+    - pitch_keytrack: 0
+    - cutoff: 1000
+    - resonance_oncc73: 20
+    - volume: -6
+    - cutoff_oncc1: 12000
+    - cutoff_chanaft: -4000
+    - fil_type: spl_2p
 

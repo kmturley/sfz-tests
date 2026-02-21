@@ -1,5 +1,4 @@
-sfz:
-  - region:
-      - sample: ..\..\samples\mono looped 1k.wav
-      - end: 1764
+- region:
+    - sample: ..\..\samples\mono looped 1k.wav
+    - end: 1764
 

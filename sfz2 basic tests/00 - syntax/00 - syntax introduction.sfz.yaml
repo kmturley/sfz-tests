@@ -1,4 +1,3 @@
-sfz:
-  - region:
-      - sample: ..\..\samples\440.wav
+- region:
+    - sample: ..\..\samples\440.wav
 

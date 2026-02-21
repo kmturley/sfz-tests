@@ -1,10 +1,9 @@
-sfz:
-  - group:
-      - sample: ..\..\samples\440.wav
-      - loop_start: 12629
-      - loop_end: 56728
-      - loop_mode: loop_continuous
-  - region: []
-  - region:
-      - pitch_oncc135: -1200
+- group:
+    - sample: ..\..\samples\440.wav
+    - loop_start: 12629
+    - loop_end: 56728
+    - loop_mode: loop_continuous
+- region: []
+- region:
+    - pitch_oncc135: -1200
 

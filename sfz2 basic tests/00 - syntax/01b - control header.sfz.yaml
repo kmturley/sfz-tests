@@ -1,10 +1,9 @@
-sfz:
-  - region:
-      - sample: ..\..\samples\440.wav
-      - key: c4
-  - control:
-      - octave_offset: -1
-  - region:
-      - sample: ..\..\samples\440.wav
-      - key: c4
+- region:
+    - sample: ..\..\samples\440.wav
+    - key: c4
+- control:
+    - octave_offset: -1
+- region:
+    - sample: ..\..\samples\440.wav
+    - key: c4
 

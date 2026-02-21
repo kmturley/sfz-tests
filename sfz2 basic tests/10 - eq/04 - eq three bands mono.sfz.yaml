@@ -1,16 +1,15 @@
-sfz:
-  - region:
-      - sample: ..\..\samples\sweep test mono.wav
-      - loop_mode: one_shot
-      - amp_veltrack: 0
-      - pitch_keytrack: 0
-      - eq1_freq: 400
-      - eq1_bw: 0.5
-      - eq1_gain: 12
-      - eq2_freq: 1000
-      - eq2_bw: 0.5
-      - eq2_gain: 12
-      - eq3_freq: 4000
-      - eq3_bw: 0.5
-      - eq3_gain: 12
+- region:
+    - sample: ..\..\samples\sweep test mono.wav
+    - loop_mode: one_shot
+    - amp_veltrack: 0
+    - pitch_keytrack: 0
+    - eq1_freq: 400
+    - eq1_bw: 0.5
+    - eq1_gain: 12
+    - eq2_freq: 1000
+    - eq2_bw: 0.5
+    - eq2_gain: 12
+    - eq3_freq: 4000
+    - eq3_bw: 0.5
+    - eq3_gain: 12
 

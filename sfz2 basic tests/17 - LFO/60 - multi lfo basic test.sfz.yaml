@@ -1,13 +1,12 @@
-sfz:
-  - region:
-      - volume: -6
-      - sample: '*sine'
-      - lfo06_wave: 1
-      - lfo06_pitch: 700
-      - lfo06_freq: 0
-      - lfo06_freq_oncc1: 4
-      - lfo06_wave2: 1
-      - lfo06_ratio2: 4
-      - lfo06_offset2: 0
-      - lfo06_scale2: 1
+- region:
+    - volume: -6
+    - sample: '*sine'
+    - lfo06_wave: 1
+    - lfo06_pitch: 700
+    - lfo06_freq: 0
+    - lfo06_freq_oncc1: 4
+    - lfo06_wave2: 1
+    - lfo06_ratio2: 4
+    - lfo06_offset2: 0
+    - lfo06_scale2: 1
 

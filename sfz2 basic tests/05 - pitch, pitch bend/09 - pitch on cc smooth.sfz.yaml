@@ -1,23 +1,22 @@
-sfz:
-  - group:
-      - sample: ..\..\samples\440.wav
-      - loop_start: 12629
-      - loop_end: 56728
-      - loop_mode: loop_continuous
-      - bend_up: 0
-      - bend_down: 0
-  - region:
-      - pitch_oncc73: 1200
-      - pitch_smoothcc73: 1
-      - pitch_oncc70: 1200
-      - pitch_smoothcc70: 100
-      - pitch_oncc20: 1200
-      - pitch_smoothcc20: 0
-      - pitch_stepcc20: 400
-      - pitch_oncc21: 1200
-      - pitch_smoothcc21: 500
-      - pitch_oncc128: 0
-      - pitch_smoothcc128: 100
-      - pitch_oncc129: 1200
-      - pitch_smoothcc129: 100
+- group:
+    - sample: ..\..\samples\440.wav
+    - loop_start: 12629
+    - loop_end: 56728
+    - loop_mode: loop_continuous
+    - bend_up: 0
+    - bend_down: 0
+- region:
+    - pitch_oncc73: 1200
+    - pitch_smoothcc73: 1
+    - pitch_oncc70: 1200
+    - pitch_smoothcc70: 100
+    - pitch_oncc20: 1200
+    - pitch_smoothcc20: 0
+    - pitch_stepcc20: 400
+    - pitch_oncc21: 1200
+    - pitch_smoothcc21: 500
+    - pitch_oncc128: 0
+    - pitch_smoothcc128: 100
+    - pitch_oncc129: 1200
+    - pitch_smoothcc129: 100
 

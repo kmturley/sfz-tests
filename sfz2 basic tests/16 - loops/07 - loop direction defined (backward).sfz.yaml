@@ -1,8 +1,7 @@
-sfz:
-  - region:
-      - sample: ..\..\samples\stereo looped 1k.wav
-      - loop_mode: loop_continuous
-      - loop_type: backward
-      - loop_start: 0
-      - loop_end: 44100
+- region:
+    - sample: ..\..\samples\stereo looped 1k.wav
+    - loop_mode: loop_continuous
+    - loop_type: backward
+    - loop_start: 0
+    - loop_end: 44100
 

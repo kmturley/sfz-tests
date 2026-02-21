@@ -1,10 +1,9 @@
-sfz:
-  - region:
-      - sample: ..\..\samples\stereo silence.wav
-      - amp_veltrack: 0
-      - noise_filter: hpf_1p
-      - noise_level: 0
-      - noise_step: 0
-      - noise_tone: 0
-      - noise_tone_oncc73: 100
+- region:
+    - sample: ..\..\samples\stereo silence.wav
+    - amp_veltrack: 0
+    - noise_filter: hpf_1p
+    - noise_level: 0
+    - noise_step: 0
+    - noise_tone: 0
+    - noise_tone_oncc73: 100
 

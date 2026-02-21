@@ -1,14 +1,13 @@
-sfz:
-  - group:
-      - sample: ..\..\samples\440.wav
-  - region:
-      - transpose: -36
-      - volume: -6
-  - region:
-      - hikey: b3
-      - transpose: -24
-  - region:
-      - lokey: c4
-      - lovel: 64
-      - transpose: -12
+- group:
+    - sample: ..\..\samples\440.wav
+- region:
+    - transpose: -36
+    - volume: -6
+- region:
+    - hikey: b3
+    - transpose: -24
+- region:
+    - lokey: c4
+    - lovel: 64
+    - transpose: -12
 

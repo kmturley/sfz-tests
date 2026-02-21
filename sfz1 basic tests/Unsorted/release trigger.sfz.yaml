@@ -1,8 +1,7 @@
-sfz:
-  - region:
-      - sample: ..\..\samples\440.wav
-  - region:
-      - sample: ..\..\samples\110.wav
-      - trigger: release
-      - rtdecay: 6.5
+- region:
+    - sample: ..\..\samples\440.wav
+- region:
+    - sample: ..\..\samples\110.wav
+    - trigger: release
+    - rtdecay: 6.5
 

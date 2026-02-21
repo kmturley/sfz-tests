@@ -1,17 +1,16 @@
-sfz:
-  - region:
-      - sample: ..\..\samples\two tone.wav
-      - loop_mode: loop_continuous
-      - volume: -6
-      - drive_filter: lpf_1p
-      - drive_shape_oncc73: 100
-      - drive_shape_smoothcc73: 1
-      - drive_shape_oncc70: 100
-      - drive_shape_smoothcc70: 100
-      - drive_shape_oncc20: 100
-      - drive_shape_stepcc20: -25
-      - drive_shape_oncc21: 100
-      - drive_shape_smoothcc21: 500
-      - drive_shape_oncc129: 100
-      - drive_shape_smoothcc129: 200
+- region:
+    - sample: ..\..\samples\two tone.wav
+    - loop_mode: loop_continuous
+    - volume: -6
+    - drive_filter: lpf_1p
+    - drive_shape_oncc73: 100
+    - drive_shape_smoothcc73: 1
+    - drive_shape_oncc70: 100
+    - drive_shape_smoothcc70: 100
+    - drive_shape_oncc20: 100
+    - drive_shape_stepcc20: -25
+    - drive_shape_oncc21: 100
+    - drive_shape_smoothcc21: 500
+    - drive_shape_oncc129: 100
+    - drive_shape_smoothcc129: 200
 

@@ -1,28 +1,27 @@
-sfz:
-  - group:
-      - sample: ..\..\samples\440.wav
-      - loopstart: 12629
-      - loopend: 56728
-      - loopmode: loop_continuous
-  - region:
-      - pan: -100
-      - ampeg_sustain: 0
-      - ampeg_decay: 2
-  - region:
-      - pan: 100
-      - eg10_sustain: 4
-      - eg10_level0: 0
-      - eg10_time0: 0
-      - eg10_level1: 0
-      - eg10_time1: 0.5
-      - eg10_level2: 1
-      - eg10_time2: 1
-      - eg10_level3: 1
-      - eg10_time3: 1
-      - eg10_shape3: 0.1
-      - eg10_level4: 0.5
-      - eg10_time4: 1
-      - eg10_level5: 0
-      - eg10_time5: 1
-      - eg10_ampeg: 100
+- group:
+    - sample: ..\..\samples\440.wav
+    - loopstart: 12629
+    - loopend: 56728
+    - loopmode: loop_continuous
+- region:
+    - pan: -100
+    - ampeg_sustain: 0
+    - ampeg_decay: 2
+- region:
+    - pan: 100
+    - eg10_sustain: 4
+    - eg10_level0: 0
+    - eg10_time0: 0
+    - eg10_level1: 0
+    - eg10_time1: 0.5
+    - eg10_level2: 1
+    - eg10_time2: 1
+    - eg10_level3: 1
+    - eg10_time3: 1
+    - eg10_shape3: 0.1
+    - eg10_level4: 0.5
+    - eg10_time4: 1
+    - eg10_level5: 0
+    - eg10_time5: 1
+    - eg10_ampeg: 100
 

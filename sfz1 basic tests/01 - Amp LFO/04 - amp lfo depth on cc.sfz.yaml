@@ -1,10 +1,9 @@
-sfz:
-  - region:
-      - sample: ..\..\samples\440.wav
-      - loopstart: 12629
-      - loopend: 56728
-      - loopmode: loop_continuous
-      - amplfo_freq: 5
-      - amplfo_depthcc1: 10
-      - volume: -10
+- region:
+    - sample: ..\..\samples\440.wav
+    - loopstart: 12629
+    - loopend: 56728
+    - loopmode: loop_continuous
+    - amplfo_freq: 5
+    - amplfo_depthcc1: 10
+    - volume: -10
 

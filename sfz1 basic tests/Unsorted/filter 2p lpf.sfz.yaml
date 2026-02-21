@@ -1,8 +1,7 @@
-sfz:
-  - region:
-      - sample: ..\..\samples\noise.wav
-      - loopmode: loop_continuous
-      - cutoff: 1000
-      - cutoff_cc1: 12000
-      - cutoff_chanaft: -4000
+- region:
+    - sample: ..\..\samples\noise.wav
+    - loopmode: loop_continuous
+    - cutoff: 1000
+    - cutoff_cc1: 12000
+    - cutoff_chanaft: -4000
 

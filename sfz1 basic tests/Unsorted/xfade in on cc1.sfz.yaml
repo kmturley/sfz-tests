@@ -1,10 +1,9 @@
-sfz:
-  - region:
-      - sample: ..\..\samples\440.wav
-      - loopstart: 11227
-      - loopend: 31672
-      - loopmode: loop_continuous
-      - transpose: 12
-      - xfin_locc1: 0
-      - xfin_hicc1: 127
+- region:
+    - sample: ..\..\samples\440.wav
+    - loopstart: 11227
+    - loopend: 31672
+    - loopmode: loop_continuous
+    - transpose: 12
+    - xfin_locc1: 0
+    - xfin_hicc1: 127
 

@@ -1,11 +1,10 @@
-sfz:
-  - region:
-      - sample: ..\..\samples\noise.wav
-      - loop_mode: loop_continuous
-      - pitch_keytrack: 0
-      - amp_veltrack: 0
-      - volume: -6
-      - cutoff: 1000
-      - resonance: 30
-      - fil_veltrack: -2400
+- region:
+    - sample: ..\..\samples\noise.wav
+    - loop_mode: loop_continuous
+    - pitch_keytrack: 0
+    - amp_veltrack: 0
+    - volume: -6
+    - cutoff: 1000
+    - resonance: 30
+    - fil_veltrack: -2400
 
