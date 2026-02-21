@@ -41,48 +41,46 @@ function transform(xmlJsJson) {
     headers.push({ [el.name]: opcodes });
   }
 
-  return { sfz: headers };
+  return headers;
 }
 
 function formatCompactPretty(data) {
   const q = (v) => JSON.stringify(v);
-  if (!data || !Array.isArray(data.sfz)) {
+  if (!Array.isArray(data)) {
     return `${JSON.stringify(data, null, 2)}\n`;
   }
 
   const lines = [];
-  lines.push("{");
-  lines.push('  "sfz": [');
+  lines.push("[");
 
-  data.sfz.forEach((headerObj, headerIndex) => {
+  data.forEach((headerObj, headerIndex) => {
     const keys = Object.keys(headerObj || {});
     if (keys.length !== 1 || !Array.isArray(headerObj[keys[0]])) {
-      const trailing = headerIndex === data.sfz.length - 1 ? "" : ",";
-      lines.push(`    ${JSON.stringify(headerObj)}${trailing}`);
+      const trailing = headerIndex === data.length - 1 ? "" : ",";
+      lines.push(`  ${JSON.stringify(headerObj)}${trailing}`);
       return;
     }
 
     const headerName = keys[0];
     const opcodes = headerObj[headerName];
 
-    lines.push(`    {${q(headerName)}: [`);
+    lines.push(`  {${q(headerName)}: [`);
     opcodes.forEach((opcodeObj, opcodeIndex) => {
       const opcodeKeys = Object.keys(opcodeObj || {});
       const trailing = opcodeIndex === opcodes.length - 1 ? "" : ",";
       if (opcodeKeys.length !== 1) {
-        lines.push(`      ${JSON.stringify(opcodeObj)}${trailing}`);
+        lines.push(`    ${JSON.stringify(opcodeObj)}${trailing}`);
         return;
       }
       const opcodeName = opcodeKeys[0];
       const opcodeValue = opcodeObj[opcodeName];
-      lines.push(`      {${q(opcodeName)}: ${q(opcodeValue)}}${trailing}`);
+      lines.push(`    {${q(opcodeName)}: ${q(opcodeValue)}}${trailing}`);
     });
-    const headerTrailing = headerIndex === data.sfz.length - 1 ? "" : ",";
-    lines.push(`    ]}${headerTrailing}`);
+    const headerTrailing = headerIndex === data.length - 1 ? "" : ",";
+    lines.push(`  ]}${headerTrailing}`);
   });
 
-  lines.push("  ]");
-  lines.push("}");
+  lines.push("]");
   return `${lines.join("\n")}\n`;
 }
 
