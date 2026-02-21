@@ -1,9 +1,7 @@
-{
-  "sfz": [
-    {"region": [
-      {"sample": "..\\..\\samples\\mono 400 looped.wav"},
-      {"polyphony": "legato_last"},
-      {"lokey": "c4"}
-    ]}
-  ]
-}
+[
+  {"region": [
+    {"sample": "..\\..\\samples\\mono 400 looped.wav"},
+    {"polyphony": "legato_last"},
+    {"lokey": "c4"}
+  ]}
+]

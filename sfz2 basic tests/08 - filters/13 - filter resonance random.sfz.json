@@ -1,13 +1,11 @@
-{
-  "sfz": [
-    {"region": [
-      {"sample": "..\\..\\samples\\noise.wav"},
-      {"loop_mode": "loop_continuous"},
-      {"pitch_keytrack": 0},
-      {"amp_veltrack": 0},
-      {"volume": -6},
-      {"cutoff": 1000},
-      {"resonance_oncc135": 40}
-    ]}
-  ]
-}
+[
+  {"region": [
+    {"sample": "..\\..\\samples\\noise.wav"},
+    {"loop_mode": "loop_continuous"},
+    {"pitch_keytrack": 0},
+    {"amp_veltrack": 0},
+    {"volume": -6},
+    {"cutoff": 1000},
+    {"resonance_oncc135": 40}
+  ]}
+]

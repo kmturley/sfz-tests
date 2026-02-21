@@ -1,20 +1,18 @@
-{
-  "sfz": [
-    {"group": [
-      {"sample": "..\\..\\samples\\noise.wav"},
-      {"loop_mode": "loop_continuous"},
-      {"pitch_keytrack": 0},
-      {"cutoff": 400},
-      {"resonance": 30},
-      {"fil_keytrack": 100},
-      {"amp_veltrack": 0},
-      {"volume": -6}
-    ]},
-    {"region": [
-      {"fil_keycenter": 48}
-    ]},
-    {"region": [
-      {"fil_keycenter": 72}
-    ]}
-  ]
-}
+[
+  {"group": [
+    {"sample": "..\\..\\samples\\noise.wav"},
+    {"loop_mode": "loop_continuous"},
+    {"pitch_keytrack": 0},
+    {"cutoff": 400},
+    {"resonance": 30},
+    {"fil_keytrack": 100},
+    {"amp_veltrack": 0},
+    {"volume": -6}
+  ]},
+  {"region": [
+    {"fil_keycenter": 48}
+  ]},
+  {"region": [
+    {"fil_keycenter": 72}
+  ]}
+]

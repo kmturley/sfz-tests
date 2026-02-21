@@ -1,12 +1,10 @@
-{
-  "sfz": [
-    {"region": [
-      {"sample": "..\\..\\samples\\mono silence.wav"},
-      {"amp_veltrack": 0},
-      {"noise_filter": "pink"},
-      {"noise_level": 10},
-      {"noise_step": 0},
-      {"noise_tone": 100}
-    ]}
-  ]
-}
+[
+  {"region": [
+    {"sample": "..\\..\\samples\\mono silence.wav"},
+    {"amp_veltrack": 0},
+    {"noise_filter": "pink"},
+    {"noise_level": 10},
+    {"noise_step": 0},
+    {"noise_tone": 100}
+  ]}
+]

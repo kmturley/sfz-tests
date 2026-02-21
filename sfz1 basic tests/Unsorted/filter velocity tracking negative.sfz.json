@@ -1,11 +1,9 @@
-{
-  "sfz": [
-    {"region": [
-      {"sample": "..\\..\\samples\\noise.wav"},
-      {"cutoff": 3000},
-      {"resonance": 40},
-      {"loopmode": "loop_continuous"},
-      {"fil_veltrack": -2400}
-    ]}
-  ]
-}
+[
+  {"region": [
+    {"sample": "..\\..\\samples\\noise.wav"},
+    {"cutoff": 3000},
+    {"resonance": 40},
+    {"loopmode": "loop_continuous"},
+    {"fil_veltrack": -2400}
+  ]}
+]

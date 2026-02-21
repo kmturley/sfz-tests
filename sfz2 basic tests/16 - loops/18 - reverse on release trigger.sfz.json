@@ -1,14 +1,12 @@
-{
-  "sfz": [
-    {"group": [
-      {"sample": "..\\..\\samples\\bd.wav"}
-    ]},
-    {"region": [
-      {"loop_mode": "loop_continuous"}
-    ]},
-    {"region": [
-      {"direction": "reverse"},
-      {"trigger": "release"}
-    ]}
-  ]
-}
+[
+  {"group": [
+    {"sample": "..\\..\\samples\\bd.wav"}
+  ]},
+  {"region": [
+    {"loop_mode": "loop_continuous"}
+  ]},
+  {"region": [
+    {"direction": "reverse"},
+    {"trigger": "release"}
+  ]}
+]

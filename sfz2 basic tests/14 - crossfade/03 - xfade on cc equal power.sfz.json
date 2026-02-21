@@ -1,19 +1,17 @@
-{
-  "sfz": [
-    {"group": [
-      {"sample": "..\\..\\samples\\440.wav"},
-      {"loop_start": 12629},
-      {"loop_end": 56728},
-      {"loop_mode": "loop_continuous"},
-      {"amp_veltrack": 0}
-    ]},
-    {"region": [
-      {"xfin_locc1": 0},
-      {"xfin_hicc1": 127}
-    ]},
-    {"region": [
-      {"xfout_locc1": 0},
-      {"xfout_hicc1": 127}
-    ]}
-  ]
-}
+[
+  {"group": [
+    {"sample": "..\\..\\samples\\440.wav"},
+    {"loop_start": 12629},
+    {"loop_end": 56728},
+    {"loop_mode": "loop_continuous"},
+    {"amp_veltrack": 0}
+  ]},
+  {"region": [
+    {"xfin_locc1": 0},
+    {"xfin_hicc1": 127}
+  ]},
+  {"region": [
+    {"xfout_locc1": 0},
+    {"xfout_hicc1": 127}
+  ]}
+]

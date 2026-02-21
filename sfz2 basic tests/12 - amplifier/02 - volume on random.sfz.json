@@ -1,14 +1,12 @@
-{
-  "sfz": [
-    {"group": [
-      {"sample": "..\\..\\samples\\440.wav"},
-      {"loop_start": 12629},
-      {"loop_end": 56728},
-      {"loop_mode": "loop_continuous"},
-      {"volume": -12}
-    ]},
-    {"region": [
-      {"volume_oncc135": 24}
-    ]}
-  ]
-}
+[
+  {"group": [
+    {"sample": "..\\..\\samples\\440.wav"},
+    {"loop_start": 12629},
+    {"loop_end": 56728},
+    {"loop_mode": "loop_continuous"},
+    {"volume": -12}
+  ]},
+  {"region": [
+    {"volume_oncc135": 24}
+  ]}
+]

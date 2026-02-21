@@ -1,8 +1,6 @@
-{
-  "sfz": [
-    {"region": [
-      {"sample": "..\\..\\samples\\440.wav"},
-      {"key": "d#3"}
-    ]}
-  ]
-}
+[
+  {"region": [
+    {"sample": "..\\..\\samples\\440.wav"},
+    {"key": "d#3"}
+  ]}
+]

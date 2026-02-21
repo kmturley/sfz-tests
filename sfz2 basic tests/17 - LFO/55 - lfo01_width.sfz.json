@@ -1,12 +1,10 @@
-{
-  "sfz": [
-    {"region": [
-      {"sample": "..\\..\\samples\\only l.wav"},
-      {"loop_mode": "loop_continuous"},
-      {"amp_veltrack": 0},
-      {"lfo01_freq": 1},
-      {"lfo01_wave": 1},
-      {"lfo01_width": 100}
-    ]}
-  ]
-}
+[
+  {"region": [
+    {"sample": "..\\..\\samples\\only l.wav"},
+    {"loop_mode": "loop_continuous"},
+    {"amp_veltrack": 0},
+    {"lfo01_freq": 1},
+    {"lfo01_wave": 1},
+    {"lfo01_width": 100}
+  ]}
+]

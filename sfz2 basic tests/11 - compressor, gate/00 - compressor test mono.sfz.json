@@ -1,12 +1,10 @@
-{
-  "sfz": [
-    {"region": [
-      {"sample": "..\\..\\samples\\compressor test mono.wav"},
-      {"loop_mode": "loop_continuous"},
-      {"comp_threshold": -6},
-      {"comp_ratio": 50},
-      {"comp_attack": 0.05},
-      {"comp_release": 0.05}
-    ]}
-  ]
-}
+[
+  {"region": [
+    {"sample": "..\\..\\samples\\compressor test mono.wav"},
+    {"loop_mode": "loop_continuous"},
+    {"comp_threshold": -6},
+    {"comp_ratio": 50},
+    {"comp_attack": 0.05},
+    {"comp_release": 0.05}
+  ]}
+]

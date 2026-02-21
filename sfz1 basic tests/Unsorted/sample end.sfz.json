@@ -1,8 +1,6 @@
-{
-  "sfz": [
-    {"region": [
-      {"sample": "..\\..\\samples\\mono looped 1k.wav"},
-      {"end": 4400}
-    ]}
-  ]
-}
+[
+  {"region": [
+    {"sample": "..\\..\\samples\\mono looped 1k.wav"},
+    {"end": 4400}
+  ]}
+]

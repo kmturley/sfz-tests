@@ -1,14 +1,12 @@
-{
-  "sfz": [
-    {"region": [
-      {"sample": "..\\..\\samples\\noise.wav"},
-      {"loopmode": "loop_continuous"},
-      {"fillfo_freq": 2},
-      {"fillfo_depth": 2400},
-      {"cutoff": 500},
-      {"resonance": 20},
-      {"fillfo_freqcc1": -2},
-      {"fillfo_freqchanaft": 2}
-    ]}
-  ]
-}
+[
+  {"region": [
+    {"sample": "..\\..\\samples\\noise.wav"},
+    {"loopmode": "loop_continuous"},
+    {"fillfo_freq": 2},
+    {"fillfo_depth": 2400},
+    {"cutoff": 500},
+    {"resonance": 20},
+    {"fillfo_freqcc1": -2},
+    {"fillfo_freqchanaft": 2}
+  ]}
+]

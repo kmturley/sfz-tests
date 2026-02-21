@@ -1,23 +1,21 @@
-{
-  "sfz": [
-    {"region": [
-      {"sample": "..\\..\\samples\\440.wav"},
-      {"loop_start": 12629},
-      {"loop_end": 56728},
-      {"loop_mode": "loop_continuous"},
-      {"amp_veltrack": 0},
-      {"decim_oncc73": 100},
-      {"decim_smoothcc73": 1},
-      {"decim_oncc70": 100},
-      {"decim_smoothcc70": 100},
-      {"decim_oncc20": 100},
-      {"decim_stepcc20": 10},
-      {"decim_oncc21": 100},
-      {"decim_smoothcc21": 500},
-      {"decim_oncc128": 100},
-      {"decim_smoothcc128": 100},
-      {"decim_oncc129": 100},
-      {"decim_smoothcc129": 100}
-    ]}
-  ]
-}
+[
+  {"region": [
+    {"sample": "..\\..\\samples\\440.wav"},
+    {"loop_start": 12629},
+    {"loop_end": 56728},
+    {"loop_mode": "loop_continuous"},
+    {"amp_veltrack": 0},
+    {"decim_oncc73": 100},
+    {"decim_smoothcc73": 1},
+    {"decim_oncc70": 100},
+    {"decim_smoothcc70": 100},
+    {"decim_oncc20": 100},
+    {"decim_stepcc20": 10},
+    {"decim_oncc21": 100},
+    {"decim_smoothcc21": 500},
+    {"decim_oncc128": 100},
+    {"decim_smoothcc128": 100},
+    {"decim_oncc129": 100},
+    {"decim_smoothcc129": 100}
+  ]}
+]

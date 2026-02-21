@@ -1,8 +1,6 @@
-{
-  "sfz": [
-    {"region": [
-      {"sample": "..\\..\\samples\\sweep.wav"},
-      {"offset_oncc135": 88200}
-    ]}
-  ]
-}
+[
+  {"region": [
+    {"sample": "..\\..\\samples\\sweep.wav"},
+    {"offset_oncc135": 88200}
+  ]}
+]

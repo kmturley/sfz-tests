@@ -1,11 +1,9 @@
-{
-  "sfz": [
-    {"region": [
-      {"sample": "..\\..\\samples\\noise.wav"},
-      {"loopmode": "loop_continuous"},
-      {"eq1_freq": 100},
-      {"eq1_vel2freq": 3000},
-      {"eq1_vel2gain": 24}
-    ]}
-  ]
-}
+[
+  {"region": [
+    {"sample": "..\\..\\samples\\noise.wav"},
+    {"loopmode": "loop_continuous"},
+    {"eq1_freq": 100},
+    {"eq1_vel2freq": 3000},
+    {"eq1_vel2gain": 24}
+  ]}
+]

@@ -1,13 +1,11 @@
-{
-  "sfz": [
-    {"region": [
-      {"sample": "..\\..\\samples\\440.wav"},
-      {"loopstart": 12629},
-      {"loopend": 56728},
-      {"loopmode": "loop_continuous"},
-      {"bendup": 2400},
-      {"benddown": -2400},
-      {"bendstep": 100}
-    ]}
-  ]
-}
+[
+  {"region": [
+    {"sample": "..\\..\\samples\\440.wav"},
+    {"loopstart": 12629},
+    {"loopend": 56728},
+    {"loopmode": "loop_continuous"},
+    {"bendup": 2400},
+    {"benddown": -2400},
+    {"bendstep": 100}
+  ]}
+]

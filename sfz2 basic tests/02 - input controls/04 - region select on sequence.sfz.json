@@ -1,39 +1,37 @@
-{
-  "sfz": [
-    {"group": [
-      {"sample": "..\\..\\samples\\440.wav"},
-      {"loop_start": 12629},
-      {"loop_end": 56728},
-      {"loop_mode": "loop_continuous"},
-      {"seq_length": 3}
-    ]},
-    {"region": [
-      {"seq_position": 1},
-      {"hikey": "c4"}
-    ]},
-    {"region": [
-      {"seq_position": 2},
-      {"hikey": "c4"},
-      {"transpose": 2}
-    ]},
-    {"region": [
-      {"seq_position": 3},
-      {"hikey": "c4"},
-      {"transpose": 4}
-    ]},
-    {"region": [
-      {"seq_position": 1},
-      {"lokey": "c#4"}
-    ]},
-    {"region": [
-      {"seq_position": 2},
-      {"lokey": "c#4"},
-      {"transpose": 2}
-    ]},
-    {"region": [
-      {"seq_position": 3},
-      {"lokey": "c#4"},
-      {"transpose": 4}
-    ]}
-  ]
-}
+[
+  {"group": [
+    {"sample": "..\\..\\samples\\440.wav"},
+    {"loop_start": 12629},
+    {"loop_end": 56728},
+    {"loop_mode": "loop_continuous"},
+    {"seq_length": 3}
+  ]},
+  {"region": [
+    {"seq_position": 1},
+    {"hikey": "c4"}
+  ]},
+  {"region": [
+    {"seq_position": 2},
+    {"hikey": "c4"},
+    {"transpose": 2}
+  ]},
+  {"region": [
+    {"seq_position": 3},
+    {"hikey": "c4"},
+    {"transpose": 4}
+  ]},
+  {"region": [
+    {"seq_position": 1},
+    {"lokey": "c#4"}
+  ]},
+  {"region": [
+    {"seq_position": 2},
+    {"lokey": "c#4"},
+    {"transpose": 2}
+  ]},
+  {"region": [
+    {"seq_position": 3},
+    {"lokey": "c#4"},
+    {"transpose": 4}
+  ]}
+]

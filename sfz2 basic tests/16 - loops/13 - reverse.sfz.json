@@ -1,8 +1,6 @@
-{
-  "sfz": [
-    {"region": [
-      {"sample": "..\\..\\samples\\bd.wav"},
-      {"direction": "reverse"}
-    ]}
-  ]
-}
+[
+  {"region": [
+    {"sample": "..\\..\\samples\\bd.wav"},
+    {"direction": "reverse"}
+  ]}
+]

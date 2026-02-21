@@ -1,20 +1,18 @@
-{
-  "sfz": [
-    {"group": [
-      {"lokey": -1},
-      {"hikey": -1},
-      {"sample": "..\\..\\samples\\440.ogg"},
-      {"loop_start": 12629},
-      {"loop_end": 56728},
-      {"loop_mode": "loop_continuous"}
-    ]},
-    {"region": [
-      {"start_locc64": 127},
-      {"start_hicc64": 127}
-    ]},
-    {"region": [
-      {"stop_locc64": 0},
-      {"stop_hicc64": 0}
-    ]}
-  ]
-}
+[
+  {"group": [
+    {"lokey": -1},
+    {"hikey": -1},
+    {"sample": "..\\..\\samples\\440.ogg"},
+    {"loop_start": 12629},
+    {"loop_end": 56728},
+    {"loop_mode": "loop_continuous"}
+  ]},
+  {"region": [
+    {"start_locc64": 127},
+    {"start_hicc64": 127}
+  ]},
+  {"region": [
+    {"stop_locc64": 0},
+    {"stop_hicc64": 0}
+  ]}
+]

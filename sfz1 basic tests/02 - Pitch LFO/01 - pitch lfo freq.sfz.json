@@ -1,12 +1,10 @@
-{
-  "sfz": [
-    {"region": [
-      {"sample": "..\\..\\samples\\440.wav"},
-      {"loopstart": 12629},
-      {"loopend": 56728},
-      {"loopmode": "loop_continuous"},
-      {"pitchlfo_freq": 1},
-      {"pitchlfo_depth": 600}
-    ]}
-  ]
-}
+[
+  {"region": [
+    {"sample": "..\\..\\samples\\440.wav"},
+    {"loopstart": 12629},
+    {"loopend": 56728},
+    {"loopmode": "loop_continuous"},
+    {"pitchlfo_freq": 1},
+    {"pitchlfo_depth": 600}
+  ]}
+]

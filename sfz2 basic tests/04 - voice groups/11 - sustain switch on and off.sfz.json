@@ -1,16 +1,14 @@
-{
-  "sfz": [
-    {"group": [
-      {"sample": "..\\..\\samples\\440.wav"},
-      {"loop_start": 12629},
-      {"loop_end": 56728},
-      {"loop_mode": "loop_continuous"}
-    ]},
-    {"region": [
-      {"transpose": 12}
-    ]},
-    {"region": [
-      {"sustain_sw": "off"}
-    ]}
-  ]
-}
+[
+  {"group": [
+    {"sample": "..\\..\\samples\\440.wav"},
+    {"loop_start": 12629},
+    {"loop_end": 56728},
+    {"loop_mode": "loop_continuous"}
+  ]},
+  {"region": [
+    {"transpose": 12}
+  ]},
+  {"region": [
+    {"sustain_sw": "off"}
+  ]}
+]

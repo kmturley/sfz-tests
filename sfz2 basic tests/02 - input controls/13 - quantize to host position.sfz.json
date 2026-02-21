@@ -1,8 +1,6 @@
-{
-  "sfz": [
-    {"region": [
-      {"sample": "..\\..\\samples\\loop.wav"},
-      {"sync_beats": 4}
-    ]}
-  ]
-}
+[
+  {"region": [
+    {"sample": "..\\..\\samples\\loop.wav"},
+    {"sync_beats": 4}
+  ]}
+]

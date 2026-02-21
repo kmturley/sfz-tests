@@ -1,7 +1,5 @@
-{
-  "sfz": [
-    {"region": [
-      {"sample": "..\\..\\samples\\stereo looped 1k old.wav"}
-    ]}
-  ]
-}
+[
+  {"region": [
+    {"sample": "..\\..\\samples\\stereo looped 1k old.wav"}
+  ]}
+]

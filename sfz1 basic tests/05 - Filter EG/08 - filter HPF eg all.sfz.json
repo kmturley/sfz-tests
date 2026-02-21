@@ -1,19 +1,17 @@
-{
-  "sfz": [
-    {"region": [
-      {"sample": "..\\..\\samples\\noise.wav"},
-      {"cutoff": 1000},
-      {"resonance": 40},
-      {"volume": -6},
-      {"loopmode": "loop_continuous"},
-      {"ampeg_release": 5},
-      {"filtype": "hpf_2p"},
-      {"fileg_attack": 0.5},
-      {"fileg_depth": -1200},
-      {"fileg_hold": 0.5},
-      {"fileg_decay": 0.5},
-      {"fileg_sustain": 60},
-      {"fileg_release": 0.5}
-    ]}
-  ]
-}
+[
+  {"region": [
+    {"sample": "..\\..\\samples\\noise.wav"},
+    {"cutoff": 1000},
+    {"resonance": 40},
+    {"volume": -6},
+    {"loopmode": "loop_continuous"},
+    {"ampeg_release": 5},
+    {"filtype": "hpf_2p"},
+    {"fileg_attack": 0.5},
+    {"fileg_depth": -1200},
+    {"fileg_hold": 0.5},
+    {"fileg_decay": 0.5},
+    {"fileg_sustain": 60},
+    {"fileg_release": 0.5}
+  ]}
+]

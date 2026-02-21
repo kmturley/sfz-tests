@@ -1,8 +1,6 @@
-{
-  "sfz": [
-    {"region": [
-      {"sample": "..\\..\\samples\\bd.wav"},
-      {"loop_mode": "loop_continuous"}
-    ]}
-  ]
-}
+[
+  {"region": [
+    {"sample": "..\\..\\samples\\bd.wav"},
+    {"loop_mode": "loop_continuous"}
+  ]}
+]

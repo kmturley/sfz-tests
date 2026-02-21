@@ -1,12 +1,10 @@
-{
-  "sfz": [
-    {"region": [
-      {"sample": "..\\..\\samples\\440.wav"},
-      {"lokey": "c4"}
-    ]},
-    {"region": [
-      {"sample": "..\\..\\samples\\110.wav"},
-      {"hikey": "b3"}
-    ]}
-  ]
-}
+[
+  {"region": [
+    {"sample": "..\\..\\samples\\440.wav"},
+    {"lokey": "c4"}
+  ]},
+  {"region": [
+    {"sample": "..\\..\\samples\\110.wav"},
+    {"hikey": "b3"}
+  ]}
+]

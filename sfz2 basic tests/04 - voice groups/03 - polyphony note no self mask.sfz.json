@@ -1,15 +1,13 @@
-{
-  "sfz": [
-    {"region": [
-      {"sample": "..\\..\\samples\\440.wav"},
-      {"loop_start": 12629},
-      {"loop_end": 56728},
-      {"loop_mode": "loop_continuous"},
-      {"pitch_keycenter": "a3"},
-      {"group": 1},
-      {"polyphony": 12},
-      {"note_polyphony": 3},
-      {"note_selfmask": "off"}
-    ]}
-  ]
-}
+[
+  {"region": [
+    {"sample": "..\\..\\samples\\440.wav"},
+    {"loop_start": 12629},
+    {"loop_end": 56728},
+    {"loop_mode": "loop_continuous"},
+    {"pitch_keycenter": "a3"},
+    {"group": 1},
+    {"polyphony": 12},
+    {"note_polyphony": 3},
+    {"note_selfmask": "off"}
+  ]}
+]

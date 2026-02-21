@@ -1,19 +1,17 @@
-{
-  "sfz": [
-    {"group": [
-      {"sample": "..\\..\\samples\\440.wav"},
-      {"loop_start": 12629},
-      {"loop_end": 56728},
-      {"loop_mode": "loop_continuous"},
-      {"group": 1},
-      {"polyphony": 1}
-    ]},
-    {"region": [
-      {"trigger": "first"},
-      {"transpose": -12}
-    ]},
-    {"region": [
-      {"trigger": "legato"}
-    ]}
-  ]
-}
+[
+  {"group": [
+    {"sample": "..\\..\\samples\\440.wav"},
+    {"loop_start": 12629},
+    {"loop_end": 56728},
+    {"loop_mode": "loop_continuous"},
+    {"group": 1},
+    {"polyphony": 1}
+  ]},
+  {"region": [
+    {"trigger": "first"},
+    {"transpose": -12}
+  ]},
+  {"region": [
+    {"trigger": "legato"}
+  ]}
+]

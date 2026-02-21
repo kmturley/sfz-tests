@@ -1,13 +1,11 @@
-{
-  "sfz": [
-    {"region": [
-      {"sample": "..\\..\\samples\\compressor test link.wav"},
-      {"loop_mode": "loop_continuous"},
-      {"comp_stlink": "on"},
-      {"comp_threshold": -9},
-      {"comp_ratio": 50},
-      {"comp_attack": 0.05},
-      {"comp_release": 0.05}
-    ]}
-  ]
-}
+[
+  {"region": [
+    {"sample": "..\\..\\samples\\compressor test link.wav"},
+    {"loop_mode": "loop_continuous"},
+    {"comp_stlink": "on"},
+    {"comp_threshold": -9},
+    {"comp_ratio": 50},
+    {"comp_attack": 0.05},
+    {"comp_release": 0.05}
+  ]}
+]

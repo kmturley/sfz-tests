@@ -1,9 +1,7 @@
-{
-  "sfz": [
-    {"region": [
-      {"sample": "..\\..\\samples\\bd.wav"},
-      {"direction": "reverse"},
-      {"offset": 24307}
-    ]}
-  ]
-}
+[
+  {"region": [
+    {"sample": "..\\..\\samples\\bd.wav"},
+    {"direction": "reverse"},
+    {"offset": 24307}
+  ]}
+]

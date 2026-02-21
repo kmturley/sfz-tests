@@ -1,18 +1,16 @@
-{
-  "sfz": [
-    {"group": [
-      {"sample": "..\\..\\samples\\440.wav"},
-      {"loop_start": 12629},
-      {"loop_end": 56728},
-      {"loop_mode": "loop_continuous"}
-    ]},
-    {"region": [
-      {"hikey": "b3"},
-      {"amp_veltrack": 0}
-    ]},
-    {"region": [
-      {"lokey": "c4"},
-      {"amp_veltrack": -100}
-    ]}
-  ]
-}
+[
+  {"group": [
+    {"sample": "..\\..\\samples\\440.wav"},
+    {"loop_start": 12629},
+    {"loop_end": 56728},
+    {"loop_mode": "loop_continuous"}
+  ]},
+  {"region": [
+    {"hikey": "b3"},
+    {"amp_veltrack": 0}
+  ]},
+  {"region": [
+    {"lokey": "c4"},
+    {"amp_veltrack": -100}
+  ]}
+]

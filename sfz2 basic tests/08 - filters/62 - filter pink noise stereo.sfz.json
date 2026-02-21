@@ -1,9 +1,7 @@
-{
-  "sfz": [
-    {"region": [
-      {"sample": "..\\..\\samples\\noise stereo.wav"},
-      {"loop_mode": "loop_continuous"},
-      {"fil_type": "pink"}
-    ]}
-  ]
-}
+[
+  {"region": [
+    {"sample": "..\\..\\samples\\noise stereo.wav"},
+    {"loop_mode": "loop_continuous"},
+    {"fil_type": "pink"}
+  ]}
+]

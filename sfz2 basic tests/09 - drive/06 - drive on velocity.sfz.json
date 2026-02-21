@@ -1,9 +1,7 @@
-{
-  "sfz": [
-    {"region": [
-      {"sample": "..\\..\\samples\\two tone.wav"},
-      {"loop_mode": "loop_continuous"},
-      {"drive_shape_oncc131": 100}
-    ]}
-  ]
-}
+[
+  {"region": [
+    {"sample": "..\\..\\samples\\two tone.wav"},
+    {"loop_mode": "loop_continuous"},
+    {"drive_shape_oncc131": 100}
+  ]}
+]
