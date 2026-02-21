@@ -1,5 +1,5 @@
 {
-  "headers": [
+  "sfz": [
     {"region": [
       {"sample": "..\\..\\samples\\Mono_16_44100.wav"},
       {"fil_type": "lpf_2p"},

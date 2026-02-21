@@ -1,4 +1,4 @@
-headers:
+sfz:
   - region:
       - sample: ..\..\samples\sweep.wav
       - pitch_keytrack: 0

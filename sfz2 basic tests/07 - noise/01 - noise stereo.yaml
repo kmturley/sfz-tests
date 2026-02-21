@@ -1,4 +1,4 @@
-headers:
+sfz:
   - region:
       - sample: ..\..\samples\stereo silence.wav
       - amp_veltrack: 0

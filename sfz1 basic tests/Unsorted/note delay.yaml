@@ -1,4 +1,4 @@
-headers:
+sfz:
   - region:
       - sample: 440.wav
       - loopstart: 12629

@@ -1,5 +1,5 @@
 {
-  "headers": [
+  "sfz": [
     {"group": [
       {"sample": "*silence"},
       {"loop_start": 1},

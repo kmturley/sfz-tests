@@ -1,5 +1,5 @@
 {
-  "headers": [
+  "sfz": [
     {"region": [
       {"sample": "..\\..\\samples\\110.wav"},
       {"loopstart": 11227},

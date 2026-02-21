@@ -1,4 +1,4 @@
-headers:
+sfz:
   - region:
       - volume: -6
       - sample: '*sine'

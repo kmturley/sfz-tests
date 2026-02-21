@@ -1,5 +1,5 @@
 {
-  "headers": [
+  "sfz": [
     {"region": [
       {"sample": "..\\..\\samples\\loop.wav"},
       {"sync_beats": 4},

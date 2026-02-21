@@ -1,4 +1,4 @@
-headers:
+sfz:
   - group:
       - sample: ..\..\samples\noise.wav
       - loopmode: loop_continuous

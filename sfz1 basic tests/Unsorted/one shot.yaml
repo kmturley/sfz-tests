@@ -1,4 +1,4 @@
-headers:
+sfz:
   - region:
       - sample: ..\..\samples\noise.wav
       - loopmode: one_shot

@@ -1,4 +1,4 @@
-headers:
+sfz:
   - region:
       - sample: ..\..\samples\110.wav
       - loop_start: 10825

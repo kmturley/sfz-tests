@@ -1,5 +1,5 @@
 {
-  "headers": [
+  "sfz": [
     {"group": [
       {"sample": "..\\..\\samples\\440.wav"},
       {"loop_start": 12629},

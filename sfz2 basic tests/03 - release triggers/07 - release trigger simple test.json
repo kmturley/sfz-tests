@@ -1,5 +1,5 @@
 {
-  "headers": [
+  "sfz": [
     {"region": [
       {"key": "c4"},
       {"sample": "..\\..\\samples\\noise.wav"}

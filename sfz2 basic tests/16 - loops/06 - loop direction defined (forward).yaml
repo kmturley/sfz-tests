@@ -1,4 +1,4 @@
-headers:
+sfz:
   - region:
       - sample: ..\..\samples\stereo looped 1k.wav
       - loop_mode: loop_continuous

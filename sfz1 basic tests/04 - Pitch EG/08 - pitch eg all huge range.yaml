@@ -1,4 +1,4 @@
-headers:
+sfz:
   - region:
       - sample: '*sine'
       - pitcheg_delay: 0.5

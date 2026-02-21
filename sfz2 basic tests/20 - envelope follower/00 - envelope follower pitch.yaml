@@ -1,4 +1,4 @@
-headers:
+sfz:
   - region:
       - sample: ..\..\samples\fade out.wav
       - eg01_followattack: 0

@@ -1,4 +1,4 @@
-headers:
+sfz:
   - region:
       - sample: ..\..\samples\mono 400 looped.wav
       - drive_shape: 100

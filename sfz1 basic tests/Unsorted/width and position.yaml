@@ -1,4 +1,4 @@
-headers:
+sfz:
   - region:
       - sample: ..\..\samples\Stereo_16_44100.wav
       - pitch_keytrack: 0

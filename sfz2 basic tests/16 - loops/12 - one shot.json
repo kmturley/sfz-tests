@@ -1,5 +1,5 @@
 {
-  "headers": [
+  "sfz": [
     {"region": [
       {"sample": "..\\..\\samples\\sweep.wav"},
       {"volume": -6},

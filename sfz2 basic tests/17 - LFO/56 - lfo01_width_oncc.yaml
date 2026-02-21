@@ -1,4 +1,4 @@
-headers:
+sfz:
   - region:
       - sample: ..\..\samples\only l.wav
       - loop_mode: loop_continuous

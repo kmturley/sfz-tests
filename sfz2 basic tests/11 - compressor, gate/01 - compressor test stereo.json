@@ -1,5 +1,5 @@
 {
-  "headers": [
+  "sfz": [
     {"region": [
       {"sample": "..\\..\\samples\\compressor test stereo.wav"},
       {"loop_mode": "loop_continuous"},

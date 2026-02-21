@@ -1,4 +1,4 @@
-headers:
+sfz:
   - region:
       - sample: ..\..\samples\sweep test stereo.wav
       - loop_mode: one_shot

@@ -1,4 +1,4 @@
-headers:
+sfz:
   - region:
       - sample: ..\..\samples\stereo 400 looped.wav
       - drive_shape_oncc73: 100

@@ -1,4 +1,4 @@
-headers:
+sfz:
   - group:
       - sample: ..\..\samples\440.wav
   - region:

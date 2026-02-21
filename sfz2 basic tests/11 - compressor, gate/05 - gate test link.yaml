@@ -1,4 +1,4 @@
-headers:
+sfz:
   - region:
       - sample: ..\..\samples\compressor test link.wav
       - loop_mode: loop_continuous

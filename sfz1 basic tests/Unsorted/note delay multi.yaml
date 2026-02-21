@@ -1,4 +1,4 @@
-headers:
+sfz:
   - region:
       - sample: ..\..\samples\440.wav
       - ampeg_hold: 0.25
