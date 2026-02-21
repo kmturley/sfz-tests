@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\mono silence.wav" />
+	<opcode name="amp_veltrack" value="0" />
+	<opcode name="noise_filter" value="pink" />
+	<opcode name="noise_level" value="-48" />
+	<opcode name="noise_step" value="0" />
+	<opcode name="noise_tone" value="100" />
+	<opcode name="noise_level_oncc73" value="48" />
+	<opcode name="noise_level_smoothcc73" value="1" />
+	<opcode name="noise_level_oncc70" value="48" />
+	<opcode name="noise_level_smoothcc70" value="100" />
+	<opcode name="noise_level_oncc20" value="48" />
+	<opcode name="noise_level_stepcc20" value="24" />
+	<opcode name="noise_level_oncc21" value="48" />
+	<opcode name="noise_level_smoothcc21" value="500" />
+	<opcode name="noise_level_oncc129" value="48" />
+	<opcode name="noise_level_smoothcc129" value="200" />
+</region>

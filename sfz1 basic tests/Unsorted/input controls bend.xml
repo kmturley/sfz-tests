@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="lobend" value="1" />
+	<opcode name="hibend" value="8192" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\110.wav" />
+	<opcode name="lobend" value="-8192" />
+	<opcode name="hibend" value="-1" />
+</region>

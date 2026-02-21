@@ -1,0 +1,11 @@
+headers:
+  - region:
+      - sample: ..\..\samples\noise.wav
+      - loop_mode: loop_continuous
+      - eq1_freq: 200
+      - eq1_freq_oncc73: 2400
+      - eq1_bw: 1
+      - eq1_bw_oncc70: 1
+      - eq1_gain: 6
+      - eq1_gain_oncc20: 18
+

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="lokey" value="60" />
+	<opcode name="sw_lokey" value="48" />
+	<opcode name="sw_hikey" value="52" />
+	<opcode name="sw_last" value="c3" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\110.wav" />
+	<opcode name="lokey" value="60" />
+	<opcode name="sw_lokey" value="48" />
+	<opcode name="sw_hikey" value="52" />
+	<opcode name="sw_last" value="49" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\noise.wav" />
+	<opcode name="lokey" value="60" />
+	<opcode name="sw_lokey" value="48" />
+	<opcode name="sw_hikey" value="52" />
+	<opcode name="sw_last" value="50" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\bd.wav" />
+	<opcode name="lokey" value="60" />
+	<opcode name="sw_lokey" value="48" />
+	<opcode name="sw_hikey" value="52" />
+	<opcode name="sw_last" value="51" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\hh.wav" />
+	<opcode name="lokey" value="60" />
+	<opcode name="sw_lokey" value="48" />
+	<opcode name="sw_hikey" value="52" />
+	<opcode name="sw_last" value="52" />
+</region>

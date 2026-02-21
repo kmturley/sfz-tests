@@ -1,0 +1,5 @@
+headers:
+  - region:
+      - sample: ..\..\samples\440.wav
+      - pitch_oncc135: 1200
+

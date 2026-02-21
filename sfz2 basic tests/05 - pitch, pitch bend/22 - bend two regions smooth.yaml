@@ -1,0 +1,14 @@
+headers:
+  - group:
+      - sample: ..\..\samples\440.wav
+      - loop_start: 12629
+      - loop_end: 56728
+      - loop_mode: loop_continuous
+      - bend_smooth: 50
+  - region:
+      - bend_up: 1200
+      - bend_down: -1200
+  - region:
+      - bend_up: -1200
+      - bend_down: 1200
+

@@ -1,0 +1,9 @@
+{
+  "headers": [
+    {"region": [
+      {"sample": "..\\..\\samples\\noise.wav"},
+      {"loopmode": "one_shot"},
+      {"pitch_keytrack": 0}
+    ]}
+  ]
+}

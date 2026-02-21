@@ -1,0 +1,18 @@
+headers:
+  - group:
+      - sample: ..\..\samples\440.wav
+      - loop_start: 12629
+      - loop_end: 56728
+      - loop_mode: loop_continuous
+      - bend_up: 0
+      - bend_down: 0
+  - region: []
+  - region:
+      - pitch_oncc73: 1200
+      - pitch_curvecc73: 7
+  - curve:
+      - v000: -1
+      - v064: -1
+      - v065: 1
+      - v127: 1
+

@@ -1,0 +1,14 @@
+{
+  "headers": [
+    {"region": [
+      {"sample": "..\\..\\samples\\440.wav"},
+      {"loop_start": 12629},
+      {"loop_end": 56728},
+      {"loop_mode": "loop_continuous"},
+      {"pitch_keytrack": 0},
+      {"amp_veltrack": 0},
+      {"pan_keycenter": "c4"},
+      {"pan_keytrack": 8.33}
+    ]}
+  ]
+}

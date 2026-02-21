@@ -1,0 +1,12 @@
+{
+  "headers": [
+    {"region": [
+      {"sample": "..\\..\\samples\\noise.wav"},
+      {"loopmode": "loop_continuous"},
+      {"fillfo_freq": 1},
+      {"fillfo_depth": 2100},
+      {"cutoff": 500},
+      {"resonance": 20}
+    ]}
+  ]
+}

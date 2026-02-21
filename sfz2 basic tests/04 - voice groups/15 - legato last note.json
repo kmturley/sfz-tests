@@ -1,0 +1,9 @@
+{
+  "headers": [
+    {"region": [
+      {"sample": "..\\..\\samples\\mono 400 looped.wav"},
+      {"polyphony": "legato_last"},
+      {"lokey": "c4"}
+    ]}
+  ]
+}

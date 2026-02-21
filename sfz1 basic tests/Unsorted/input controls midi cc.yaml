@@ -1,0 +1,8 @@
+headers:
+  - region:
+      - sample: ..\..\samples\440.wav
+      - locc74: 64
+      - hicc74: 90
+      - locc1: 0
+      - hicc1: 30
+

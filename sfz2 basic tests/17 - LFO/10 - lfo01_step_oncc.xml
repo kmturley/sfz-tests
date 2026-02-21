@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="loop_mode" value="loop_continuous" />
+	<opcode name="loop_start" value="12629" />
+	<opcode name="loop_end" value="56728" />
+	<opcode name="volume" value="-6" />
+	<opcode name="amp_veltrack" value="0" />
+	<opcode name="lfo01_steps" value="10" />
+	<opcode name="lfo01_freq" value="1" />
+	<opcode name="lfo01_pitch" value="1200" />
+	<opcode name="lfo01_step01_oncc73" value="100" />
+	<opcode name="lfo01_step01_smoothcc73" value="400" />
+	<opcode name="lfo01_step02_oncc73" value="-50" />
+	<opcode name="lfo01_step03_on" value="100" />
+	<opcode name="lfo01_step04_on" value="-100" />
+	<opcode name="lfo01_step05_on" value="20" />
+	<opcode name="lfo01_step06_on" value="-20" />
+	<opcode name="lfo01_step07_oncc73" value="60" />
+	<opcode name="lfo01_step08_oncc73" value="-60" />
+	<opcode name="lfo01_step09_oncc73" value="2" />
+	<opcode name="lfo01_step10_oncc73" value="-2" />
+</region>

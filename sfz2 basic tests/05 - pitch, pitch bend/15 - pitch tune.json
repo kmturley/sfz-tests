@@ -1,0 +1,13 @@
+{
+  "headers": [
+    {"group": [
+      {"sample": "..\\..\\samples\\440.wav"}
+    ]},
+    {"region": [
+    ]},
+    {"region": [
+      {"tune": 100},
+      {"transpose": -1}
+    ]}
+  ]
+}

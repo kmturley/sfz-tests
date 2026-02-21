@@ -1,0 +1,12 @@
+{
+  "headers": [
+    {"region": [
+      {"sample": "..\\..\\samples\\sweep.wav"},
+      {"loop_start": 9460},
+      {"loop_end": 33857},
+      {"loop_mode": "loop_sustain"},
+      {"pitch_keytrack": 0},
+      {"ampeg_release": 10}
+    ]}
+  ]
+}

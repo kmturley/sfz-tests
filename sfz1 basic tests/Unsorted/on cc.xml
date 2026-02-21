@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\bd.wav" />
+	<opcode name="lokey" value="-1" />
+	<opcode name="hikey" value="-1" />
+	<opcode name="on_locc64" value="127" />
+	<opcode name="on_hicc64" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\hh.wav" />
+	<opcode name="lokey" value="-1" />
+	<opcode name="hikey" value="-1" />
+	<opcode name="on_locc64" value="0" />
+	<opcode name="on_hicc64" value="0" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\bd.wav" />
+	<opcode name="lokey" value="-1" />
+	<opcode name="hikey" value="-1" />
+	<opcode name="on_locc1" value="0" />
+	<opcode name="on_hicc1" value="0" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\hh.wav" />
+	<opcode name="lokey" value="-1" />
+	<opcode name="hikey" value="-1" />
+	<opcode name="on_locc1" value="64" />
+	<opcode name="on_hicc1" value="127" />
+</region>

@@ -1,0 +1,7 @@
+headers:
+  - region:
+      - sample: ..\..\samples\mono 400 10s with 3 loops.wav
+      - loop_tune01: 100
+      - loop_tune02: 500
+      - loop_tune03: 1200
+

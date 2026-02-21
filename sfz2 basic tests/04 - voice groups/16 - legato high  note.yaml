@@ -1,0 +1,6 @@
+headers:
+  - region:
+      - sample: ..\..\samples\mono 400 looped.wav
+      - polyphony: legato_high
+      - lokey: c4
+

@@ -1,0 +1,11 @@
+{
+  "headers": [
+    {"region": [
+      {"sample": "..\\..\\samples\\noise.wav"},
+      {"cutoff": 500},
+      {"resonance": 40},
+      {"volume": -6},
+      {"loopmode": "loop_continuous"}
+    ]}
+  ]
+}

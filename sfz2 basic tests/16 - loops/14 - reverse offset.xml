@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\bd.wav" />
+	<opcode name="direction" value="reverse" />
+	<opcode name="offset" value="24307" />
+</region>

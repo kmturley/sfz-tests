@@ -1,0 +1,25 @@
+headers:
+  - group:
+      - sample: ..\..\samples\noise.wav
+      - loop_mode: loop_continuous
+      - pitch_keytrack: 0
+      - resonance: 30
+      - cutoff: 100
+      - amp_veltrack: 0
+      - volume: -6
+  - region:
+      - cutoff_oncc73: 9600
+      - cutoff_smoothcc73: 1
+      - cutoff_oncc70: 9600
+      - cutoff_smoothcc70: 100
+      - cutoff_curvecc70: 1
+      - cutoff_oncc20: 9600
+      - cutoff_stepcc20: 1200
+      - cutoff_oncc21: 9600
+      - cutoff_smoothcc21: 500
+      - cutoff_oncc129: 9600
+      - cutoff_smoothcc129: 200
+  - curve:
+      - v000: 1
+      - v127: 0
+

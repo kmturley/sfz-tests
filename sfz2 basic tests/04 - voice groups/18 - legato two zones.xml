@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\mono 400 looped.wav" />
+	<opcode name="group" value="1" />
+	<opcode name="polyphony" value="legato_last" />
+	<opcode name="hikey" value="b3" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\mono 400 looped.wav" />
+	<opcode name="group" value="2" />
+	<opcode name="polyphony" value="legato_last" />
+	<opcode name="lokey" value="c4" />
+</region>

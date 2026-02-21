@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="tune" value="100" />
+	<opcode name="transpose" value="-1" />
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="bendup" value="1200" />
+</region>

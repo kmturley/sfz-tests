@@ -1,0 +1,12 @@
+headers:
+  - region:
+      - sample: '*sine'
+      - pitcheg_delay: 0.5
+      - pitcheg_attack: 1
+      - pitcheg_hold: 0.5
+      - pitcheg_decay: 0.5
+      - pitcheg_sustain: 50
+      - pitcheg_release: 0.5
+      - pitcheg_depth: 2400
+      - ampeg_release: 2
+

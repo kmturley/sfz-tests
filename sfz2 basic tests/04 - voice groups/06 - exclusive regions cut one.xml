@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\110.wav" />
+	<opcode name="loop_start" value="10825" />
+	<opcode name="loop_end" value="32473" />
+	<opcode name="loop_mode" value="loop_continuous" />
+	<opcode name="lokey" value="0" />
+	<opcode name="hikey" value="b3" />
+	<opcode name="group" value="1" />
+</region>
+<group>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="loop_start" value="12629" />
+	<opcode name="loop_end" value="56728" />
+	<opcode name="loop_mode" value="loop_continuous" />
+</group>
+<region>
+	<opcode name="group" value="2" />
+	<opcode name="lokey" value="c4" />
+</region>
+<region>
+	<opcode name="lokey" value="c4" />
+	<opcode name="transpose" value="7" />
+	<opcode name="off_by" value="1" />
+</region>

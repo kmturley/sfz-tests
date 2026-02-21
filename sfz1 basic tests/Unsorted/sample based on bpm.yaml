@@ -1,0 +1,10 @@
+headers:
+  - region:
+      - sample: ..\..\samples\bd.wav
+      - lobpm: 0
+      - hibpm: 100.3
+  - region:
+      - sample: ..\..\samples\hh.wav
+      - lobpm: 100.4
+      - hibpm: 200
+

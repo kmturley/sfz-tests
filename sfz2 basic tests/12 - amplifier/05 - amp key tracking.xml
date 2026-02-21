@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="loop_start" value="12629" />
+	<opcode name="loop_end" value="56728" />
+	<opcode name="loop_mode" value="loop_continuous" />
+	<opcode name="amp_veltrack" value="0" />
+	<opcode name="hikey" value="c5" />
+	<opcode name="amp_keycenter" value="c4" />
+	<opcode name="amp_keytrack" value="1" />
+	<opcode name="volume" value="-10" />
+</region>

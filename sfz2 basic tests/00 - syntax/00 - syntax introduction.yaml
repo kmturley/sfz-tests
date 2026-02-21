@@ -1,0 +1,4 @@
+headers:
+  - region:
+      - sample: ..\..\samples\440.wav
+

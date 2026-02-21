@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="sample" value="..\..\samples\bd.wav" />
+</group>
+<region>
+	<opcode name="transpose" value="0" />
+	<opcode name="lorand" value="0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="transpose" value="3" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="transpose" value="6" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="transpose" value="8" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1" />
+</region>

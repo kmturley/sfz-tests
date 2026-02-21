@@ -1,0 +1,13 @@
+headers:
+  - group:
+      - sample: ..\..\samples\440.wav
+      - loop_start: 12629
+      - loop_end: 56728
+      - loop_mode: loop_continuous
+      - amp_veltrack: 0
+  - region:
+      - hicc73: 64
+      - volume: -24
+  - region:
+      - locc73: 63
+

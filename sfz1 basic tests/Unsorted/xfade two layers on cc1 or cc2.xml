@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\110.wav" />
+	<opcode name="loopstart" value="11227" />
+	<opcode name="loopend" value="31672" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="transpose" value="12" />
+	<opcode name="xfout_locc1" value="0" />
+	<opcode name="xfout_hicc1" value="127" />
+	<opcode name="xfout_locc2" value="0" />
+	<opcode name="xfout_hicc2" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="loopstart" value="12629" />
+	<opcode name="loopend" value="56728" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="xfin_locc1" value="0" />
+	<opcode name="xfin_hicc1" value="127" />
+	<opcode name="xfin_locc2" value="0" />
+	<opcode name="xfin_hicc2" value="127" />
+</region>

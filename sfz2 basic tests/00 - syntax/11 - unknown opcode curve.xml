@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+</region>
+<curve>
+	<opcode name="v000" value="0" />
+	<opcode name="v064" value="0.5" />
+	<opcode name="v127" value="0" />
+	<opcode name="332" value="1" />
+</curve>

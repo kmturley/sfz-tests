@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="volume" value="-6" />
+	<opcode name="sample" value="*tri" />
+	<opcode name="ampeg_release" value="1" />
+</group>
+<region>
+	<opcode name="pan" value="-100" />
+	<opcode name="polyphony_stealing" value="1" />
+	<opcode name="polyphony_group" value="1" />
+	<opcode name="polyphony" value="8" />
+</region>
+<region>
+	<opcode name="pan" value="100" />
+	<opcode name="polyphony_stealing" value="0" />
+	<opcode name="polyphony_group" value="2" />
+	<opcode name="polyphony" value="8" />
+</region>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\noise.wav" />
+	<opcode name="cutoff" value="1000" />
+	<opcode name="resonance" value="40" />
+	<opcode name="ampeg_hold" value="0.1" />
+	<opcode name="ampeg_sustain" value="0" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\noise.wav" />
+	<opcode name="cutoff" value="1000" />
+	<opcode name="resonance" value="40" />
+	<opcode name="ampeg_delay" value="0.4" />
+	<opcode name="ampeg_attack" value="0.02" />
+	<opcode name="ampeg_hold" value="0.1" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="effect1" value="100" />
+</region>

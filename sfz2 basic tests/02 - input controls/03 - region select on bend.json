@@ -1,0 +1,18 @@
+{
+  "headers": [
+    {"group": [
+      {"bend_up": 0},
+      {"bend_down": 0}
+    ]},
+    {"region": [
+      {"sample": "..\\..\\samples\\440.wav"},
+      {"lobend": 1},
+      {"hibend": 8192}
+    ]},
+    {"region": [
+      {"sample": "..\\..\\samples\\110.wav"},
+      {"lobend": -8192},
+      {"hibend": -1}
+    ]}
+  ]
+}

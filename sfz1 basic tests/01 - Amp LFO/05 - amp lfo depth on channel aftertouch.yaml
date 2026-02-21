@@ -1,0 +1,10 @@
+headers:
+  - region:
+      - sample: ..\..\samples\440.wav
+      - loopstart: 12629
+      - loopend: 56728
+      - loopmode: loop_continuous
+      - amplfo_freq: 5
+      - amplfo_depthchanaft: 6
+      - volume: -10
+

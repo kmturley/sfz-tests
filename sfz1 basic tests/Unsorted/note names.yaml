@@ -1,0 +1,18 @@
+headers:
+  - region:
+      - sample: ..\..\samples\440.wav
+      - loopstart: 12629
+      - loopend: 56728
+      - loopmode: loop_continuous
+      - lokey: c4
+      - hikey: c#4
+      - pitch_keycenter: c4
+  - region:
+      - sample: ..\..\samples\440.wav
+      - loopstart: 12629
+      - loopend: 56728
+      - loopmode: loop_continuous
+      - lokey: d4
+      - hikey: d#4
+      - pitch_keycenter: c4
+

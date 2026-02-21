@@ -1,0 +1,9 @@
+headers:
+  - region:
+      - sample: ..\..\samples\sweep.wav
+      - pitch_keytrack: 0
+      - loopmode: loop_sustain
+      - loopstart: 9460
+      - loopend: 33857
+      - ampeg_release: 10
+

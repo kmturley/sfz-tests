@@ -1,0 +1,8 @@
+{
+  "headers": [
+    {"region": [
+      {"sample": "..\\..\\samples\\bd.wav"},
+      {"direction": "reverse"}
+    ]}
+  ]
+}

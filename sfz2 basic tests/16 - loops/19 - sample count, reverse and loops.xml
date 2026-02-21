@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\loop tests - three loops overlap.wav" />
+	<opcode name="count" value="3" />
+	<opcode name="direction" value="reverse" />
+</region>

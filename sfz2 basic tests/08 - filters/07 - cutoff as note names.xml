@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="sample" value="*silence" />
+	<opcode name="loop_start" value="1" />
+	<opcode name="loop_end" value="100" />
+	<opcode name="loop_mode" value="loop_continuous" />
+	<opcode name="noise_filter" value="pink" />
+	<opcode name="noise_level" value="10" />
+	<opcode name="noise_step" value="0" />
+	<opcode name="noise_tone" value="100" />
+	<opcode name="fil_type" value="lpf_2p" />
+	<opcode name="cutoff_oncc150" value="0" />
+	<opcode name="resonance" value="96" />
+</group>
+<region>
+	<opcode name="key" value="c4" />
+	<opcode name="cutoff" value="c4" />
+</region>
+<region>
+	<opcode name="key" value="d4" />
+	<opcode name="cutoff" value="d4" />
+</region>
+<region>
+	<opcode name="key" value="e4" />
+	<opcode name="cutoff" value="e4" />
+</region>
+<region>
+	<opcode name="key" value="f4" />
+	<opcode name="cutoff" value="f4" />
+</region>
+<region>
+	<opcode name="key" value="g4" />
+	<opcode name="cutoff" value="g4" />
+</region>
+<region>
+	<opcode name="key" value="a4" />
+	<opcode name="cutoff" value="a4" />
+</region>
+<region>
+	<opcode name="key" value="b4" />
+	<opcode name="cutoff" value="b4" />
+</region>
+<region>
+	<opcode name="key" value="c5" />
+	<opcode name="cutoff" value="c5" />
+</region>
+<effect>
+	<opcode name="type" value="limiter" />
+</effect>

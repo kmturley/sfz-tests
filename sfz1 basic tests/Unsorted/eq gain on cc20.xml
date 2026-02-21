@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="locc20" value="0" />
+	<opcode name="hicc20" value="20" />
+	<opcode name="sample" value="..\..\samples\noise.wav" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="eq1_freq" value="1000" />
+	<opcode name="eq1_bw" value="0.3" />
+	<opcode name="eq1_gain" value="-12" />
+</region>
+<region>
+	<opcode name="locc20" value="21" />
+	<opcode name="hicc20" value="40" />
+	<opcode name="sample" value="..\..\samples\noise.wav" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="eq1_freq" value="1000" />
+	<opcode name="eq1_bw" value="0.3" />
+	<opcode name="eq1_gain" value="-6" />
+</region>
+<region>
+	<opcode name="locc20" value="41" />
+	<opcode name="hicc20" value="60" />
+	<opcode name="sample" value="..\..\samples\noise.wav" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="eq1_freq" value="1000" />
+	<opcode name="eq1_bw" value="0.3" />
+	<opcode name="eq1_gain" value="0" />
+</region>
+<region>
+	<opcode name="locc20" value="61" />
+	<opcode name="hicc20" value="80" />
+	<opcode name="sample" value="..\..\samples\noise.wav" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="eq1_freq" value="1000" />
+	<opcode name="eq1_bw" value="0.3" />
+	<opcode name="eq1_gain" value="6" />
+</region>
+<region>
+	<opcode name="locc20" value="81" />
+	<opcode name="hicc20" value="100" />
+	<opcode name="sample" value="..\..\samples\noise.wav" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="eq1_freq" value="1000" />
+	<opcode name="eq1_bw" value="0.3" />
+	<opcode name="eq1_gain" value="12" />
+</region>
+<region>
+	<opcode name="locc20" value="101" />
+	<opcode name="hicc20" value="127" />
+	<opcode name="sample" value="..\..\samples\noise.wav" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="eq1_freq" value="1000" />
+	<opcode name="eq1_bw" value="0.3" />
+	<opcode name="eq1_gain" value="18" />
+</region>

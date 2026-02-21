@@ -1,0 +1,10 @@
+headers:
+  - region:
+      - key: c4
+      - sample: ..\..\samples\noise.wav
+  - region:
+      - key: d4
+      - sample: ..\..\samples\hh.wav
+      - trigger: release_key
+      - rt_dead: 'on'
+

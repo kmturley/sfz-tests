@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="locc20" value="0" />
+	<opcode name="hicc20" value="20" />
+	<opcode name="sample" value="..\..\samples\sweep.wav" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="eq1_freq" value="200" />
+	<opcode name="eq1_bw" value="0.1" />
+	<opcode name="eq1_gain" value="6" />
+	<opcode name="eq2_freq" value="800" />
+	<opcode name="eq2_bw" value="0.1" />
+	<opcode name="eq2_gain" value="6" />
+	<opcode name="eq3_freq" value="2000" />
+	<opcode name="eq3_bw" value="0.1" />
+	<opcode name="eq3_gain" value="6" />
+</region>

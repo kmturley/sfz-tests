@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="loop_mode" value="loop_continuous" />
+	<opcode name="loop_start" value="12629" />
+	<opcode name="loop_end" value="56728" />
+	<opcode name="ampeg_release" value="2" />
+	<opcode name="eg10_points" value="6" />
+	<opcode name="eg10_sustain" value="4" />
+	<opcode name="eg10_level0" value="0" />
+	<opcode name="eg10_time0" value="0" />
+	<opcode name="eg10_level1" value="0" />
+	<opcode name="eg10_time1" value="0.5" />
+	<opcode name="eg10_level2" value="1" />
+	<opcode name="eg10_time2" value="1" />
+	<opcode name="eg10_level3" value="1" />
+	<opcode name="eg10_time3" value="1" />
+	<opcode name="eg10_shape3" value=".1" />
+	<opcode name="eg10_level4" value="0.5" />
+	<opcode name="eg10_time4" value="1" />
+	<opcode name="eg10_level5" value="0" />
+	<opcode name="eg10_time5" value="0" />
+	<opcode name="eg10_freq_lfo10" value="10" />
+	<opcode name="lfo10_freq" value="1" />
+	<opcode name="lfo10_pitch" value="200" />
+</region>

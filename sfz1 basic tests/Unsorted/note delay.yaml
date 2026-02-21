@@ -1,0 +1,8 @@
+headers:
+  - region:
+      - sample: 440.wav
+      - loopstart: 12629
+      - loopend: 56728
+      - loopmode: loop_continuous
+      - delay: 0.5
+

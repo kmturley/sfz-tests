@@ -1,0 +1,24 @@
+headers:
+  - group:
+      - xf_cccurve: gain
+      - sample: ..\..\samples\440.wav
+      - loop_start: 12629
+      - loop_end: 56728
+      - loop_mode: loop_continuous
+      - amp_veltrack: 0
+  - region:
+      - transpose: -24
+      - xfin_locc1: 0
+      - xfin_hicc1: 0
+  - region:
+      - transpose: -12
+      - xfin_locc1: 127
+      - xfin_hicc1: 127
+  - region:
+      - xfout_locc1: 0
+      - xfout_hicc1: 0
+  - region:
+      - transpose: 12
+      - xfout_locc1: 127
+      - xfout_hicc1: 127
+

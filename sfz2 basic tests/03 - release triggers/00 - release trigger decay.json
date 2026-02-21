@@ -1,0 +1,21 @@
+{
+  "headers": [
+    {"region": [
+      {"sample": "..\\..\\samples\\440.wav"},
+      {"loop_start": 12629},
+      {"loop_end": 56728},
+      {"loop_mode": "loop_continuous"}
+    ]},
+    {"region": [
+      {"sample": "..\\..\\samples\\110.wav"},
+      {"loop_start": 10825},
+      {"loop_end": 32473},
+      {"loop_mode": "loop_continuous"},
+      {"trigger": "release"},
+      {"rt_decay": 20},
+      {"ampeg_attack": 0.4},
+      {"ampeg_decay": 0.4},
+      {"ampeg_sustain": 0}
+    ]}
+  ]
+}

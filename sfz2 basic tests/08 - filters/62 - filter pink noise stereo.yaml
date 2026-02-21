@@ -1,0 +1,6 @@
+headers:
+  - region:
+      - sample: ..\..\samples\noise stereo.wav
+      - loop_mode: loop_continuous
+      - fil_type: pink
+

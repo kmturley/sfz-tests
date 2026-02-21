@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="loopstart" value="12629" />
+	<opcode name="loopend" value="56728" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="seq_position" value="1" />
+	<opcode name="seq_length" value="3" />
+	<opcode name="hikey" value="60" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="loopstart" value="12629" />
+	<opcode name="loopend" value="56728" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="transpose" value="2" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="seq_length" value="3" />
+	<opcode name="hikey" value="60" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="loopstart" value="12629" />
+	<opcode name="loopend" value="56728" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="transpose" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="seq_length" value="3" />
+	<opcode name="hikey" value="60" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="loopstart" value="12629" />
+	<opcode name="loopend" value="56728" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="seq_position" value="1" />
+	<opcode name="seq_length" value="3" />
+	<opcode name="lokey" value="61" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="loopstart" value="12629" />
+	<opcode name="loopend" value="56728" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="transpose" value="2" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="seq_length" value="3" />
+	<opcode name="lokey" value="61" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="loopstart" value="12629" />
+	<opcode name="loopend" value="56728" />
+	<opcode name="loopmode" value="loop_continuous" />
+	<opcode name="transpose" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="seq_length" value="3" />
+	<opcode name="lokey" value="61" />
+</region>

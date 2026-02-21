@@ -1,0 +1,12 @@
+headers:
+  - region:
+      - sample: ..\..\samples\mono 400 looped.wav
+      - group: 1
+      - polyphony: legato_last
+      - hikey: b3
+  - region:
+      - sample: ..\..\samples\mono 400 looped.wav
+      - group: 2
+      - polyphony: legato_last
+      - lokey: c4
+

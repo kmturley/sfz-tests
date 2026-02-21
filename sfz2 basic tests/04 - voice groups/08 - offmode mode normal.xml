@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\noise.wav" />
+	<opcode name="loop_mode" value="loop_continuous" />
+	<opcode name="pitch_keytrack" value="0" />
+	<opcode name="ampeg_release" value="5" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="off_by" value="1" />
+	<opcode name="off_mode" value="normal" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="lokey" value="0" />
+	<opcode name="hikey" value="59" />
+	<opcode name="group" value="1" />
+</region>

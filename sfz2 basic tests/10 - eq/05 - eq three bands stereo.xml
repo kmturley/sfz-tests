@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\sweep test stereo.wav" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="amp_veltrack" value="0" />
+	<opcode name="pitch_keytrack" value="0" />
+	<opcode name="eq1_freq" value="400" />
+	<opcode name="eq1_bw" value="0.5" />
+	<opcode name="eq1_gain" value="12" />
+	<opcode name="eq2_freq" value="1000" />
+	<opcode name="eq2_bw" value="0.5" />
+	<opcode name="eq2_gain" value="12" />
+	<opcode name="eq3_freq" value="4000" />
+	<opcode name="eq3_bw" value="0.5" />
+	<opcode name="eq3_gain" value="12" />
+</region>

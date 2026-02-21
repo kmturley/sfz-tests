@@ -1,0 +1,12 @@
+headers:
+  - region:
+      - sample: ..\..\samples\440.wav
+      - loop_start: 12629
+      - loop_end: 56728
+      - loop_mode: loop_continuous
+      - amp_veltrack: 0
+      - xfin_lokey: c3
+      - xfin_hikey: c4
+      - xfout_lokey: c5
+      - xfout_hikey: c6
+

@@ -1,0 +1,9 @@
+{
+  "headers": [
+    {"region": [
+      {"sample": "..\\..\\samples\\loop tests - three loops overlap.wav"},
+      {"count": 3},
+      {"direction": "reverse"}
+    ]}
+  ]
+}

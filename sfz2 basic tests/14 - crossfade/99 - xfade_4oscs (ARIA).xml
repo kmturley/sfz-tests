@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="xf_cccurve" value="gain" />
+</group>
+<region>
+	<opcode name="sample" value="*sine" />
+	<opcode name="xfout_locc1" value="0" />
+	<opcode name="xfout_hicc1" value="42" />
+</region>
+<region>
+	<opcode name="sample" value="*tri" />
+	<opcode name="xfin_locc1" value="0" />
+	<opcode name="xfin_hicc1" value="42" />
+	<opcode name="xfout_locc1" value="42" />
+	<opcode name="xfout_hicc1" value="86" />
+</region>
+<region>
+	<opcode name="sample" value="*square" />
+	<opcode name="xfin_locc1" value="42" />
+	<opcode name="xfin_hicc1" value="86" />
+	<opcode name="xfout_locc1" value="86" />
+	<opcode name="xfout_hicc1" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="*saw" />
+	<opcode name="xfin_locc1" value="86" />
+	<opcode name="xfin_hicc1" value="127" />
+</region>

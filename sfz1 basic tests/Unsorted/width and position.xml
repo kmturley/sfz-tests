@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\Stereo_16_44100.wav" />
+	<opcode name="pitch_keytrack" value="0" />
+	<opcode name="amp_veltrack" value="0" />
+	<opcode name="width" value="0" />
+	<opcode name="position" value="0" />
+	<opcode name="lokey" value="60" />
+	<opcode name="hikey" value="61" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\Stereo_16_44100.wav" />
+	<opcode name="pitch_keytrack" value="0" />
+	<opcode name="amp_veltrack" value="0" />
+	<opcode name="width" value="100" />
+	<opcode name="position" value="0" />
+	<opcode name="lokey" value="62" />
+	<opcode name="hikey" value="63" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\Stereo_16_44100.wav" />
+	<opcode name="pitch_keytrack" value="0" />
+	<opcode name="amp_veltrack" value="0" />
+	<opcode name="width" value="0" />
+	<opcode name="position" value="100" />
+	<opcode name="lokey" value="64" />
+	<opcode name="hikey" value="64" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\Stereo_16_44100.wav" />
+	<opcode name="pitch_keytrack" value="0" />
+	<opcode name="amp_veltrack" value="0" />
+	<opcode name="width" value="0" />
+	<opcode name="position" value="-100" />
+	<opcode name="lokey" value="65" />
+	<opcode name="hikey" value="66" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\Stereo_16_44100.wav" />
+	<opcode name="pitch_keytrack" value="0" />
+	<opcode name="amp_veltrack" value="0" />
+	<opcode name="width" value="50" />
+	<opcode name="position" value="50" />
+	<opcode name="lokey" value="67" />
+	<opcode name="hikey" value="68" />
+</region>
+<region>
+	<opcode name="sample" value="..\..\samples\Stereo_16_44100.wav" />
+	<opcode name="pitch_keytrack" value="0" />
+	<opcode name="amp_veltrack" value="0" />
+	<opcode name="width" value="50" />
+	<opcode name="position" value="-50" />
+	<opcode name="lokey" value="69" />
+	<opcode name="hikey" value="70" />
+</region>

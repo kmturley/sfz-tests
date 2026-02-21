@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\mono silence.wav" />
+	<opcode name="loop_mode" value="loop_continuous" />
+	<opcode name="amp_veltrack" value="0" />
+	<opcode name="lfo01_freq" value="2" />
+	<opcode name="lfo01_noiselevel_oncc73" value="12" />
+	<opcode name="lfo01_noiselevel_oncc70" value="12" />
+	<opcode name="lfo01_noiselevel_smoothcc70" value="100" />
+	<opcode name="lfo01_noiselevel_oncc20" value="12" />
+	<opcode name="lfo01_noiselevel_stepcc20" value="6.1" />
+	<opcode name="lfo01_noiselevel_oncc21" value="12" />
+	<opcode name="lfo01_noiselevel_smoothcc21" value="1000" />
+	<opcode name="lfo01_noiselevel_oncc129" value="12" />
+	<opcode name="lfo01_noiselevel_smoothcc129" value="500" />
+</region>

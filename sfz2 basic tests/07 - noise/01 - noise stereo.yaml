@@ -1,0 +1,10 @@
+headers:
+  - region:
+      - sample: ..\..\samples\stereo silence.wav
+      - amp_veltrack: 0
+      - noise_stereo: 'on'
+      - noise_filter: pink
+      - noise_level: 10
+      - noise_step: 0
+      - noise_tone: 100
+

@@ -1,0 +1,16 @@
+headers:
+  - region:
+      - sample: ..\..\samples\noise.wav
+      - loopmode: loop_continuous
+      - pitch_keytrack: 0
+      - lokey: 60
+      - hikey: 127
+      - ampeg_release: 10
+      - offby: 1
+      - offmode: fast
+  - region:
+      - sample: ..\..\samples\440.wav
+      - lokey: 0
+      - hikey: 59
+      - group: 1
+

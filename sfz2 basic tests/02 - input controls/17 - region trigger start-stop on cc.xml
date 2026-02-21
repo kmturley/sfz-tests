@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="lokey" value="-1" />
+	<opcode name="hikey" value="-1" />
+	<opcode name="sample" value="..\..\samples\440.ogg" />
+	<opcode name="loop_start" value="12629" />
+	<opcode name="loop_end" value="56728" />
+	<opcode name="loop_mode" value="loop_continuous" />
+</group>
+<region>
+	<opcode name="start_locc64" value="127" />
+	<opcode name="start_hicc64" value="127" />
+</region>
+<region>
+	<opcode name="stop_locc64" value="0" />
+	<opcode name="stop_hicc64" value="0" />
+</region>

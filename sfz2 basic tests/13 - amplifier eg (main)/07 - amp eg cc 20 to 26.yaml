@@ -1,0 +1,16 @@
+headers:
+  - region:
+      - sample: ..\..\samples\440.wav
+      - loop_start: 12629
+      - loop_end: 56728
+      - loop_mode: loop_continuous
+      - amp_veltrack: 0
+      - ampeg_delay_oncc20: 10
+      - ampeg_start_oncc21: 100
+      - ampeg_attack_oncc22: 10
+      - ampeg_hold_oncc23: 10
+      - ampeg_decay_oncc24: 10
+      - ampeg_sustain: 0
+      - ampeg_sustain_oncc25: 100
+      - ampeg_release_oncc26: 10
+

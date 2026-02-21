@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="amp_velcurve_20" value="0.5" />
+	<opcode name="amp_velcurve_90" value="0.85" />
+</region>

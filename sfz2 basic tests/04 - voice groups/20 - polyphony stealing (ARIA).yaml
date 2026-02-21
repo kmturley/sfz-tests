@@ -1,0 +1,16 @@
+headers:
+  - group:
+      - volume: -6
+      - sample: '*tri'
+      - ampeg_release: 1
+  - region:
+      - pan: -100
+      - polyphony_stealing: 1
+      - polyphony_group: 1
+      - polyphony: 8
+  - region:
+      - pan: 100
+      - polyphony_stealing: 0
+      - polyphony_group: 2
+      - polyphony: 8
+

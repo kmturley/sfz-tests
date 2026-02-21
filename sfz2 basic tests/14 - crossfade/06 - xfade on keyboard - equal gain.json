@@ -1,0 +1,20 @@
+{
+  "headers": [
+    {"group": [
+      {"sample": "..\\..\\samples\\440.wav"},
+      {"loop_start": 12629},
+      {"loop_end": 56728},
+      {"loop_mode": "loop_continuous"},
+      {"amp_veltrack": 0},
+      {"xf_keycurve": "gain"}
+    ]},
+    {"region": [
+      {"xfin_lokey": "c4"},
+      {"xfin_hikey": "c#5"}
+    ]},
+    {"region": [
+      {"xfout_lokey": "c4"},
+      {"xfout_hikey": "c#5"}
+    ]}
+  ]
+}

@@ -1,0 +1,16 @@
+headers:
+  - region:
+      - sample: ..\..\samples\noise.wav
+      - cutoff: 200
+      - resonance: 40
+      - loopmode: loop_continuous
+      - fil_keycenter: 60
+      - fil_keytrack: 100
+  - region:
+      - sample: ..\..\samples\noise.wav
+      - cutoff: 200
+      - resonance: 40
+      - loopmode: loop_continuous
+      - fil_keycenter: 72
+      - fil_keytrack: 100
+

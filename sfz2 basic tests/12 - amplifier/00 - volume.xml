@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="loop_start" value="12629" />
+	<opcode name="loop_end" value="56728" />
+	<opcode name="loop_mode" value="loop_continuous" />
+	<opcode name="amp_veltrack" value="0" />
+</group>
+<region>
+	<opcode name="hicc73" value="64" />
+	<opcode name="volume" value="-24" />
+</region>
+<region>
+	<opcode name="locc73" value="63" />
+</region>

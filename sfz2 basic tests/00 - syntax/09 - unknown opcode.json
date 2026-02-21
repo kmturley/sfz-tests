@@ -1,0 +1,9 @@
+{
+  "headers": [
+    {"region": [
+      {"sample": "..\\..\\samples\\440.wav"},
+      {"engine_color": "organic"},
+      {"engine_tone": "warm"}
+    ]}
+  ]
+}

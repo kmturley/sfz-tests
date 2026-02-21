@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\noise.wav" />
+	<opcode name="cutoff" value="500" />
+	<opcode name="resonance" value="40" />
+	<opcode name="volume" value="-6" />
+	<opcode name="loopmode" value="loop_continuous" />
+</region>

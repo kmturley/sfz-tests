@@ -1,0 +1,8 @@
+headers:
+  - region:
+      - tune: 100
+      - transpose: -1
+      - sample: ..\..\samples\440.wav
+      - loop_mode: loop_continuous
+      - bend_up: 1200
+

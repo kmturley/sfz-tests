@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\noise.wav" />
+	<opcode name="loop_mode" value="loop_continuous" />
+	<opcode name="cutoff" value="1000" />
+	<opcode name="resonance" value="10" />
+	<opcode name="amp_veltrack" value="0" />
+	<opcode name="lfo01_freq" value="2" />
+	<opcode name="lfo01_cutoff_oncc73" value="4800" />
+	<opcode name="lfo01_cutoff_oncc70" value="4800" />
+	<opcode name="lfo01_cutoff_smoothcc70" value="100" />
+	<opcode name="lfo01_cutoff_oncc20" value="4800" />
+	<opcode name="lfo01_cutoff_stepcc20" value="1200" />
+	<opcode name="lfo01_cutoff_oncc21" value="4800" />
+	<opcode name="lfo01_cutoff_smoothcc21" value="1000" />
+	<opcode name="lfo01_cutoff_oncc129" value="4800" />
+	<opcode name="lfo01_cutoff_smoothcc129" value="500" />
+</region>

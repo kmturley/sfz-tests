@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\noise.wav" />
+	<opcode name="loop_mode" value="loop_continuous" />
+	<opcode name="volume" value="-6" />
+	<opcode name="eq1_gain" value="18" />
+	<opcode name="eq2_gain" value="18" />
+	<opcode name="eq3_gain" value="18" />
+	<opcode name="eq1_freq" value="100" />
+	<opcode name="eq2_freq" value="400" />
+	<opcode name="eq3_freq" value="800" />
+	<opcode name="lfo01_freq" value="2" />
+	<opcode name="lfo01_eq1freq_oncc73" value="200" />
+	<opcode name="lfo01_eq1freq_oncc70" value="200" />
+	<opcode name="lfo01_eq1freq_smoothcc70" value="100" />
+	<opcode name="lfo01_eq1freq_oncc20" value="200" />
+	<opcode name="lfo01_eq1freq_stepcc20" value="51" />
+	<opcode name="lfo01_eq1freq_oncc21" value="200" />
+	<opcode name="lfo01_eq1freq_smoothcc21" value="1000" />
+	<opcode name="lfo01_eq1freq_oncc129" value="200" />
+	<opcode name="lfo01_eq1freq_smoothcc129" value="500" />
+	<opcode name="lfo01_eq2freq_oncc73" value="800" />
+	<opcode name="lfo01_eq2freq_oncc70" value="800" />
+	<opcode name="lfo01_eq2freq_smoothcc70" value="100" />
+	<opcode name="lfo01_eq2freq_oncc20" value="800" />
+	<opcode name="lfo01_eq2freq_stepcc20" value="401" />
+	<opcode name="lfo01_eq2freq_oncc21" value="800" />
+	<opcode name="lfo01_eq2freq_smoothcc21" value="1000" />
+	<opcode name="lfo01_eq2freq_oncc129" value="800" />
+	<opcode name="lfo01_eq2freq_smoothcc129" value="500" />
+	<opcode name="lfo01_eq3freq_oncc73" value="1600" />
+	<opcode name="lfo01_eq3freq_oncc70" value="1600" />
+	<opcode name="lfo01_eq3freq_smoothcc70" value="100" />
+	<opcode name="lfo01_eq3freq_oncc20" value="1600" />
+	<opcode name="lfo01_eq3freq_stepcc20" value="801" />
+	<opcode name="lfo01_eq3freq_oncc21" value="1600" />
+	<opcode name="lfo01_eq3freq_smoothcc21" value="1000" />
+	<opcode name="lfo01_eq3freq_oncc129" value="1600" />
+	<opcode name="lfo01_eq3freq_smoothcc129" value="500" />
+</region>

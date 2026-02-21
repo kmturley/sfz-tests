@@ -1,0 +1,23 @@
+{
+  "headers": [
+    {"region": [
+      {"sample": "..\\..\\samples\\440.wav"},
+      {"loop_start": 12629},
+      {"loop_end": 56728},
+      {"loop_mode": "loop_continuous"},
+      {"amp_veltrack": 0},
+      {"bitred_oncc73": 100},
+      {"bitred_smoothcc73": 1},
+      {"bitred_oncc70": 100},
+      {"bitred_smoothcc70": 100},
+      {"bitred_oncc20": 100},
+      {"bitred_stepcc20": 10},
+      {"bitred_oncc21": 100},
+      {"bitred_smoothcc21": 500},
+      {"bitred_oncc128": 100},
+      {"bitred_smoothcc128": 100},
+      {"bitred_oncc129": 100},
+      {"bitred_smoothcc129": 100}
+    ]}
+  ]
+}

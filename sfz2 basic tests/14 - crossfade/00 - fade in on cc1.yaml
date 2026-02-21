@@ -1,0 +1,10 @@
+headers:
+  - region:
+      - sample: ..\..\samples\440.wav
+      - loop_start: 12629
+      - loop_end: 56728
+      - loop_mode: loop_continuous
+      - amp_veltrack: 0
+      - xfin_locc1: 0
+      - xfin_hicc1: 127
+

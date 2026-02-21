@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="tune" value="0" />
+	<opcode name="transpose" value="-36" />
+	<opcode name="volume" value="-6" />
+	<opcode name="pan" value="-100" />
+	<opcode name="offset" value="1000" />
+	<opcode name="cutoff" value="1000" />
+</region>
+<region>
+	<opcode name="lokey" value="0" />
+	<opcode name="hikey" value="64" />
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="tune" value="0" />
+	<opcode name="transpose" value="-24" />
+</region>
+<region>
+	<opcode name="lokey" value="0" />
+	<opcode name="hikey" value="64" />
+	<opcode name="lovel" value="64" />
+	<opcode name="hivel" value="127" />
+	<opcode name="sample" value="..\..\samples\440.wav" />
+	<opcode name="tune" value="0" />
+	<opcode name="transpose" value="-12" />
+</region>

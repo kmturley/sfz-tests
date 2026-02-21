@@ -1,0 +1,23 @@
+{
+  "headers": [
+    {"group": [
+      {"sample": "..\\..\\samples\\440.wav"},
+      {"loop_start": 12629},
+      {"loop_end": 56728},
+      {"loop_mode": "loop_continuous"},
+      {"volume": -24}
+    ]},
+    {"region": [
+      {"volume_oncc73": 24},
+      {"volume_smoothcc73": 1},
+      {"volume_oncc70": 24},
+      {"volume_smoothcc70": 100},
+      {"volume_oncc20": 24},
+      {"volume_stepcc20": 4},
+      {"volume_oncc21": 24},
+      {"volume_smoothcc21": 500},
+      {"volume_oncc129": 24},
+      {"volume_smoothcc129": 200}
+    ]}
+  ]
+}

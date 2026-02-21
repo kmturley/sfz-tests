@@ -1,0 +1,6 @@
+headers:
+  - region:
+      - sample: ..\..\samples\bd.wav
+      - direction: reverse
+      - offset: 24307
+

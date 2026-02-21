@@ -1,0 +1,5 @@
+headers:
+  - region:
+      - sample: ..\..\samples\sweep.wav
+      - offset_oncc135: 88200
+

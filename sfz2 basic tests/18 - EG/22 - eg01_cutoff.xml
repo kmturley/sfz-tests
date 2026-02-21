@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="..\..\samples\noise.wav" />
+	<opcode name="loop_mode" value="loop_continuous" />
+	<opcode name="ampeg_release" value="2" />
+	<opcode name="cutoff" value="440" />
+	<opcode name="resonance" value="20" />
+	<opcode name="eg01_sustain" value="4" />
+	<opcode name="eg01_level0" value="0" />
+	<opcode name="eg01_time0" value="0" />
+	<opcode name="eg01_level1" value="0" />
+	<opcode name="eg01_time1" value="0.5" />
+	<opcode name="eg01_level2" value="1" />
+	<opcode name="eg01_time2" value="1" />
+	<opcode name="eg01_level3" value="1" />
+	<opcode name="eg01_time3" value="1" />
+	<opcode name="eg01_shape3" value=".1" />
+	<opcode name="eg01_level4" value="0.5" />
+	<opcode name="eg01_time4" value="1" />
+	<opcode name="eg01_level5" value="0" />
+	<opcode name="eg01_time5" value="1" />
+	<opcode name="eg01_cutoff" value="2400" />
+</region>

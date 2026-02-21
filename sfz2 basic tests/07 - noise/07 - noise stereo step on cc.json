@@ -1,0 +1,22 @@
+{
+  "headers": [
+    {"region": [
+      {"sample": "..\\..\\samples\\stereo silence.wav"},
+      {"amp_veltrack": 0},
+      {"noise_filter": "pink"},
+      {"noise_level": 0},
+      {"noise_step": 0},
+      {"noise_tone": 100},
+      {"noise_step_oncc73": 100},
+      {"noise_step_smoothcc73": 1},
+      {"noise_step_oncc70": 100},
+      {"noise_step_smoothcc70": 100},
+      {"noise_step_oncc20": 100},
+      {"noise_step_stepcc20": 24},
+      {"noise_step_oncc21": 100},
+      {"noise_step_smoothcc21": 500},
+      {"noise_step_oncc129": 100},
+      {"noise_step_smoothcc129": 200}
+    ]}
+  ]
+}
